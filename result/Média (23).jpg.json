@@ -1,0 +1,1520 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-invoice",
+  "stringIndexType": "textElements",
+  "content": "Relevé de transaction\nS.A.A.Q\n333, boul. Jean-Lesage\nQuébec Qc G1K8J6\nINTERAC Achat\nCompte: DEFAUT FLASH\n16,00 $\n#Carte : ************ 9428\n25-06-12 21:22:22 (Qj 16h 9m )\n#Ref. : 66243123 0010013510 H\n#Aut. : 3D3780\nInterac\nA0000002771010\n0080008000 A000\n00 APPROUVEE - MERCI 001\nTPS: 704421486 TVQ: 1226369097\nIMPORTANT - conserver cette\ncopie pour vos dossiers\nCOPIE CLIENT",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.9867395162582397,
+      "width": 1247,
+      "height": 1663,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Relevé",
+          "polygon": [
+            406,
+            255,
+            513,
+            256,
+            513,
+            300,
+            406,
+            300
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 0,
+            "length": 6
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            531,
+            256,
+            565,
+            256,
+            565,
+            300,
+            531,
+            300
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 7,
+            "length": 2
+          }
+        },
+        {
+          "content": "transaction",
+          "polygon": [
+            585,
+            256,
+            781,
+            257,
+            781,
+            300,
+            585,
+            300
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 10,
+            "length": 11
+          }
+        },
+        {
+          "content": "S.A.A.Q",
+          "polygon": [
+            529,
+            300,
+            656,
+            302,
+            656,
+            341,
+            529,
+            340
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 22,
+            "length": 7
+          }
+        },
+        {
+          "content": "333,",
+          "polygon": [
+            388,
+            339,
+            452,
+            340,
+            452,
+            385,
+            388,
+            384
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 30,
+            "length": 4
+          }
+        },
+        {
+          "content": "boul.",
+          "polygon": [
+            495,
+            340,
+            576,
+            341,
+            576,
+            385,
+            495,
+            385
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 35,
+            "length": 5
+          }
+        },
+        {
+          "content": "Jean-Lesage",
+          "polygon": [
+            601,
+            342,
+            797,
+            344,
+            797,
+            388,
+            600,
+            385
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 41,
+            "length": 11
+          }
+        },
+        {
+          "content": "Québec",
+          "polygon": [
+            449,
+            384,
+            554,
+            384,
+            554,
+            428,
+            449,
+            428
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 53,
+            "length": 6
+          }
+        },
+        {
+          "content": "Qc",
+          "polygon": [
+            574,
+            384,
+            607,
+            384,
+            607,
+            428,
+            574,
+            428
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 60,
+            "length": 2
+          }
+        },
+        {
+          "content": "G1K8J6",
+          "polygon": [
+            627,
+            384,
+            733,
+            384,
+            733,
+            428,
+            627,
+            428
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 63,
+            "length": 6
+          }
+        },
+        {
+          "content": "INTERAC",
+          "polygon": [
+            473,
+            467,
+            597,
+            467,
+            597,
+            510,
+            473,
+            509
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 70,
+            "length": 7
+          }
+        },
+        {
+          "content": "Achat",
+          "polygon": [
+            614,
+            468,
+            704,
+            469,
+            704,
+            510,
+            614,
+            510
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 78,
+            "length": 5
+          }
+        },
+        {
+          "content": "Compte:",
+          "polygon": [
+            412,
+            508,
+            530,
+            510,
+            529,
+            554,
+            412,
+            554
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 84,
+            "length": 7
+          }
+        },
+        {
+          "content": "DEFAUT",
+          "polygon": [
+            553,
+            510,
+            658,
+            510,
+            658,
+            554,
+            553,
+            554
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 92,
+            "length": 6
+          }
+        },
+        {
+          "content": "FLASH",
+          "polygon": [
+            677,
+            510,
+            766,
+            510,
+            766,
+            555,
+            676,
+            554
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 99,
+            "length": 5
+          }
+        },
+        {
+          "content": "16,00",
+          "polygon": [
+            527,
+            554,
+            613,
+            554,
+            612,
+            599,
+            527,
+            599
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 105,
+            "length": 5
+          }
+        },
+        {
+          "content": "$",
+          "polygon": [
+            631,
+            555,
+            649,
+            555,
+            649,
+            599,
+            631,
+            599
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 111,
+            "length": 1
+          }
+        },
+        {
+          "content": "#Carte",
+          "polygon": [
+            369,
+            631,
+            471,
+            633,
+            471,
+            673,
+            368,
+            673
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 113,
+            "length": 6
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            494,
+            632,
+            501,
+            632,
+            501,
+            673,
+            494,
+            673
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 120,
+            "length": 1
+          }
+        },
+        {
+          "content": "************",
+          "polygon": [
+            525,
+            632,
+            723,
+            634,
+            722,
+            677,
+            525,
+            673
+          ],
+          "confidence": 0.679,
+          "span": {
+            "offset": 122,
+            "length": 12
+          }
+        },
+        {
+          "content": "9428",
+          "polygon": [
+            731,
+            634,
+            808,
+            636,
+            808,
+            679,
+            730,
+            677
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 135,
+            "length": 4
+          }
+        },
+        {
+          "content": "25-06-12",
+          "polygon": [
+            324,
+            672,
+            463,
+            674,
+            463,
+            716,
+            324,
+            714
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 140,
+            "length": 8
+          }
+        },
+        {
+          "content": "21:22:22",
+          "polygon": [
+            481,
+            674,
+            619,
+            676,
+            619,
+            719,
+            481,
+            717
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 149,
+            "length": 8
+          }
+        },
+        {
+          "content": "(Qj",
+          "polygon": [
+            641,
+            677,
+            686,
+            678,
+            686,
+            720,
+            640,
+            720
+          ],
+          "confidence": 0.65,
+          "span": {
+            "offset": 158,
+            "length": 3
+          }
+        },
+        {
+          "content": "16h",
+          "polygon": [
+            710,
+            678,
+            760,
+            679,
+            759,
+            721,
+            710,
+            721
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 162,
+            "length": 3
+          }
+        },
+        {
+          "content": "9m",
+          "polygon": [
+            780,
+            680,
+            813,
+            680,
+            813,
+            722,
+            780,
+            722
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 166,
+            "length": 2
+          }
+        },
+        {
+          "content": ")",
+          "polygon": [
+            837,
+            680,
+            848,
+            681,
+            848,
+            723,
+            836,
+            723
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 169,
+            "length": 1
+          }
+        },
+        {
+          "content": "#Ref.",
+          "polygon": [
+            333,
+            714,
+            413,
+            716,
+            413,
+            759,
+            332,
+            758
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 171,
+            "length": 5
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            440,
+            716,
+            449,
+            717,
+            448,
+            759,
+            440,
+            759
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 177,
+            "length": 1
+          }
+        },
+        {
+          "content": "66243123",
+          "polygon": [
+            472,
+            717,
+            610,
+            719,
+            610,
+            762,
+            471,
+            760
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 179,
+            "length": 8
+          }
+        },
+        {
+          "content": "0010013510",
+          "polygon": [
+            628,
+            719,
+            803,
+            722,
+            803,
+            765,
+            627,
+            762
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 188,
+            "length": 10
+          }
+        },
+        {
+          "content": "H",
+          "polygon": [
+            823,
+            722,
+            842,
+            723,
+            842,
+            767,
+            822,
+            766
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 199,
+            "length": 1
+          }
+        },
+        {
+          "content": "#Aut.",
+          "polygon": [
+            463,
+            761,
+            543,
+            762,
+            542,
+            803,
+            462,
+            802
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 201,
+            "length": 5
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            569,
+            762,
+            578,
+            763,
+            578,
+            804,
+            569,
+            803
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 207,
+            "length": 1
+          }
+        },
+        {
+          "content": "3D3780",
+          "polygon": [
+            601,
+            763,
+            706,
+            763,
+            706,
+            805,
+            601,
+            804
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 209,
+            "length": 6
+          }
+        },
+        {
+          "content": "Interac",
+          "polygon": [
+            522,
+            842,
+            644,
+            846,
+            644,
+            884,
+            521,
+            882
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 216,
+            "length": 7
+          }
+        },
+        {
+          "content": "A0000002771010",
+          "polygon": [
+            460,
+            880,
+            705,
+            886,
+            705,
+            928,
+            459,
+            922
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 224,
+            "length": 14
+          }
+        },
+        {
+          "content": "0080008000",
+          "polygon": [
+            451,
+            921,
+            623,
+            926,
+            622,
+            969,
+            450,
+            964
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 239,
+            "length": 10
+          }
+        },
+        {
+          "content": "A000",
+          "polygon": [
+            641,
+            926,
+            711,
+            928,
+            711,
+            971,
+            640,
+            969
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 250,
+            "length": 4
+          }
+        },
+        {
+          "content": "00",
+          "polygon": [
+            371,
+            998,
+            406,
+            999,
+            405,
+            1042,
+            370,
+            1042
+          ],
+          "confidence": 0.827,
+          "span": {
+            "offset": 255,
+            "length": 2
+          }
+        },
+        {
+          "content": "APPROUVEE",
+          "polygon": [
+            425,
+            999,
+            578,
+            1004,
+            576,
+            1048,
+            424,
+            1043
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 258,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            594,
+            1004,
+            612,
+            1005,
+            611,
+            1050,
+            593,
+            1049
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 268,
+            "length": 1
+          }
+        },
+        {
+          "content": "MERCI",
+          "polygon": [
+            630,
+            1005,
+            715,
+            1008,
+            713,
+            1053,
+            629,
+            1050
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 270,
+            "length": 5
+          }
+        },
+        {
+          "content": "001",
+          "polygon": [
+            734,
+            1009,
+            786,
+            1011,
+            786,
+            1055,
+            733,
+            1053
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 276,
+            "length": 3
+          }
+        },
+        {
+          "content": "TPS:",
+          "polygon": [
+            331,
+            1075,
+            390,
+            1077,
+            389,
+            1121,
+            330,
+            1120
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 280,
+            "length": 4
+          }
+        },
+        {
+          "content": "704421486",
+          "polygon": [
+            399,
+            1077,
+            551,
+            1083,
+            550,
+            1128,
+            398,
+            1122
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 285,
+            "length": 9
+          }
+        },
+        {
+          "content": "TVQ:",
+          "polygon": [
+            569,
+            1083,
+            631,
+            1085,
+            630,
+            1131,
+            568,
+            1128
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 295,
+            "length": 4
+          }
+        },
+        {
+          "content": "1226369097",
+          "polygon": [
+            640,
+            1086,
+            812,
+            1092,
+            812,
+            1137,
+            639,
+            1131
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 300,
+            "length": 10
+          }
+        },
+        {
+          "content": "IMPORTANT",
+          "polygon": [
+            347,
+            1154,
+            498,
+            1162,
+            496,
+            1205,
+            346,
+            1198
+          ],
+          "confidence": 0.791,
+          "span": {
+            "offset": 311,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            516,
+            1163,
+            532,
+            1163,
+            531,
+            1206,
+            515,
+            1205
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 321,
+            "length": 1
+          }
+        },
+        {
+          "content": "conserver",
+          "polygon": [
+            551,
+            1164,
+            704,
+            1173,
+            703,
+            1213,
+            550,
+            1207
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 323,
+            "length": 9
+          }
+        },
+        {
+          "content": "cette",
+          "polygon": [
+            723,
+            1174,
+            811,
+            1178,
+            811,
+            1218,
+            722,
+            1214
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 333,
+            "length": 5
+          }
+        },
+        {
+          "content": "copie",
+          "polygon": [
+            379,
+            1203,
+            463,
+            1206,
+            462,
+            1244,
+            379,
+            1241
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 339,
+            "length": 5
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            482,
+            1207,
+            548,
+            1209,
+            547,
+            1246,
+            481,
+            1244
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 345,
+            "length": 4
+          }
+        },
+        {
+          "content": "vos",
+          "polygon": [
+            567,
+            1209,
+            616,
+            1211,
+            615,
+            1249,
+            566,
+            1247
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 350,
+            "length": 3
+          }
+        },
+        {
+          "content": "dossiers",
+          "polygon": [
+            636,
+            1212,
+            774,
+            1218,
+            774,
+            1256,
+            635,
+            1250
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 354,
+            "length": 8
+          }
+        },
+        {
+          "content": "COPIE",
+          "polygon": [
+            471,
+            1241,
+            556,
+            1244,
+            554,
+            1285,
+            469,
+            1282
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 363,
+            "length": 5
+          }
+        },
+        {
+          "content": "CLIENT",
+          "polygon": [
+            573,
+            1245,
+            676,
+            1251,
+            676,
+            1291,
+            572,
+            1286
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 369,
+            "length": 6
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Relevé de transaction",
+          "polygon": [
+            406,
+            255,
+            781,
+            256,
+            781,
+            300,
+            406,
+            299
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "S.A.A.Q",
+          "polygon": [
+            529,
+            300,
+            655,
+            300,
+            655,
+            340,
+            529,
+            340
+          ],
+          "spans": [
+            {
+              "offset": 22,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "333, boul. Jean-Lesage",
+          "polygon": [
+            388,
+            339,
+            797,
+            343,
+            796,
+            388,
+            388,
+            384
+          ],
+          "spans": [
+            {
+              "offset": 30,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "Québec Qc G1K8J6",
+          "polygon": [
+            449,
+            384,
+            733,
+            384,
+            733,
+            428,
+            449,
+            428
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "INTERAC Achat",
+          "polygon": [
+            473,
+            466,
+            703,
+            468,
+            703,
+            510,
+            473,
+            509
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Compte: DEFAUT FLASH",
+          "polygon": [
+            412,
+            508,
+            766,
+            510,
+            766,
+            555,
+            412,
+            553
+          ],
+          "spans": [
+            {
+              "offset": 84,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "16,00 $",
+          "polygon": [
+            527,
+            553,
+            649,
+            554,
+            648,
+            599,
+            526,
+            598
+          ],
+          "spans": [
+            {
+              "offset": 105,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "#Carte : ************ 9428",
+          "polygon": [
+            369,
+            631,
+            808,
+            635,
+            807,
+            679,
+            368,
+            672
+          ],
+          "spans": [
+            {
+              "offset": 113,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "25-06-12 21:22:22 (Qj 16h 9m )",
+          "polygon": [
+            324,
+            671,
+            848,
+            680,
+            847,
+            723,
+            323,
+            714
+          ],
+          "spans": [
+            {
+              "offset": 140,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "#Ref. : 66243123 0010013510 H",
+          "polygon": [
+            333,
+            714,
+            842,
+            723,
+            841,
+            766,
+            332,
+            757
+          ],
+          "spans": [
+            {
+              "offset": 171,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "#Aut. : 3D3780",
+          "polygon": [
+            463,
+            761,
+            706,
+            763,
+            706,
+            805,
+            462,
+            802
+          ],
+          "spans": [
+            {
+              "offset": 201,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Interac",
+          "polygon": [
+            522,
+            842,
+            643,
+            845,
+            643,
+            884,
+            521,
+            881
+          ],
+          "spans": [
+            {
+              "offset": 216,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "A0000002771010",
+          "polygon": [
+            460,
+            880,
+            705,
+            886,
+            704,
+            928,
+            459,
+            922
+          ],
+          "spans": [
+            {
+              "offset": 224,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "0080008000 A000",
+          "polygon": [
+            451,
+            921,
+            711,
+            927,
+            710,
+            970,
+            450,
+            964
+          ],
+          "spans": [
+            {
+              "offset": 239,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "00 APPROUVEE - MERCI 001",
+          "polygon": [
+            371,
+            997,
+            786,
+            1010,
+            785,
+            1054,
+            370,
+            1041
+          ],
+          "spans": [
+            {
+              "offset": 255,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "TPS: 704421486 TVQ: 1226369097",
+          "polygon": [
+            331,
+            1075,
+            812,
+            1092,
+            811,
+            1137,
+            329,
+            1119
+          ],
+          "spans": [
+            {
+              "offset": 280,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "IMPORTANT - conserver cette",
+          "polygon": [
+            347,
+            1154,
+            811,
+            1175,
+            810,
+            1218,
+            346,
+            1198
+          ],
+          "spans": [
+            {
+              "offset": 311,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "copie pour vos dossiers",
+          "polygon": [
+            379,
+            1202,
+            774,
+            1217,
+            773,
+            1256,
+            378,
+            1240
+          ],
+          "spans": [
+            {
+              "offset": 339,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "COPIE CLIENT",
+          "polygon": [
+            471,
+            1240,
+            676,
+            1250,
+            674,
+            1291,
+            469,
+            1281
+          ],
+          "spans": [
+            {
+              "offset": 363,
+              "length": 12
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 375
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "styles": [],
+  "documents": [
+    {
+      "docType": "invoice",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0,
+            0,
+            1247,
+            0,
+            1247,
+            1663,
+            0,
+            1663
+          ]
+        }
+      ],
+      "fields": {
+        "InvoiceDate": {
+          "type": "date",
+          "valueDate": "2025-06-12",
+          "content": "25-06-12",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                324,
+                672,
+                463,
+                674,
+                463,
+                716,
+                324,
+                714
+              ]
+            }
+          ],
+          "confidence": 0.65,
+          "spans": [
+            {
+              "offset": 140,
+              "length": 8
+            }
+          ]
+        },
+        "InvoiceTotal": {
+          "type": "currency",
+          "valueCurrency": {
+            "currencySymbol": "$",
+            "amount": 16.0,
+            "currencyCode": "CAD"
+          },
+          "content": "16,00 $",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                527,
+                554,
+                649,
+                554,
+                649,
+                599,
+                527,
+                599
+              ]
+            }
+          ],
+          "confidence": 0.438,
+          "spans": [
+            {
+              "offset": 105,
+              "length": 7
+            }
+          ]
+        }
+      },
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 375
+        }
+      ]
+    }
+  ],
+  "contentFormat": "text"
+}

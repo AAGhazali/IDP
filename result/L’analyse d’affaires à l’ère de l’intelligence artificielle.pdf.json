@@ -1,0 +1,856 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-bankStatement.us",
+  "stringIndexType": "textElements",
+  "content": "BA® ® International Institute of Business Analysis™\nL'ANALYSE D'AFFAIRES A L'ERE DE L'INTELLIGENCE ARTIFICIELLE\nPar Ali Amine Ghazali\nSell me this pen\nIt's Al powered\nIIBA\n2",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.1298999935388565,
+      "width": 13.3333,
+      "height": 7.5,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "BA®",
+          "polygon": [
+            12.0684,
+            0.2138,
+            13.112,
+            0.1966,
+            13.112,
+            0.7487,
+            12.0668,
+            0.743
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "®",
+          "polygon": [
+            12.9769,
+            0.2374,
+            13.1055,
+            0.2337,
+            13.1055,
+            0.3534,
+            12.9779,
+            0.353
+          ],
+          "confidence": 0.674,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "International",
+          "polygon": [
+            11.6084,
+            0.7853,
+            12.5113,
+            0.7819,
+            12.5117,
+            0.9697,
+            11.608,
+            0.9667
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 6,
+            "length": 13
+          }
+        },
+        {
+          "content": "Institute",
+          "polygon": [
+            12.569,
+            0.7822,
+            13.1445,
+            0.7831,
+            13.1445,
+            0.9656,
+            12.5694,
+            0.9695
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 20,
+            "length": 9
+          }
+        },
+        {
+          "content": "of",
+          "polygon": [
+            11.6083,
+            0.9725,
+            11.7409,
+            0.974,
+            11.7406,
+            1.1725,
+            11.608,
+            1.1724
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 30,
+            "length": 2
+          }
+        },
+        {
+          "content": "Business",
+          "polygon": [
+            11.7807,
+            0.9738,
+            12.3907,
+            0.9745,
+            12.3908,
+            1.1774,
+            11.7804,
+            1.173
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 33,
+            "length": 8
+          }
+        },
+        {
+          "content": "Analysis™",
+          "polygon": [
+            12.4305,
+            0.9747,
+            13.138,
+            0.9718,
+            13.138,
+            1.1737,
+            12.4306,
+            1.1773
+          ],
+          "confidence": 0.691,
+          "span": {
+            "offset": 42,
+            "length": 9
+          }
+        },
+        {
+          "content": "L'ANALYSE",
+          "polygon": [
+            3.0444,
+            2.2645,
+            5.7487,
+            2.2576,
+            5.7487,
+            2.7576,
+            3.0445,
+            2.7604
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 52,
+            "length": 9
+          }
+        },
+        {
+          "content": "D'AFFAIRES",
+          "polygon": [
+            2.6331,
+            2.8467,
+            5.6025,
+            2.8365,
+            5.6037,
+            3.3478,
+            2.6342,
+            3.3529
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 62,
+            "length": 10
+          }
+        },
+        {
+          "content": "A",
+          "polygon": [
+            5.8093,
+            2.8326,
+            6.1458,
+            2.8334,
+            6.1458,
+            3.3464,
+            5.8089,
+            3.3494
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 73,
+            "length": 1
+          }
+        },
+        {
+          "content": "L'ERE",
+          "polygon": [
+            3.2188,
+            3.4385,
+            4.677,
+            3.4362,
+            4.6781,
+            3.9258,
+            3.2198,
+            3.9229
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 75,
+            "length": 5
+          }
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            4.8125,
+            3.436,
+            5.5729,
+            3.4336,
+            5.5729,
+            3.9239,
+            4.8132,
+            3.9251
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 81,
+            "length": 2
+          }
+        },
+        {
+          "content": "L'INTELLIGENCE",
+          "polygon": [
+            2.311,
+            4.0225,
+            6.4909,
+            4.0159,
+            6.4909,
+            4.509,
+            2.3116,
+            4.5182
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 84,
+            "length": 14
+          }
+        },
+        {
+          "content": "ARTIFICIELLE",
+          "polygon": [
+            2.6143,
+            4.626,
+            6.1784,
+            4.6057,
+            6.1784,
+            5.0944,
+            2.6137,
+            5.1042
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 99,
+            "length": 12
+          }
+        },
+        {
+          "content": "Par",
+          "polygon": [
+            8.7627,
+            3.3642,
+            9.3649,
+            3.3636,
+            9.3645,
+            3.6935,
+            8.7621,
+            3.6961
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 112,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ali",
+          "polygon": [
+            9.4579,
+            3.3639,
+            9.9561,
+            3.3644,
+            9.9557,
+            3.696,
+            9.4574,
+            3.6932
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 116,
+            "length": 3
+          }
+        },
+        {
+          "content": "Amine",
+          "polygon": [
+            10.0492,
+            3.3634,
+            11.224,
+            3.3635,
+            11.224,
+            3.6979,
+            10.0488,
+            3.6966
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 120,
+            "length": 5
+          }
+        },
+        {
+          "content": "Ghazali",
+          "polygon": [
+            8.7894,
+            3.782,
+            10.1497,
+            3.7823,
+            10.1497,
+            4.1146,
+            8.7893,
+            4.1113
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 126,
+            "length": 7
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "BA®",
+          "polygon": [
+            12.0642,
+            0.1953,
+            13.1048,
+            0.1903,
+            13.1075,
+            0.7443,
+            12.0669,
+            0.7487
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "®",
+          "polygon": [
+            12.9769,
+            0.2336,
+            13.1034,
+            0.2326,
+            13.1043,
+            0.3514,
+            12.9778,
+            0.3524
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "International Institute",
+          "polygon": [
+            11.6079,
+            0.7824,
+            13.144,
+            0.7814,
+            13.1441,
+            0.9667,
+            11.608,
+            0.9676
+          ],
+          "spans": [
+            {
+              "offset": 6,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "of Business Analysis™",
+          "polygon": [
+            11.6077,
+            0.9725,
+            13.1354,
+            0.9705,
+            13.1357,
+            1.1746,
+            11.608,
+            1.1766
+          ],
+          "spans": [
+            {
+              "offset": 30,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "L'ANALYSE",
+          "polygon": [
+            3.0425,
+            2.2598,
+            5.7473,
+            2.2526,
+            5.7487,
+            2.75,
+            3.0445,
+            2.7604
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "D'AFFAIRES A",
+          "polygon": [
+            2.6331,
+            2.8387,
+            6.1409,
+            2.8308,
+            6.142,
+            3.3407,
+            2.6342,
+            3.3487
+          ],
+          "spans": [
+            {
+              "offset": 62,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "L'ERE DE",
+          "polygon": [
+            3.2188,
+            3.4367,
+            5.5681,
+            3.4336,
+            5.5687,
+            3.9174,
+            3.2195,
+            3.9205
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "L'INTELLIGENCE",
+          "polygon": [
+            2.3103,
+            4.02,
+            6.4855,
+            4.0104,
+            6.4868,
+            4.5039,
+            2.3116,
+            4.5151
+          ],
+          "spans": [
+            {
+              "offset": 84,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "ARTIFICIELLE",
+          "polygon": [
+            2.6114,
+            4.6231,
+            6.1743,
+            4.6058,
+            6.1767,
+            5.0865,
+            2.6138,
+            5.1038
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Par Ali Amine",
+          "polygon": [
+            8.7623,
+            3.3603,
+            11.2197,
+            3.362,
+            11.2194,
+            3.6957,
+            8.7621,
+            3.6941
+          ],
+          "spans": [
+            {
+              "offset": 112,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Ghazali",
+          "polygon": [
+            8.7893,
+            3.7818,
+            10.1433,
+            3.7818,
+            10.1433,
+            4.1091,
+            8.7893,
+            4.109
+          ],
+          "spans": [
+            {
+              "offset": 126,
+              "length": 7
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 133
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "angle": 0.05959010124206543,
+      "width": 13.3333,
+      "height": 7.5,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "Sell",
+          "polygon": [
+            5.025,
+            3.1616,
+            5.7916,
+            3.1655,
+            5.7883,
+            3.5804,
+            5.0215,
+            3.5709
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 134,
+            "length": 4
+          }
+        },
+        {
+          "content": "me",
+          "polygon": [
+            5.8738,
+            3.1655,
+            6.5376,
+            3.1734,
+            6.5341,
+            3.5949,
+            5.8708,
+            3.5817
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 139,
+            "length": 2
+          }
+        },
+        {
+          "content": "this",
+          "polygon": [
+            6.6266,
+            3.1758,
+            7.4068,
+            3.185,
+            7.4042,
+            3.606,
+            6.6233,
+            3.5954
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 142,
+            "length": 4
+          }
+        },
+        {
+          "content": "pen",
+          "polygon": [
+            7.5573,
+            3.1892,
+            8.3138,
+            3.1956,
+            8.3138,
+            3.6086,
+            7.5549,
+            3.6057
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 147,
+            "length": 3
+          }
+        },
+        {
+          "content": "It's",
+          "polygon": [
+            5.0511,
+            6.4545,
+            5.6134,
+            6.4555,
+            5.6123,
+            6.8146,
+            5.0505,
+            6.8116
+          ],
+          "confidence": 0.922,
+          "span": {
+            "offset": 151,
+            "length": 4
+          }
+        },
+        {
+          "content": "Al",
+          "polygon": [
+            5.8087,
+            6.4559,
+            6.1698,
+            6.4575,
+            6.1689,
+            6.8164,
+            5.8081,
+            6.8159
+          ],
+          "confidence": 0.947,
+          "span": {
+            "offset": 156,
+            "length": 2
+          }
+        },
+        {
+          "content": "powered",
+          "polygon": [
+            6.3414,
+            6.4575,
+            8.125,
+            6.4579,
+            8.125,
+            6.8164,
+            6.3409,
+            6.8164
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 159,
+            "length": 7
+          }
+        },
+        {
+          "content": "IIBA",
+          "polygon": [
+            1.2718,
+            6.9912,
+            1.5951,
+            6.9903,
+            1.5951,
+            7.1331,
+            1.2722,
+            7.1339
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 167,
+            "length": 4
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            12.6679,
+            6.9763,
+            12.7707,
+            6.9735,
+            12.7711,
+            7.1459,
+            12.6679,
+            7.1484
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 172,
+            "length": 1
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Sell me this pen",
+          "polygon": [
+            5.0251,
+            3.1576,
+            8.3094,
+            3.1897,
+            8.305,
+            3.6099,
+            5.0208,
+            3.5761
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "It's Al powered",
+          "polygon": [
+            5.0509,
+            6.4535,
+            8.1248,
+            6.4567,
+            8.1244,
+            6.8159,
+            5.0505,
+            6.8127
+          ],
+          "spans": [
+            {
+              "offset": 151,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "IIBA",
+          "polygon": [
+            1.2718,
+            6.9909,
+            1.5895,
+            6.9901,
+            1.5899,
+            7.1318,
+            1.2721,
+            7.1327
+          ],
+          "spans": [
+            {
+              "offset": 167,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            12.6674,
+            6.9721,
+            12.7671,
+            6.9718,
+            12.7676,
+            7.1465,
+            12.6679,
+            7.1467
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 1
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 134,
+          "length": 39
+        }
+      ]
+    }
+  ],
+  "styles": [],
+  "documents": [
+    {
+      "docType": "bankStatement.us",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0,
+            0,
+            13.3333,
+            0,
+            13.3333,
+            7.5,
+            0,
+            7.5
+          ]
+        },
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0,
+            0,
+            13.3333,
+            0,
+            13.3333,
+            7.5,
+            0,
+            7.5
+          ]
+        }
+      ],
+      "fields": {},
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 173
+        }
+      ]
+    }
+  ],
+  "contentFormat": "text"
+}

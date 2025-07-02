@@ -1,0 +1,6695 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "APPEL DE PROPOSITIONS SUR INVITATION NO : BPM006398\nCAHIER DES CHARGES\nACCOMPAGNEMENT - PROGRAMME DONNÉES ET ANALYTIQUE\nFÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC\nCONFIDENTIEL Version 1 - janvier 2024\nPage 1 sur 23\nAppel de propositions no BPM006398 Accompagnement - Programme Données et Analytique\nDesjardins\nPRÉAMBULE\nLe préambule fait partie intégrante du Cahier des charges.\nPrésentation du Mouvement Desjardins\nLe Mouvement Desjardins est la cooperative financière la plus importante au Canada. Plusieurs de ses filiales et composantes sont actives à l'échelle du Canada. Les secteurs Particuliers et Entreprises, les secteurs d'affaires Gestion de patrimoine et Assurance de personnes ainsi qu'Assurance de dommages proposent aux membres et aux clients, particuliers et entreprises, une gamme complète de services financiers conçus pour répondre à leurs besoins. Pour en connaître davantage sur l'actif du Mouvement, le nombre de caisses, le nombre d'employés et d'administrateurs, consultez la section Desjardins en chiffres sur notre site web.\nVous pouvez accéder à notre site internet pour plus de détails sur le Mouvement Desjardins et les services qu'il offre : www.desjardins.com.\nObjet de l'Appel de propositions\nPar le présent Appel de propositions, le programme Données et analytique désire moderniser ses plateformes de données et d'analytique afin d'améliorer l'expérience membres et clients, soutenir la croissance, gérer les risques et améliorer l'efficience.\nDesjardins agit à titre d'instigateur et de coordonnateur principal du présent Appel de propositions. Il agit tant pour son compte que pour le bénéfice des Clients lors du processus d'Appel de propositions et pour toute la Durée du Contrat. Les Clients demeurent autonomes dans leur acquisition de Biens et Services et seuls responsables des engagements pris avec le Fournisseur.\nLe Proposant doit se référer à la clause « Calendrier du processus de l'Appel de propositions >> afin de connaître les dates importantes à respecter.\nCONFIDENTIEL Version 1 - janvier 2024\nPage 2 sur 23",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.025699999183416367,
+      "width": 8.5,
+      "height": 11,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "APPEL",
+          "polygon": [
+            2.5513,
+            3.9805,
+            3.0944,
+            3.9757,
+            3.0944,
+            4.1463,
+            2.5513,
+            4.1458
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            3.145,
+            3.9754,
+            3.3504,
+            3.9741,
+            3.3504,
+            4.1465,
+            3.145,
+            4.1463
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 6,
+            "length": 2
+          }
+        },
+        {
+          "content": "PROPOSITIONS",
+          "polygon": [
+            3.4067,
+            3.9738,
+            4.5971,
+            3.9723,
+            4.5971,
+            4.1477,
+            3.4067,
+            4.1466
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 9,
+            "length": 12
+          }
+        },
+        {
+          "content": "SUR",
+          "polygon": [
+            4.6533,
+            3.9725,
+            4.9798,
+            3.9737,
+            4.9798,
+            4.148,
+            4.6533,
+            4.1477
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 22,
+            "length": 3
+          }
+        },
+        {
+          "content": "INVITATION",
+          "polygon": [
+            5.0332,
+            3.974,
+            5.9357,
+            3.9815,
+            5.9357,
+            4.1488,
+            5.0332,
+            4.148
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 26,
+            "length": 10
+          }
+        },
+        {
+          "content": "NO",
+          "polygon": [
+            3.6461,
+            4.1503,
+            3.8578,
+            4.1499,
+            3.8572,
+            4.3112,
+            3.6461,
+            4.3112
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 37,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            3.914,
+            4.1497,
+            3.981,
+            4.1495,
+            3.9802,
+            4.3112,
+            3.9134,
+            4.3112
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 40,
+            "length": 1
+          }
+        },
+        {
+          "content": "BPM006398",
+          "polygon": [
+            4.0426,
+            4.1493,
+            4.9042,
+            4.1453,
+            4.9042,
+            4.3112,
+            4.0417,
+            4.3112
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 42,
+            "length": 9
+          }
+        },
+        {
+          "content": "CAHIER",
+          "polygon": [
+            3.2737,
+            5.1135,
+            3.9236,
+            5.1053,
+            3.9246,
+            5.2845,
+            3.2767,
+            5.2792
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 52,
+            "length": 6
+          }
+        },
+        {
+          "content": "DES",
+          "polygon": [
+            3.9795,
+            5.1048,
+            4.3148,
+            5.1028,
+            4.3146,
+            5.2852,
+            3.9803,
+            5.2848
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 59,
+            "length": 3
+          }
+        },
+        {
+          "content": "CHARGES",
+          "polygon": [
+            4.3707,
+            5.1025,
+            5.2194,
+            5.1039,
+            5.2194,
+            5.2852,
+            4.3703,
+            5.2852
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 63,
+            "length": 7
+          }
+        },
+        {
+          "content": "ACCOMPAGNEMENT",
+          "polygon": [
+            1.5859,
+            6.0826,
+            3.2905,
+            6.0688,
+            3.2876,
+            6.2468,
+            1.5816,
+            6.2488
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 71,
+            "length": 14
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            3.3455,
+            6.0686,
+            3.4439,
+            6.0682,
+            3.4411,
+            6.2468,
+            3.3427,
+            6.2468
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 86,
+            "length": 1
+          }
+        },
+        {
+          "content": "PROGRAMME",
+          "polygon": [
+            3.4931,
+            6.0679,
+            4.5871,
+            6.065,
+            4.5853,
+            6.2464,
+            3.4904,
+            6.2467
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 88,
+            "length": 9
+          }
+        },
+        {
+          "content": "DONNÉES",
+          "polygon": [
+            4.6595,
+            6.0649,
+            5.4814,
+            6.0659,
+            5.4803,
+            6.2467,
+            4.6577,
+            6.2464
+          ],
+          "confidence": 0.606,
+          "span": {
+            "offset": 98,
+            "length": 7
+          }
+        },
+        {
+          "content": "ET",
+          "polygon": [
+            5.5422,
+            6.0661,
+            5.7506,
+            6.0669,
+            5.7497,
+            6.2469,
+            5.5411,
+            6.2467
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 106,
+            "length": 2
+          }
+        },
+        {
+          "content": "ANALYTIQUE",
+          "polygon": [
+            5.8056,
+            6.0671,
+            6.9146,
+            6.0732,
+            6.9146,
+            6.2481,
+            5.8047,
+            6.2469
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 109,
+            "length": 10
+          }
+        },
+        {
+          "content": "FÉDÉRATION",
+          "polygon": [
+            2.4098,
+            9.0432,
+            3.2884,
+            9.0497,
+            3.2877,
+            9.2147,
+            2.4098,
+            9.2098
+          ],
+          "confidence": 0.821,
+          "span": {
+            "offset": 120,
+            "length": 10
+          }
+        },
+        {
+          "content": "DES",
+          "polygon": [
+            3.3625,
+            9.0501,
+            3.6288,
+            9.0511,
+            3.6278,
+            9.216,
+            3.3617,
+            9.215
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 131,
+            "length": 3
+          }
+        },
+        {
+          "content": "CAISSES",
+          "polygon": [
+            3.692,
+            9.0513,
+            4.2823,
+            9.0521,
+            4.2807,
+            9.2177,
+            3.6909,
+            9.2162
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 135,
+            "length": 7
+          }
+        },
+        {
+          "content": "DESJARDINS",
+          "polygon": [
+            4.3399,
+            9.0521,
+            5.191,
+            9.0496,
+            5.1887,
+            9.2182,
+            4.3383,
+            9.2178
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 143,
+            "length": 10
+          }
+        },
+        {
+          "content": "DU",
+          "polygon": [
+            5.2761,
+            9.0491,
+            5.4518,
+            9.048,
+            5.4493,
+            9.2179,
+            5.2737,
+            9.2181
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 154,
+            "length": 2
+          }
+        },
+        {
+          "content": "QUÉBEC",
+          "polygon": [
+            5.5012,
+            9.0478,
+            6.0837,
+            9.0428,
+            6.0837,
+            9.2165,
+            5.4987,
+            9.2179
+          ],
+          "confidence": 0.664,
+          "span": {
+            "offset": 157,
+            "length": 6
+          }
+        },
+        {
+          "content": "CONFIDENTIEL",
+          "polygon": [
+            1.3154,
+            9.9602,
+            2.3303,
+            9.9689,
+            2.3303,
+            10.0982,
+            1.3123,
+            10.1056
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 164,
+            "length": 12
+          }
+        },
+        {
+          "content": "Version",
+          "polygon": [
+            1.3154,
+            10.114,
+            1.725,
+            10.1157,
+            1.724,
+            10.2399,
+            1.3154,
+            10.2435
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 177,
+            "length": 7
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            1.7808,
+            10.1157,
+            1.816,
+            10.1157,
+            1.8148,
+            10.2395,
+            1.7797,
+            10.2396
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 185,
+            "length": 1
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            1.8615,
+            10.1157,
+            1.9111,
+            10.1157,
+            1.9097,
+            10.2391,
+            1.8602,
+            10.2392
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 187,
+            "length": 1
+          }
+        },
+        {
+          "content": "janvier",
+          "polygon": [
+            1.936,
+            10.1156,
+            2.3228,
+            10.1138,
+            2.3204,
+            10.2395,
+            1.9345,
+            10.2391
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 189,
+            "length": 7
+          }
+        },
+        {
+          "content": "2024",
+          "polygon": [
+            2.3579,
+            10.1135,
+            2.6216,
+            10.111,
+            2.6197,
+            10.2413,
+            2.3555,
+            10.2396
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 197,
+            "length": 4
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            3.9296,
+            9.9666,
+            4.2644,
+            9.9623,
+            4.2614,
+            10.1186,
+            3.9266,
+            10.121
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 202,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            4.3156,
+            9.9618,
+            4.3667,
+            9.9613,
+            4.3636,
+            10.118,
+            4.3125,
+            10.1183
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 207,
+            "length": 1
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            4.4255,
+            9.9609,
+            4.6146,
+            9.9599,
+            4.6115,
+            10.1165,
+            4.4224,
+            10.1176
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 209,
+            "length": 3
+          }
+        },
+        {
+          "content": "23",
+          "polygon": [
+            4.6529,
+            9.9598,
+            4.8135,
+            9.9595,
+            4.8135,
+            10.1153,
+            4.6499,
+            10.1162
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 213,
+            "length": 2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "APPEL DE PROPOSITIONS SUR INVITATION",
+          "polygon": [
+            2.55,
+            3.9674,
+            5.9309,
+            3.9722,
+            5.9309,
+            4.1441,
+            2.55,
+            4.1393
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "NO : BPM006398",
+          "polygon": [
+            3.6435,
+            4.1489,
+            4.8994,
+            4.1441,
+            4.8994,
+            4.3064,
+            3.6435,
+            4.3112
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "CAHIER DES CHARGES",
+          "polygon": [
+            3.2711,
+            5.099,
+            5.2146,
+            5.099,
+            5.2146,
+            5.2804,
+            3.2711,
+            5.2852
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "ACCOMPAGNEMENT - PROGRAMME DONNÉES ET ANALYTIQUE",
+          "polygon": [
+            1.5806,
+            6.0634,
+            6.9098,
+            6.0634,
+            6.9098,
+            6.2448,
+            1.5806,
+            6.2496
+          ],
+          "spans": [
+            {
+              "offset": 71,
+              "length": 48
+            }
+          ]
+        },
+        {
+          "content": "FÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC",
+          "polygon": [
+            2.4067,
+            9.0425,
+            6.0789,
+            9.0425,
+            6.0789,
+            9.2144,
+            2.4067,
+            9.2096
+          ],
+          "spans": [
+            {
+              "offset": 120,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "CONFIDENTIEL",
+          "polygon": [
+            1.3084,
+            9.9592,
+            2.3256,
+            9.9592,
+            2.3256,
+            10.1024,
+            1.3084,
+            10.1024
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Version 1 - janvier 2024",
+          "polygon": [
+            1.3132,
+            10.112,
+            2.6169,
+            10.1072,
+            2.6169,
+            10.2361,
+            1.3132,
+            10.2409
+          ],
+          "spans": [
+            {
+              "offset": 177,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "Page 1 sur 23",
+          "polygon": [
+            3.9253,
+            9.964,
+            4.8087,
+            9.9592,
+            4.8087,
+            10.112,
+            3.9253,
+            10.1168
+          ],
+          "spans": [
+            {
+              "offset": 202,
+              "length": 13
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 215
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "angle": 0,
+      "width": 8.5,
+      "height": 11,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "Appel",
+          "polygon": [
+            5.2688,
+            0.5023,
+            5.6405,
+            0.4999,
+            5.64,
+            0.6532,
+            5.2688,
+            0.6517
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 216,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.6943,
+            0.4996,
+            5.8459,
+            0.4988,
+            5.8451,
+            0.6532,
+            5.6937,
+            0.6532
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 222,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions",
+          "polygon": [
+            5.8948,
+            0.4985,
+            6.6625,
+            0.4956,
+            6.6608,
+            0.6483,
+            5.894,
+            0.6532
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 225,
+            "length": 12
+          }
+        },
+        {
+          "content": "no",
+          "polygon": [
+            6.7212,
+            0.4955,
+            6.863,
+            0.4952,
+            6.861,
+            0.6456,
+            6.7194,
+            0.6475
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 238,
+            "length": 2
+          }
+        },
+        {
+          "content": "BPM006398",
+          "polygon": [
+            6.9193,
+            0.4951,
+            7.6691,
+            0.4946,
+            7.6691,
+            0.6301,
+            6.9172,
+            0.6449
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 241,
+            "length": 9
+          }
+        },
+        {
+          "content": "Accompagnement",
+          "polygon": [
+            4.8883,
+            0.6647,
+            6.0226,
+            0.656,
+            6.0208,
+            0.8109,
+            4.8853,
+            0.8021
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 251,
+            "length": 14
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            6.0662,
+            0.6558,
+            6.1484,
+            0.6556,
+            6.1467,
+            0.8108,
+            6.0644,
+            0.811
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 266,
+            "length": 1
+          }
+        },
+        {
+          "content": "Programme",
+          "polygon": [
+            6.1919,
+            0.6555,
+            6.9006,
+            0.6548,
+            6.8998,
+            0.8062,
+            6.1903,
+            0.8107
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 268,
+            "length": 9
+          }
+        },
+        {
+          "content": "Données",
+          "polygon": [
+            6.949,
+            0.6549,
+            7.4859,
+            0.6568,
+            7.4857,
+            0.7973,
+            6.9482,
+            0.8056
+          ],
+          "confidence": 0.594,
+          "span": {
+            "offset": 278,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            7.5391,
+            0.657,
+            7.6691,
+            0.6575,
+            7.6691,
+            0.7939,
+            7.539,
+            0.7964
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 286,
+            "length": 2
+          }
+        },
+        {
+          "content": "Analytique",
+          "polygon": [
+            6.9954,
+            0.8169,
+            7.6643,
+            0.8196,
+            7.6643,
+            0.9568,
+            6.9954,
+            0.9537
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 289,
+            "length": 10
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            1.6238,
+            0.7787,
+            3.4669,
+            0.7681,
+            3.4669,
+            1.1281,
+            1.6111,
+            1.1357
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 300,
+            "length": 10
+          }
+        },
+        {
+          "content": "PRÉAMBULE",
+          "polygon": [
+            0.9781,
+            1.8332,
+            1.848,
+            1.8356,
+            1.848,
+            1.9927,
+            0.9739,
+            1.9957
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 311,
+            "length": 9
+          }
+        },
+        {
+          "content": "Le",
+          "polygon": [
+            1.2744,
+            2.1665,
+            1.4285,
+            2.1656,
+            1.4254,
+            2.3179,
+            1.2714,
+            2.318
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 321,
+            "length": 2
+          }
+        },
+        {
+          "content": "préambule",
+          "polygon": [
+            1.4865,
+            2.1652,
+            2.1253,
+            2.162,
+            2.1222,
+            2.3176,
+            1.4835,
+            2.3179
+          ],
+          "confidence": 0.77,
+          "span": {
+            "offset": 324,
+            "length": 9
+          }
+        },
+        {
+          "content": "fait",
+          "polygon": [
+            2.1657,
+            2.1618,
+            2.3626,
+            2.1612,
+            2.3596,
+            2.3175,
+            2.1626,
+            2.3176
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 334,
+            "length": 4
+          }
+        },
+        {
+          "content": "partie",
+          "polygon": [
+            2.4106,
+            2.1611,
+            2.7388,
+            2.1607,
+            2.7358,
+            2.3175,
+            2.4075,
+            2.3175
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 339,
+            "length": 6
+          }
+        },
+        {
+          "content": "intégrante",
+          "polygon": [
+            2.7691,
+            2.1606,
+            3.3927,
+            2.1612,
+            3.3897,
+            2.3176,
+            2.7661,
+            2.3175
+          ],
+          "confidence": 0.606,
+          "span": {
+            "offset": 346,
+            "length": 10
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            3.4382,
+            2.1614,
+            3.5897,
+            2.1619,
+            3.5866,
+            2.3177,
+            3.4351,
+            2.3177
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 357,
+            "length": 2
+          }
+        },
+        {
+          "content": "Cahier",
+          "polygon": [
+            3.6376,
+            2.162,
+            4.0239,
+            2.1637,
+            4.0209,
+            2.318,
+            3.6346,
+            2.3178
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 360,
+            "length": 6
+          }
+        },
+        {
+          "content": "des",
+          "polygon": [
+            4.0719,
+            2.164,
+            4.2915,
+            2.1653,
+            4.2885,
+            2.3182,
+            4.0689,
+            2.318
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 367,
+            "length": 3
+          }
+        },
+        {
+          "content": "charges.",
+          "polygon": [
+            4.3446,
+            2.1656,
+            4.8947,
+            2.17,
+            4.8947,
+            2.3188,
+            4.3415,
+            2.3182
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 371,
+            "length": 8
+          }
+        },
+        {
+          "content": "Présentation",
+          "polygon": [
+            0.9768,
+            2.4873,
+            1.7971,
+            2.4863,
+            1.795,
+            2.6355,
+            0.9738,
+            2.6305
+          ],
+          "confidence": 0.605,
+          "span": {
+            "offset": 380,
+            "length": 12
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            1.8784,
+            2.4863,
+            2.0336,
+            2.4862,
+            2.0318,
+            2.6366,
+            1.8764,
+            2.6359
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 393,
+            "length": 2
+          }
+        },
+        {
+          "content": "Mouvement",
+          "polygon": [
+            2.0902,
+            2.4861,
+            2.8366,
+            2.486,
+            2.8357,
+            2.6393,
+            2.0885,
+            2.6369
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 396,
+            "length": 9
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            2.8908,
+            2.486,
+            3.5862,
+            2.4864,
+            3.5862,
+            2.6402,
+            2.89,
+            2.6394
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 406,
+            "length": 10
+          }
+        },
+        {
+          "content": "Le",
+          "polygon": [
+            1.2704,
+            2.8147,
+            1.4257,
+            2.8143,
+            1.4257,
+            2.9565,
+            1.2704,
+            2.9556
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 417,
+            "length": 2
+          }
+        },
+        {
+          "content": "Mouvement",
+          "polygon": [
+            1.4973,
+            2.8141,
+            2.2049,
+            2.8122,
+            2.2045,
+            2.9612,
+            1.4971,
+            2.957
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 420,
+            "length": 9
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            2.2666,
+            2.8121,
+            2.9076,
+            2.8109,
+            2.9069,
+            2.964,
+            2.2661,
+            2.9614
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 430,
+            "length": 10
+          }
+        },
+        {
+          "content": "est",
+          "polygon": [
+            2.9693,
+            2.8108,
+            3.1518,
+            2.8105,
+            3.1508,
+            2.9648,
+            2.9685,
+            2.9642
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 441,
+            "length": 3
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            3.2109,
+            2.8105,
+            3.3096,
+            2.8104,
+            3.3086,
+            2.9648,
+            3.21,
+            2.9648
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 445,
+            "length": 2
+          }
+        },
+        {
+          "content": "cooperative",
+          "polygon": [
+            3.3638,
+            2.8103,
+            4.0887,
+            2.8097,
+            4.0874,
+            2.9648,
+            3.3628,
+            2.9648
+          ],
+          "confidence": 0.941,
+          "span": {
+            "offset": 448,
+            "length": 11
+          }
+        },
+        {
+          "content": "financière",
+          "polygon": [
+            4.1307,
+            2.8097,
+            4.7224,
+            2.8096,
+            4.7208,
+            2.9648,
+            4.1293,
+            2.9648
+          ],
+          "confidence": 0.601,
+          "span": {
+            "offset": 460,
+            "length": 10
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            4.7915,
+            2.8096,
+            4.8901,
+            2.8097,
+            4.8883,
+            2.9648,
+            4.7898,
+            2.9648
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 471,
+            "length": 2
+          }
+        },
+        {
+          "content": "plus",
+          "polygon": [
+            4.9468,
+            2.8097,
+            5.1958,
+            2.8099,
+            5.1939,
+            2.9648,
+            4.945,
+            2.9648
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 474,
+            "length": 4
+          }
+        },
+        {
+          "content": "importante",
+          "polygon": [
+            5.2501,
+            2.8099,
+            5.8986,
+            2.8105,
+            5.8963,
+            2.9642,
+            5.2482,
+            2.9648
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 479,
+            "length": 10
+          }
+        },
+        {
+          "content": "au",
+          "polygon": [
+            5.9528,
+            2.8106,
+            6.0958,
+            2.8109,
+            6.0935,
+            2.9634,
+            5.9505,
+            2.9639
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 490,
+            "length": 2
+          }
+        },
+        {
+          "content": "Canada.",
+          "polygon": [
+            6.1624,
+            2.811,
+            6.658,
+            2.8118,
+            6.6554,
+            2.9611,
+            6.16,
+            2.9631
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 493,
+            "length": 7
+          }
+        },
+        {
+          "content": "Plusieurs",
+          "polygon": [
+            6.7369,
+            2.812,
+            7.2893,
+            2.8134,
+            7.2863,
+            2.9574,
+            6.7343,
+            2.9606
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 501,
+            "length": 9
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            7.3583,
+            2.8135,
+            7.5306,
+            2.8139,
+            7.5303,
+            2.956,
+            7.3553,
+            2.957
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 511,
+            "length": 2
+          }
+        },
+        {
+          "content": "ses",
+          "polygon": [
+            1.2734,
+            2.977,
+            1.4933,
+            2.976,
+            1.4902,
+            3.114,
+            1.2704,
+            3.1139
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 514,
+            "length": 3
+          }
+        },
+        {
+          "content": "filiales",
+          "polygon": [
+            1.5291,
+            2.9758,
+            1.9211,
+            2.974,
+            1.9181,
+            3.114,
+            1.5261,
+            3.114
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 518,
+            "length": 8
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.9522,
+            2.9738,
+            2.0597,
+            2.9733,
+            2.0567,
+            3.1141,
+            1.9491,
+            3.114
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 527,
+            "length": 2
+          }
+        },
+        {
+          "content": "composantes",
+          "polygon": [
+            2.0956,
+            2.9731,
+            2.9273,
+            2.9702,
+            2.9243,
+            3.1144,
+            2.0925,
+            3.1141
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 530,
+            "length": 11
+          }
+        },
+        {
+          "content": "sont",
+          "polygon": [
+            2.9584,
+            2.9701,
+            3.2141,
+            2.9694,
+            3.2111,
+            3.1146,
+            2.9553,
+            3.1144
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 542,
+            "length": 4
+          }
+        },
+        {
+          "content": "actives",
+          "polygon": [
+            3.2428,
+            2.9693,
+            3.6778,
+            2.9684,
+            3.6748,
+            3.1149,
+            3.2398,
+            3.1146
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 547,
+            "length": 7
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            3.7089,
+            2.9683,
+            3.7686,
+            2.9682,
+            3.7656,
+            3.1149,
+            3.7058,
+            3.1149
+          ],
+          "confidence": 0.592,
+          "span": {
+            "offset": 555,
+            "length": 1
+          }
+        },
+        {
+          "content": "l'échelle",
+          "polygon": [
+            3.7973,
+            2.9681,
+            4.3088,
+            2.9674,
+            4.3057,
+            3.1154,
+            3.7943,
+            3.115
+          ],
+          "confidence": 0.626,
+          "span": {
+            "offset": 557,
+            "length": 9
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            4.3542,
+            2.9674,
+            4.5024,
+            2.9672,
+            4.4993,
+            3.1155,
+            4.3512,
+            3.1154
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 567,
+            "length": 2
+          }
+        },
+        {
+          "content": "Canada.",
+          "polygon": [
+            4.5406,
+            2.9672,
+            5.0354,
+            2.9669,
+            5.0323,
+            3.116,
+            4.5376,
+            3.1156
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 570,
+            "length": 7
+          }
+        },
+        {
+          "content": "Les",
+          "polygon": [
+            5.0927,
+            2.967,
+            5.2983,
+            2.967,
+            5.2952,
+            3.1163,
+            5.0897,
+            3.1161
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 578,
+            "length": 3
+          }
+        },
+        {
+          "content": "secteurs",
+          "polygon": [
+            5.3509,
+            2.967,
+            5.8599,
+            2.9673,
+            5.8569,
+            3.1169,
+            5.3478,
+            3.1163
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 582,
+            "length": 8
+          }
+        },
+        {
+          "content": "Particuliers",
+          "polygon": [
+            5.9054,
+            2.9674,
+            6.5674,
+            2.9684,
+            6.5644,
+            3.1176,
+            5.9023,
+            3.117
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 591,
+            "length": 12
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            6.62,
+            2.9685,
+            6.7299,
+            2.9688,
+            6.7269,
+            3.1176,
+            6.6169,
+            3.1176
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 604,
+            "length": 2
+          }
+        },
+        {
+          "content": "Entreprises,",
+          "polygon": [
+            6.7801,
+            2.9689,
+            7.5163,
+            2.971,
+            7.5132,
+            3.1176,
+            6.7771,
+            3.1176
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 607,
+            "length": 12
+          }
+        },
+        {
+          "content": "les",
+          "polygon": [
+            1.2694,
+            3.1301,
+            1.4522,
+            3.1295,
+            1.4492,
+            3.266,
+            1.2663,
+            3.2648
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 620,
+            "length": 3
+          }
+        },
+        {
+          "content": "secteurs",
+          "polygon": [
+            1.534,
+            3.1293,
+            2.0466,
+            3.1277,
+            2.0435,
+            3.2699,
+            1.531,
+            3.2666
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 624,
+            "length": 8
+          }
+        },
+        {
+          "content": "d'affaires",
+          "polygon": [
+            2.1284,
+            3.1275,
+            2.7011,
+            3.1263,
+            2.698,
+            3.2732,
+            2.1253,
+            3.2704
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 633,
+            "length": 10
+          }
+        },
+        {
+          "content": "Gestion",
+          "polygon": [
+            2.7636,
+            3.1262,
+            3.2352,
+            3.1254,
+            3.2322,
+            3.2754,
+            2.7606,
+            3.2735
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 644,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.3026,
+            3.1253,
+            3.4542,
+            3.1252,
+            3.4512,
+            3.276,
+            3.2996,
+            3.2756
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 652,
+            "length": 2
+          }
+        },
+        {
+          "content": "patrimoine",
+          "polygon": [
+            3.5336,
+            3.1251,
+            4.1737,
+            3.1246,
+            4.1706,
+            3.2776,
+            3.5306,
+            3.2762
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 655,
+            "length": 10
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            4.2483,
+            3.1246,
+            4.359,
+            3.1246,
+            4.3559,
+            3.2778,
+            4.2452,
+            3.2777
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 666,
+            "length": 2
+          }
+        },
+        {
+          "content": "Assurance",
+          "polygon": [
+            4.4311,
+            3.1246,
+            5.088,
+            3.1248,
+            5.085,
+            3.278,
+            4.4281,
+            3.2778
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 669,
+            "length": 9
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.1626,
+            3.1249,
+            5.3166,
+            3.125,
+            5.3136,
+            3.2778,
+            5.1596,
+            3.2779
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 679,
+            "length": 2
+          }
+        },
+        {
+          "content": "personnes",
+          "polygon": [
+            5.3936,
+            3.1251,
+            6.0289,
+            3.126,
+            6.0258,
+            3.2765,
+            5.3906,
+            3.2777
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 682,
+            "length": 9
+          }
+        },
+        {
+          "content": "ainsi",
+          "polygon": [
+            6.1107,
+            3.1262,
+            6.3826,
+            3.1267,
+            6.3796,
+            3.2756,
+            6.1077,
+            3.2763
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 692,
+            "length": 5
+          }
+        },
+        {
+          "content": "qu'Assurance",
+          "polygon": [
+            6.4644,
+            3.1268,
+            7.2946,
+            3.1291,
+            7.2915,
+            3.2718,
+            6.4614,
+            3.2754
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 698,
+            "length": 12
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            7.3667,
+            3.1293,
+            7.5352,
+            3.1298,
+            7.5321,
+            3.2707,
+            7.3637,
+            3.2714
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 711,
+            "length": 2
+          }
+        },
+        {
+          "content": "dommages",
+          "polygon": [
+            1.2744,
+            3.2916,
+            1.9715,
+            3.2897,
+            1.9715,
+            3.4308,
+            1.2744,
+            3.4299
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 714,
+            "length": 8
+          }
+        },
+        {
+          "content": "proposent",
+          "polygon": [
+            2.0237,
+            3.2895,
+            2.6496,
+            3.2882,
+            2.6496,
+            3.4315,
+            2.0237,
+            3.4309
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 723,
+            "length": 9
+          }
+        },
+        {
+          "content": "aux",
+          "polygon": [
+            2.6875,
+            3.2881,
+            2.8986,
+            3.2877,
+            2.8986,
+            3.4318,
+            2.6875,
+            3.4316
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 733,
+            "length": 3
+          }
+        },
+        {
+          "content": "membres",
+          "polygon": [
+            2.9602,
+            3.2875,
+            3.5198,
+            3.2867,
+            3.5198,
+            3.4323,
+            2.9602,
+            3.4319
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 737,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            3.579,
+            3.2867,
+            3.6905,
+            3.2865,
+            3.6905,
+            3.4324,
+            3.579,
+            3.4324
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 745,
+            "length": 2
+          }
+        },
+        {
+          "content": "aux",
+          "polygon": [
+            3.7474,
+            3.2864,
+            3.9608,
+            3.2862,
+            3.9608,
+            3.4327,
+            3.7474,
+            3.4325
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 748,
+            "length": 3
+          }
+        },
+        {
+          "content": "clients,",
+          "polygon": [
+            4.0177,
+            3.2861,
+            4.4421,
+            3.2859,
+            4.4421,
+            3.4327,
+            4.0177,
+            3.4327
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 752,
+            "length": 8
+          }
+        },
+        {
+          "content": "particuliers",
+          "polygon": [
+            4.5108,
+            3.2859,
+            5.1629,
+            3.2858,
+            5.1629,
+            3.4327,
+            4.5108,
+            3.4327
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 761,
+            "length": 12
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            5.2245,
+            3.2858,
+            5.3336,
+            3.2858,
+            5.3336,
+            3.4327,
+            5.2245,
+            3.4327
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 774,
+            "length": 2
+          }
+        },
+        {
+          "content": "entreprises,",
+          "polygon": [
+            5.3905,
+            3.2858,
+            6.0946,
+            3.2863,
+            6.0946,
+            3.4327,
+            5.3905,
+            3.4327
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 777,
+            "length": 12
+          }
+        },
+        {
+          "content": "une",
+          "polygon": [
+            6.1634,
+            3.2863,
+            6.3768,
+            3.2866,
+            6.3768,
+            3.4327,
+            6.1634,
+            3.4327
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 790,
+            "length": 3
+          }
+        },
+        {
+          "content": "gamme",
+          "polygon": [
+            6.4408,
+            3.2866,
+            6.896,
+            3.2873,
+            6.896,
+            3.4327,
+            6.4408,
+            3.4327
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 794,
+            "length": 5
+          }
+        },
+        {
+          "content": "complète",
+          "polygon": [
+            6.9506,
+            3.2874,
+            7.5258,
+            3.2884,
+            7.5258,
+            3.4327,
+            6.9506,
+            3.4327
+          ],
+          "confidence": 0.621,
+          "span": {
+            "offset": 800,
+            "length": 8
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.2774,
+            3.4461,
+            1.4369,
+            3.4457,
+            1.4368,
+            3.5844,
+            1.2774,
+            3.5839
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 809,
+            "length": 2
+          }
+        },
+        {
+          "content": "services",
+          "polygon": [
+            1.4821,
+            3.4456,
+            1.9818,
+            3.4442,
+            1.9815,
+            3.5862,
+            1.482,
+            3.5846
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 812,
+            "length": 8
+          }
+        },
+        {
+          "content": "financiers",
+          "polygon": [
+            2.027,
+            3.444,
+            2.6172,
+            3.4427,
+            2.6165,
+            3.5879,
+            2.0267,
+            3.5864
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 821,
+            "length": 10
+          }
+        },
+        {
+          "content": "conçus",
+          "polygon": [
+            2.6767,
+            3.4426,
+            3.105,
+            3.4417,
+            3.1041,
+            3.5889,
+            2.676,
+            3.588
+          ],
+          "confidence": 0.739,
+          "span": {
+            "offset": 832,
+            "length": 6
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            3.1336,
+            3.4417,
+            3.4287,
+            3.4413,
+            3.4276,
+            3.5893,
+            3.1327,
+            3.5889
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 839,
+            "length": 4
+          }
+        },
+        {
+          "content": "répondre",
+          "polygon": [
+            3.4572,
+            3.4413,
+            4.026,
+            3.4406,
+            4.0246,
+            3.5898,
+            3.4562,
+            3.5893
+          ],
+          "confidence": 0.728,
+          "span": {
+            "offset": 844,
+            "length": 8
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            4.0807,
+            3.4406,
+            4.1426,
+            3.4405,
+            4.1412,
+            3.5898,
+            4.0794,
+            3.5898
+          ],
+          "confidence": 0.6,
+          "span": {
+            "offset": 853,
+            "length": 1
+          }
+        },
+        {
+          "content": "leurs",
+          "polygon": [
+            4.1712,
+            3.4405,
+            4.4781,
+            3.4403,
+            4.4766,
+            3.5898,
+            4.1697,
+            3.5898
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 855,
+            "length": 5
+          }
+        },
+        {
+          "content": "besoins.",
+          "polygon": [
+            4.5519,
+            3.4403,
+            5.0659,
+            3.4402,
+            5.0641,
+            3.5895,
+            4.5503,
+            3.5898
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 861,
+            "length": 8
+          }
+        },
+        {
+          "content": "Pour",
+          "polygon": [
+            5.1159,
+            3.4402,
+            5.4062,
+            3.4403,
+            5.4042,
+            3.5891,
+            5.114,
+            3.5894
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 870,
+            "length": 4
+          }
+        },
+        {
+          "content": "en",
+          "polygon": [
+            5.4443,
+            3.4403,
+            5.5847,
+            3.4403,
+            5.5826,
+            3.5889,
+            5.4423,
+            3.589
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 875,
+            "length": 2
+          }
+        },
+        {
+          "content": "connaître",
+          "polygon": [
+            5.6418,
+            3.4403,
+            6.201,
+            3.4408,
+            6.1986,
+            3.5876,
+            5.6397,
+            3.5888
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 878,
+            "length": 9
+          }
+        },
+        {
+          "content": "davantage",
+          "polygon": [
+            6.2653,
+            3.4408,
+            6.9102,
+            3.4417,
+            6.9074,
+            3.5855,
+            6.2629,
+            3.5874
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 888,
+            "length": 9
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            6.9626,
+            3.4418,
+            7.141,
+            3.4421,
+            7.1382,
+            3.5847,
+            6.9598,
+            3.5854
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 898,
+            "length": 3
+          }
+        },
+        {
+          "content": "l'actif",
+          "polygon": [
+            7.1696,
+            3.4421,
+            7.5115,
+            3.4427,
+            7.5092,
+            3.5835,
+            7.1667,
+            3.5847
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 902,
+            "length": 7
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            1.2755,
+            3.5959,
+            1.432,
+            3.5958,
+            1.432,
+            3.732,
+            1.2755,
+            3.7309
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 910,
+            "length": 2
+          }
+        },
+        {
+          "content": "Mouvement,",
+          "polygon": [
+            1.474,
+            3.5958,
+            2.2142,
+            3.5952,
+            2.2142,
+            3.7373,
+            1.474,
+            3.7323
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 913,
+            "length": 10
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            2.2749,
+            3.5952,
+            2.373,
+            3.5952,
+            2.373,
+            3.7381,
+            2.2749,
+            3.7376
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 924,
+            "length": 2
+          }
+        },
+        {
+          "content": "nombre",
+          "polygon": [
+            2.4221,
+            3.5952,
+            2.8844,
+            3.5951,
+            2.8844,
+            3.7405,
+            2.4221,
+            3.7383
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 927,
+            "length": 6
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.9195,
+            3.5951,
+            3.0736,
+            3.595,
+            3.0736,
+            3.7414,
+            2.9195,
+            3.7407
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 934,
+            "length": 2
+          }
+        },
+        {
+          "content": "caisses,",
+          "polygon": [
+            3.1063,
+            3.595,
+            3.592,
+            3.5952,
+            3.592,
+            3.7428,
+            3.1063,
+            3.7415
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 937,
+            "length": 8
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            3.62,
+            3.5952,
+            3.7414,
+            3.5952,
+            3.7414,
+            3.7431,
+            3.62,
+            3.7429
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 946,
+            "length": 2
+          }
+        },
+        {
+          "content": "nombre",
+          "polygon": [
+            3.7695,
+            3.5952,
+            4.2599,
+            3.5955,
+            4.2599,
+            3.7431,
+            3.7695,
+            3.7431
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 949,
+            "length": 6
+          }
+        },
+        {
+          "content": "d'employés",
+          "polygon": [
+            4.2925,
+            3.5956,
+            5.0001,
+            3.5962,
+            5.0001,
+            3.7431,
+            4.2925,
+            3.7431
+          ],
+          "confidence": 0.543,
+          "span": {
+            "offset": 956,
+            "length": 10
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            5.0398,
+            3.5962,
+            5.1519,
+            3.5964,
+            5.1519,
+            3.7431,
+            5.0398,
+            3.7431
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 967,
+            "length": 2
+          }
+        },
+        {
+          "content": "d'administrateurs,",
+          "polygon": [
+            5.1869,
+            3.5964,
+            6.2658,
+            3.5981,
+            6.2658,
+            3.7409,
+            5.1869,
+            3.7431
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 970,
+            "length": 18
+          }
+        },
+        {
+          "content": "consultez",
+          "polygon": [
+            6.3101,
+            3.5982,
+            6.8963,
+            3.5994,
+            6.8963,
+            3.738,
+            6.3101,
+            3.7407
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 989,
+            "length": 9
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            6.9406,
+            3.5995,
+            7.0457,
+            3.5998,
+            7.0457,
+            3.7371,
+            6.9406,
+            3.7377
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 999,
+            "length": 2
+          }
+        },
+        {
+          "content": "section",
+          "polygon": [
+            7.0854,
+            3.5998,
+            7.5402,
+            3.6009,
+            7.5402,
+            3.7343,
+            7.0854,
+            3.7369
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1002,
+            "length": 7
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            1.2634,
+            3.7456,
+            1.9295,
+            3.7527,
+            1.9295,
+            3.8907,
+            1.2634,
+            3.8911
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1010,
+            "length": 10
+          }
+        },
+        {
+          "content": "en",
+          "polygon": [
+            1.9769,
+            3.7531,
+            2.1101,
+            3.7539,
+            2.1101,
+            3.8904,
+            1.9769,
+            3.8906
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 1021,
+            "length": 2
+          }
+        },
+        {
+          "content": "chiffres",
+          "polygon": [
+            2.1575,
+            3.7542,
+            2.6408,
+            3.7563,
+            2.6408,
+            3.89,
+            2.1575,
+            3.8903
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1024,
+            "length": 8
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            2.6814,
+            3.7564,
+            2.8711,
+            3.7565,
+            2.8711,
+            3.8902,
+            2.6814,
+            3.89
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 1033,
+            "length": 3
+          }
+        },
+        {
+          "content": "notre",
+          "polygon": [
+            2.9117,
+            3.7565,
+            3.2188,
+            3.7561,
+            3.2188,
+            3.8906,
+            2.9117,
+            3.8902
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1037,
+            "length": 5
+          }
+        },
+        {
+          "content": "site",
+          "polygon": [
+            3.264,
+            3.756,
+            3.4785,
+            3.7553,
+            3.4785,
+            3.8911,
+            3.264,
+            3.8907
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 1043,
+            "length": 4
+          }
+        },
+        {
+          "content": "web.",
+          "polygon": [
+            3.5192,
+            3.755,
+            3.8107,
+            3.7534,
+            3.8107,
+            3.8911,
+            3.5192,
+            3.8911
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1048,
+            "length": 4
+          }
+        },
+        {
+          "content": "Vous",
+          "polygon": [
+            1.2774,
+            4.0705,
+            1.6083,
+            4.0697,
+            1.6051,
+            4.2126,
+            1.2744,
+            4.2121
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1053,
+            "length": 4
+          }
+        },
+        {
+          "content": "pouvez",
+          "polygon": [
+            1.6622,
+            4.0695,
+            2.1082,
+            4.0684,
+            2.1047,
+            4.2133,
+            1.6589,
+            4.2127
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1058,
+            "length": 6
+          }
+        },
+        {
+          "content": "accéder",
+          "polygon": [
+            2.1572,
+            4.0683,
+            2.6522,
+            4.0673,
+            2.6485,
+            4.214,
+            2.1537,
+            4.2134
+          ],
+          "confidence": 0.765,
+          "span": {
+            "offset": 1065,
+            "length": 7
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            2.711,
+            4.0672,
+            2.7821,
+            4.0671,
+            2.7783,
+            4.2142,
+            2.7073,
+            4.2141
+          ],
+          "confidence": 0.656,
+          "span": {
+            "offset": 1073,
+            "length": 1
+          }
+        },
+        {
+          "content": "notre",
+          "polygon": [
+            2.8384,
+            4.067,
+            3.1448,
+            4.0664,
+            3.1408,
+            4.2146,
+            2.8346,
+            4.2142
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1075,
+            "length": 5
+          }
+        },
+        {
+          "content": "site",
+          "polygon": [
+            3.2085,
+            4.0663,
+            3.4143,
+            4.066,
+            3.4102,
+            4.2148,
+            3.2045,
+            4.2146
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1081,
+            "length": 4
+          }
+        },
+        {
+          "content": "internet",
+          "polygon": [
+            3.4437,
+            4.0659,
+            3.9142,
+            4.0652,
+            3.9099,
+            4.2153,
+            3.4396,
+            4.2149
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 1086,
+            "length": 8
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            3.9902,
+            4.0651,
+            4.2745,
+            4.0647,
+            4.27,
+            4.2155,
+            3.9858,
+            4.2154
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1095,
+            "length": 4
+          }
+        },
+        {
+          "content": "plus",
+          "polygon": [
+            4.3259,
+            4.0647,
+            4.5734,
+            4.0644,
+            4.5688,
+            4.2157,
+            4.3214,
+            4.2156
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1100,
+            "length": 4
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            4.6224,
+            4.0644,
+            4.7768,
+            4.0642,
+            4.7721,
+            4.2157,
+            4.6178,
+            4.2157
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1105,
+            "length": 2
+          }
+        },
+        {
+          "content": "détails",
+          "polygon": [
+            4.8332,
+            4.0641,
+            5.2302,
+            4.0638,
+            5.2252,
+            4.2157,
+            4.8284,
+            4.2157
+          ],
+          "confidence": 0.666,
+          "span": {
+            "offset": 1108,
+            "length": 7
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            5.2914,
+            4.0638,
+            5.4801,
+            4.0637,
+            5.475,
+            4.2157,
+            5.2864,
+            4.2157
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1116,
+            "length": 3
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            5.5291,
+            4.0636,
+            5.6321,
+            4.0636,
+            5.6269,
+            4.2157,
+            5.524,
+            4.2157
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1120,
+            "length": 2
+          }
+        },
+        {
+          "content": "Mouvement",
+          "polygon": [
+            5.6982,
+            4.0635,
+            6.4113,
+            4.0633,
+            6.4058,
+            4.2157,
+            5.693,
+            4.2157
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1123,
+            "length": 9
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            6.4677,
+            4.0633,
+            7.1097,
+            4.0633,
+            7.1039,
+            4.2157,
+            6.4621,
+            4.2157
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1133,
+            "length": 10
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            7.1735,
+            4.0634,
+            7.2837,
+            4.0634,
+            7.2778,
+            4.2157,
+            7.1676,
+            4.2157
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1144,
+            "length": 2
+          }
+        },
+        {
+          "content": "les",
+          "polygon": [
+            7.3401,
+            4.0634,
+            7.5258,
+            4.0634,
+            7.5252,
+            4.2157,
+            7.3341,
+            4.2157
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1147,
+            "length": 3
+          }
+        },
+        {
+          "content": "services",
+          "polygon": [
+            1.2834,
+            4.2299,
+            1.7932,
+            4.2255,
+            1.7902,
+            4.3728,
+            1.2804,
+            4.3712
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1151,
+            "length": 8
+          }
+        },
+        {
+          "content": "qu'il",
+          "polygon": [
+            1.8468,
+            4.2252,
+            2.0842,
+            4.2238,
+            2.0812,
+            4.3727,
+            1.8437,
+            4.3728
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1160,
+            "length": 5
+          }
+        },
+        {
+          "content": "offre",
+          "polygon": [
+            2.1378,
+            4.2236,
+            2.4358,
+            4.2226,
+            2.4327,
+            4.3714,
+            2.1347,
+            4.3726
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1166,
+            "length": 5
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            2.4893,
+            4.2225,
+            2.5126,
+            4.2225,
+            2.5095,
+            4.3709,
+            2.4863,
+            4.3711
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 1172,
+            "length": 1
+          }
+        },
+        {
+          "content": "www.desjardins.com.",
+          "polygon": [
+            2.5638,
+            4.2225,
+            3.868,
+            4.2275,
+            3.868,
+            4.3533,
+            2.5608,
+            4.3706
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 1174,
+            "length": 19
+          }
+        },
+        {
+          "content": "Objet",
+          "polygon": [
+            0.9739,
+            4.535,
+            1.3375,
+            4.5369,
+            1.337,
+            4.7014,
+            0.9739,
+            4.6989
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1194,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.388,
+            4.5372,
+            1.526,
+            4.5378,
+            1.5252,
+            4.7023,
+            1.3874,
+            4.7016
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 1200,
+            "length": 2
+          }
+        },
+        {
+          "content": "l'Appel",
+          "polygon": [
+            1.5579,
+            4.5379,
+            2.0304,
+            4.5394,
+            2.0289,
+            4.7027,
+            1.5571,
+            4.7024
+          ],
+          "confidence": 0.747,
+          "span": {
+            "offset": 1203,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.0862,
+            4.5396,
+            2.2375,
+            4.5399,
+            2.2357,
+            4.7024,
+            2.0846,
+            4.7027
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 1211,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions",
+          "polygon": [
+            2.3012,
+            4.54,
+            3.1326,
+            4.5399,
+            3.1326,
+            4.6959,
+            2.2993,
+            4.7022
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1214,
+            "length": 12
+          }
+        },
+        {
+          "content": "Par",
+          "polygon": [
+            1.2744,
+            4.8679,
+            1.4931,
+            4.8678,
+            1.4901,
+            5.0183,
+            1.2714,
+            5.0177
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1227,
+            "length": 3
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            1.5229,
+            4.8678,
+            1.6571,
+            4.8677,
+            1.6541,
+            5.0188,
+            1.5199,
+            5.0184
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1231,
+            "length": 2
+          }
+        },
+        {
+          "content": "présent",
+          "polygon": [
+            1.7242,
+            4.8677,
+            2.1764,
+            4.8674,
+            2.1734,
+            5.0203,
+            1.7212,
+            5.019
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 1234,
+            "length": 7
+          }
+        },
+        {
+          "content": "Appel",
+          "polygon": [
+            2.2386,
+            4.8674,
+            2.5989,
+            4.8672,
+            2.5958,
+            5.0209,
+            2.2355,
+            5.0204
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1242,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.6585,
+            4.8672,
+            2.815,
+            4.8671,
+            2.812,
+            5.0213,
+            2.6555,
+            5.021
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1248,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions,",
+          "polygon": [
+            2.8722,
+            4.8671,
+            3.6798,
+            4.8668,
+            3.6767,
+            5.0218,
+            2.8692,
+            5.0214
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 1251,
+            "length": 13
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            3.7369,
+            4.8668,
+            3.8288,
+            4.8667,
+            3.8258,
+            5.0218,
+            3.7339,
+            5.0218
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1265,
+            "length": 2
+          }
+        },
+        {
+          "content": "programme",
+          "polygon": [
+            3.8587,
+            4.8667,
+            4.5867,
+            4.8665,
+            4.5837,
+            5.0211,
+            3.8556,
+            5.0218
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1268,
+            "length": 9
+          }
+        },
+        {
+          "content": "Données",
+          "polygon": [
+            4.6439,
+            4.8665,
+            5.1831,
+            4.8663,
+            5.18,
+            5.0199,
+            4.6408,
+            5.021
+          ],
+          "confidence": 0.71,
+          "span": {
+            "offset": 1278,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            5.2527,
+            4.8663,
+            5.3645,
+            4.8663,
+            5.3614,
+            5.0195,
+            5.2496,
+            5.0198
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1286,
+            "length": 2
+          }
+        },
+        {
+          "content": "analytique",
+          "polygon": [
+            5.4291,
+            4.8663,
+            6.0528,
+            4.8661,
+            6.0497,
+            5.0173,
+            5.426,
+            5.0193
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1289,
+            "length": 10
+          }
+        },
+        {
+          "content": "désire",
+          "polygon": [
+            6.1174,
+            4.8661,
+            6.4901,
+            4.8661,
+            6.4871,
+            5.0156,
+            6.1143,
+            5.0171
+          ],
+          "confidence": 0.788,
+          "span": {
+            "offset": 1300,
+            "length": 6
+          }
+        },
+        {
+          "content": "moderniser",
+          "polygon": [
+            6.5646,
+            4.8661,
+            7.2529,
+            4.866,
+            7.2499,
+            5.0118,
+            6.5616,
+            5.0153
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1307,
+            "length": 10
+          }
+        },
+        {
+          "content": "ses",
+          "polygon": [
+            7.3151,
+            4.866,
+            7.5354,
+            4.8659,
+            7.5332,
+            5.0103,
+            7.312,
+            5.0115
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1318,
+            "length": 3
+          }
+        },
+        {
+          "content": "plateformes",
+          "polygon": [
+            1.2715,
+            5.0273,
+            2.0114,
+            5.0262,
+            2.0111,
+            5.1773,
+            1.2714,
+            5.1761
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 1322,
+            "length": 11
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.0556,
+            5.0261,
+            2.2075,
+            5.0259,
+            2.207,
+            5.1776,
+            2.0552,
+            5.1774
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1334,
+            "length": 2
+          }
+        },
+        {
+          "content": "données",
+          "polygon": [
+            2.2614,
+            5.0259,
+            2.7833,
+            5.0254,
+            2.7826,
+            5.1781,
+            2.2609,
+            5.1777
+          ],
+          "confidence": 0.87,
+          "span": {
+            "offset": 1337,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            2.8445,
+            5.0253,
+            2.9573,
+            5.0252,
+            2.9564,
+            5.1782,
+            2.8438,
+            5.1781
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1345,
+            "length": 2
+          }
+        },
+        {
+          "content": "d'analytique",
+          "polygon": [
+            3.0112,
+            5.0251,
+            3.7487,
+            5.0248,
+            3.7475,
+            5.1782,
+            3.0103,
+            5.1782
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 1348,
+            "length": 12
+          }
+        },
+        {
+          "content": "afin",
+          "polygon": [
+            3.8075,
+            5.0248,
+            4.0305,
+            5.0248,
+            4.0291,
+            5.1781,
+            3.8063,
+            5.1782
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1361,
+            "length": 4
+          }
+        },
+        {
+          "content": "d'améliorer",
+          "polygon": [
+            4.0868,
+            5.0248,
+            4.7607,
+            5.0249,
+            4.759,
+            5.1773,
+            4.0855,
+            5.178
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 1366,
+            "length": 11
+          }
+        },
+        {
+          "content": "l'expérience",
+          "polygon": [
+            4.7901,
+            5.0249,
+            5.5448,
+            5.0255,
+            5.5427,
+            5.1758,
+            4.7884,
+            5.1773
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 1378,
+            "length": 12
+          }
+        },
+        {
+          "content": "membres",
+          "polygon": [
+            5.6011,
+            5.0255,
+            6.1622,
+            5.0262,
+            6.1599,
+            5.1742,
+            5.599,
+            5.1757
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1391,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            6.2211,
+            5.0263,
+            6.3338,
+            5.0264,
+            6.3313,
+            5.1737,
+            6.2187,
+            5.174
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1399,
+            "length": 2
+          }
+        },
+        {
+          "content": "clients,",
+          "polygon": [
+            6.3877,
+            5.0265,
+            6.8189,
+            5.0272,
+            6.8162,
+            5.1721,
+            6.3852,
+            5.1735
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1402,
+            "length": 8
+          }
+        },
+        {
+          "content": "soutenir",
+          "polygon": [
+            6.8851,
+            5.0273,
+            7.3776,
+            5.0283,
+            7.3746,
+            5.17,
+            6.8824,
+            5.1718
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1411,
+            "length": 8
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            7.429,
+            5.0284,
+            7.5402,
+            5.0286,
+            7.5402,
+            5.1694,
+            7.4261,
+            5.1698
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1420,
+            "length": 2
+          }
+        },
+        {
+          "content": "croissance,",
+          "polygon": [
+            1.2764,
+            5.1898,
+            1.9784,
+            5.1845,
+            1.9767,
+            5.3302,
+            1.2734,
+            5.3253
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 1423,
+            "length": 11
+          }
+        },
+        {
+          "content": "gérer",
+          "polygon": [
+            2.0346,
+            5.1842,
+            2.3341,
+            5.1826,
+            2.333,
+            5.3313,
+            2.0329,
+            5.3305
+          ],
+          "confidence": 0.734,
+          "span": {
+            "offset": 1435,
+            "length": 5
+          }
+        },
+        {
+          "content": "les",
+          "polygon": [
+            2.3622,
+            5.1825,
+            2.5541,
+            5.1817,
+            2.5534,
+            5.3314,
+            2.3612,
+            5.3314
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1441,
+            "length": 3
+          }
+        },
+        {
+          "content": "risques",
+          "polygon": [
+            2.6102,
+            5.1815,
+            3.0431,
+            5.1806,
+            3.0434,
+            5.3303,
+            2.6097,
+            5.3315
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1445,
+            "length": 7
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            3.0923,
+            5.1805,
+            3.2046,
+            5.1804,
+            3.2052,
+            5.3295,
+            3.0926,
+            5.3301
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1453,
+            "length": 2
+          }
+        },
+        {
+          "content": "améliorer",
+          "polygon": [
+            3.2538,
+            5.1804,
+            3.813,
+            5.181,
+            3.8147,
+            5.3243,
+            3.2544,
+            5.3291
+          ],
+          "confidence": 0.818,
+          "span": {
+            "offset": 1456,
+            "length": 9
+          }
+        },
+        {
+          "content": "l'efficience.",
+          "polygon": [
+            3.8411,
+            5.1811,
+            4.5712,
+            5.1838,
+            4.5743,
+            5.3139,
+            3.8428,
+            5.324
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 1466,
+            "length": 13
+          }
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            1.2715,
+            5.5017,
+            1.9317,
+            5.5014,
+            1.9284,
+            5.6533,
+            1.2684,
+            5.654
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1480,
+            "length": 10
+          }
+        },
+        {
+          "content": "agit",
+          "polygon": [
+            1.9823,
+            5.5013,
+            2.2075,
+            5.5012,
+            2.204,
+            5.653,
+            1.9789,
+            5.6532
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1491,
+            "length": 4
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            2.253,
+            5.5012,
+            2.3239,
+            5.5012,
+            2.3203,
+            5.6529,
+            2.2495,
+            5.653
+          ],
+          "confidence": 0.582,
+          "span": {
+            "offset": 1496,
+            "length": 1
+          }
+        },
+        {
+          "content": "titre",
+          "polygon": [
+            2.377,
+            5.5011,
+            2.6047,
+            5.501,
+            2.601,
+            5.6528,
+            2.3734,
+            5.6529
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1498,
+            "length": 5
+          }
+        },
+        {
+          "content": "d'instigateur",
+          "polygon": [
+            2.6502,
+            5.501,
+            3.4041,
+            5.5005,
+            3.4,
+            5.6526,
+            2.6465,
+            5.6528
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 1504,
+            "length": 13
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            3.4521,
+            5.5005,
+            3.566,
+            5.5004,
+            3.5618,
+            5.6526,
+            3.448,
+            5.6526
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1518,
+            "length": 2
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.609,
+            5.5004,
+            3.7633,
+            5.5003,
+            3.7591,
+            5.6526,
+            3.6048,
+            5.6526
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1521,
+            "length": 2
+          }
+        },
+        {
+          "content": "coordonnateur",
+          "polygon": [
+            3.8088,
+            5.5003,
+            4.7069,
+            5.4997,
+            4.7022,
+            5.653,
+            3.8046,
+            5.6526
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 1524,
+            "length": 13
+          }
+        },
+        {
+          "content": "principal",
+          "polygon": [
+            4.7601,
+            5.4996,
+            5.2685,
+            5.4993,
+            5.2636,
+            5.6535,
+            4.7553,
+            5.653
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 1538,
+            "length": 9
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            5.3191,
+            5.4992,
+            5.4709,
+            5.4991,
+            5.4659,
+            5.6537,
+            5.3141,
+            5.6536
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 1548,
+            "length": 2
+          }
+        },
+        {
+          "content": "présent",
+          "polygon": [
+            5.519,
+            5.4991,
+            5.9718,
+            5.4987,
+            5.9665,
+            5.6544,
+            5.5139,
+            5.6538
+          ],
+          "confidence": 0.778,
+          "span": {
+            "offset": 1551,
+            "length": 7
+          }
+        },
+        {
+          "content": "Appel",
+          "polygon": [
+            6.0275,
+            5.4987,
+            6.3867,
+            5.4984,
+            6.3812,
+            5.6551,
+            6.0221,
+            5.6545
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 1559,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            6.4272,
+            5.4984,
+            6.579,
+            5.4983,
+            6.5734,
+            5.6554,
+            6.4217,
+            5.6551
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1565,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions.",
+          "polygon": [
+            6.627,
+            5.4982,
+            7.4341,
+            5.4976,
+            7.428,
+            5.6572,
+            6.6214,
+            5.6554
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 1568,
+            "length": 13
+          }
+        },
+        {
+          "content": "Il",
+          "polygon": [
+            7.4846,
+            5.4975,
+            7.5449,
+            5.4975,
+            7.5449,
+            5.6574,
+            7.4786,
+            5.6573
+          ],
+          "confidence": 0.279,
+          "span": {
+            "offset": 1582,
+            "length": 2
+          }
+        },
+        {
+          "content": "agit",
+          "polygon": [
+            1.2774,
+            5.6681,
+            1.5095,
+            5.6672,
+            1.5064,
+            5.8139,
+            1.2744,
+            5.8144
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1585,
+            "length": 4
+          }
+        },
+        {
+          "content": "tant",
+          "polygon": [
+            1.5416,
+            5.6671,
+            1.7687,
+            5.6662,
+            1.7657,
+            5.8134,
+            1.5385,
+            5.8138
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1590,
+            "length": 4
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            1.8304,
+            5.666,
+            2.097,
+            5.6649,
+            2.094,
+            5.8127,
+            1.8274,
+            5.8132
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1595,
+            "length": 4
+          }
+        },
+        {
+          "content": "son",
+          "polygon": [
+            2.1266,
+            5.6648,
+            2.3612,
+            5.6641,
+            2.3581,
+            5.8123,
+            2.1236,
+            5.8126
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1600,
+            "length": 3
+          }
+        },
+        {
+          "content": "compte",
+          "polygon": [
+            2.4105,
+            5.664,
+            2.8746,
+            5.6626,
+            2.8716,
+            5.8116,
+            2.4075,
+            5.8122
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1604,
+            "length": 6
+          }
+        },
+        {
+          "content": "que",
+          "polygon": [
+            2.9117,
+            5.6625,
+            3.124,
+            5.6619,
+            3.1209,
+            5.8113,
+            2.9086,
+            5.8115
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1611,
+            "length": 3
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            3.1536,
+            5.6619,
+            3.44,
+            5.6613,
+            3.4369,
+            5.8111,
+            3.1506,
+            5.8113
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1615,
+            "length": 4
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            3.4696,
+            5.6612,
+            3.5955,
+            5.661,
+            3.5924,
+            5.811,
+            3.4665,
+            5.8111
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1620,
+            "length": 2
+          }
+        },
+        {
+          "content": "bénéfice",
+          "polygon": [
+            3.6424,
+            5.6609,
+            4.1657,
+            5.66,
+            4.1627,
+            5.8108,
+            3.6394,
+            5.811
+          ],
+          "confidence": 0.683,
+          "span": {
+            "offset": 1623,
+            "length": 8
+          }
+        },
+        {
+          "content": "des",
+          "polygon": [
+            4.2151,
+            5.66,
+            4.4348,
+            5.6597,
+            4.4318,
+            5.8108,
+            4.2121,
+            5.8108
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1632,
+            "length": 3
+          }
+        },
+        {
+          "content": "Clients",
+          "polygon": [
+            4.4768,
+            5.6597,
+            4.8817,
+            5.6592,
+            4.8786,
+            5.8108,
+            4.4738,
+            5.8108
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1636,
+            "length": 7
+          }
+        },
+        {
+          "content": "lors",
+          "polygon": [
+            4.9458,
+            5.6592,
+            5.1631,
+            5.6592,
+            5.16,
+            5.811,
+            4.9428,
+            5.8109
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 1644,
+            "length": 4
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            5.205,
+            5.6592,
+            5.3556,
+            5.6591,
+            5.3526,
+            5.8112,
+            5.202,
+            5.8111
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 1649,
+            "length": 2
+          }
+        },
+        {
+          "content": "processus",
+          "polygon": [
+            5.405,
+            5.6591,
+            6.037,
+            5.6593,
+            6.0339,
+            5.8119,
+            5.402,
+            5.8112
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1652,
+            "length": 9
+          }
+        },
+        {
+          "content": "d'Appel",
+          "polygon": [
+            6.0765,
+            5.6593,
+            6.5529,
+            5.6596,
+            6.5499,
+            5.8127,
+            6.0734,
+            5.812
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1662,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            6.5924,
+            5.6596,
+            6.7455,
+            5.6598,
+            6.7424,
+            5.813,
+            6.5894,
+            5.8127
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1670,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions",
+          "polygon": [
+            6.7825,
+            5.6599,
+            7.5306,
+            5.6611,
+            7.5306,
+            5.8147,
+            6.7795,
+            5.8131
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1673,
+            "length": 12
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.2774,
+            5.8212,
+            1.3928,
+            5.821,
+            1.3927,
+            5.9679,
+            1.2774,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1686,
+            "length": 2
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            1.4443,
+            5.8209,
+            1.6996,
+            5.8204,
+            1.6994,
+            5.9679,
+            1.4443,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1689,
+            "length": 4
+          }
+        },
+        {
+          "content": "toute",
+          "polygon": [
+            1.7291,
+            5.8204,
+            2.0433,
+            5.8198,
+            2.0429,
+            5.9679,
+            1.7289,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1694,
+            "length": 5
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            2.0727,
+            5.8197,
+            2.1955,
+            5.8195,
+            2.195,
+            5.9679,
+            2.0724,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1700,
+            "length": 2
+          }
+        },
+        {
+          "content": "Durée",
+          "polygon": [
+            2.247,
+            5.8194,
+            2.603,
+            5.819,
+            2.6023,
+            5.9679,
+            2.2465,
+            5.9679
+          ],
+          "confidence": 0.638,
+          "span": {
+            "offset": 1703,
+            "length": 5
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            2.6594,
+            5.8189,
+            2.8091,
+            5.8187,
+            2.8084,
+            5.9679,
+            2.6587,
+            5.9679
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1709,
+            "length": 2
+          }
+        },
+        {
+          "content": "Contrat.",
+          "polygon": [
+            2.8484,
+            5.8187,
+            3.3222,
+            5.8182,
+            3.3212,
+            5.9679,
+            2.8477,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1712,
+            "length": 8
+          }
+        },
+        {
+          "content": "Les",
+          "polygon": [
+            3.3811,
+            5.8181,
+            3.5873,
+            5.818,
+            3.5861,
+            5.9679,
+            3.3801,
+            5.9679
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1721,
+            "length": 3
+          }
+        },
+        {
+          "content": "Clients",
+          "polygon": [
+            3.6388,
+            5.8179,
+            4.0438,
+            5.8177,
+            4.0425,
+            5.9679,
+            3.6377,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1725,
+            "length": 7
+          }
+        },
+        {
+          "content": "demeurent",
+          "polygon": [
+            4.1052,
+            5.8177,
+            4.7459,
+            5.8175,
+            4.7442,
+            5.9679,
+            4.1038,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1733,
+            "length": 9
+          }
+        },
+        {
+          "content": "autonomes",
+          "polygon": [
+            4.8023,
+            5.8175,
+            5.4798,
+            5.8177,
+            5.4778,
+            5.9679,
+            4.8006,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1743,
+            "length": 9
+          }
+        },
+        {
+          "content": "dans",
+          "polygon": [
+            5.5289,
+            5.8177,
+            5.8137,
+            5.8178,
+            5.8115,
+            5.9679,
+            5.5268,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1753,
+            "length": 4
+          }
+        },
+        {
+          "content": "leur",
+          "polygon": [
+            5.8431,
+            5.8179,
+            6.0861,
+            5.8181,
+            6.0838,
+            5.9679,
+            5.8409,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1758,
+            "length": 4
+          }
+        },
+        {
+          "content": "acquisition",
+          "polygon": [
+            6.1352,
+            5.8181,
+            6.7955,
+            5.8187,
+            6.7928,
+            5.9679,
+            6.1329,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1763,
+            "length": 11
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            6.8323,
+            5.8188,
+            6.9821,
+            5.819,
+            6.9793,
+            5.9679,
+            6.8296,
+            5.9679
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1775,
+            "length": 2
+          }
+        },
+        {
+          "content": "Biens",
+          "polygon": [
+            7.0238,
+            5.819,
+            7.3527,
+            5.8195,
+            7.3498,
+            5.9679,
+            7.021,
+            5.9679
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1778,
+            "length": 5
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            7.4043,
+            5.8196,
+            7.5258,
+            5.8197,
+            7.5258,
+            5.9679,
+            7.4013,
+            5.9679
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1784,
+            "length": 2
+          }
+        },
+        {
+          "content": "Services",
+          "polygon": [
+            1.2715,
+            5.9723,
+            1.8054,
+            5.9738,
+            1.8047,
+            6.1159,
+            1.2714,
+            6.111
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1787,
+            "length": 8
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.8552,
+            5.974,
+            1.9667,
+            5.9742,
+            1.9658,
+            6.1173,
+            1.8544,
+            6.1163
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1796,
+            "length": 2
+          }
+        },
+        {
+          "content": "seuls",
+          "polygon": [
+            2.0118,
+            5.9743,
+            2.325,
+            5.9749,
+            2.3237,
+            6.1195,
+            2.0108,
+            6.1176
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1799,
+            "length": 5
+          }
+        },
+        {
+          "content": "responsables",
+          "polygon": [
+            2.3772,
+            5.975,
+            3.1983,
+            5.9761,
+            3.1958,
+            6.1235,
+            2.3758,
+            6.1199
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1805,
+            "length": 12
+          }
+        },
+        {
+          "content": "des",
+          "polygon": [
+            3.2505,
+            5.9762,
+            3.4688,
+            5.9762,
+            3.4659,
+            6.1239,
+            3.2479,
+            6.1236
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1818,
+            "length": 3
+          }
+        },
+        {
+          "content": "engagements",
+          "polygon": [
+            3.5186,
+            5.9762,
+            4.342,
+            5.9759,
+            4.338,
+            6.1234,
+            3.5157,
+            6.1239
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1822,
+            "length": 11
+          }
+        },
+        {
+          "content": "pris",
+          "polygon": [
+            4.3966,
+            5.9759,
+            4.6149,
+            5.9756,
+            4.6105,
+            6.1228,
+            4.3925,
+            6.1233
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1834,
+            "length": 4
+          }
+        },
+        {
+          "content": "avec",
+          "polygon": [
+            4.6648,
+            5.9756,
+            4.9495,
+            5.9751,
+            4.9447,
+            6.1213,
+            4.6603,
+            6.1226
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1839,
+            "length": 4
+          }
+        },
+        {
+          "content": "le",
+          "polygon": [
+            4.9993,
+            5.975,
+            5.099,
+            5.9748,
+            5.094,
+            6.1206,
+            4.9944,
+            6.121
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1844,
+            "length": 2
+          }
+        },
+        {
+          "content": "Fournisseur.",
+          "polygon": [
+            5.1465,
+            5.9747,
+            5.907,
+            5.9727,
+            5.9068,
+            6.115,
+            5.1414,
+            6.1204
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 1847,
+            "length": 12
+          }
+        },
+        {
+          "content": "Le",
+          "polygon": [
+            1.2694,
+            6.2828,
+            1.4256,
+            6.2827,
+            1.4256,
+            6.4338,
+            1.2694,
+            6.4333
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 1860,
+            "length": 2
+          }
+        },
+        {
+          "content": "Proposant",
+          "polygon": [
+            1.4743,
+            6.2827,
+            2.1096,
+            6.2824,
+            2.1096,
+            6.4359,
+            1.4743,
+            6.434
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1863,
+            "length": 9
+          }
+        },
+        {
+          "content": "doit",
+          "polygon": [
+            2.1454,
+            6.2824,
+            2.3811,
+            6.2823,
+            2.3811,
+            6.4366,
+            2.1454,
+            6.436
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1873,
+            "length": 4
+          }
+        },
+        {
+          "content": "se",
+          "polygon": [
+            2.4195,
+            6.2823,
+            2.5399,
+            6.2822,
+            2.5399,
+            6.437,
+            2.4195,
+            6.4367
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1878,
+            "length": 2
+          }
+        },
+        {
+          "content": "référer",
+          "polygon": [
+            2.5707,
+            6.2822,
+            2.9984,
+            6.282,
+            2.9984,
+            6.4381,
+            2.5707,
+            6.4371
+          ],
+          "confidence": 0.788,
+          "span": {
+            "offset": 1881,
+            "length": 7
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            3.0343,
+            6.282,
+            3.083,
+            6.282,
+            3.083,
+            6.4383,
+            3.0343,
+            6.4382
+          ],
+          "confidence": 0.567,
+          "span": {
+            "offset": 1889,
+            "length": 1
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            3.1137,
+            6.282,
+            3.2392,
+            6.282,
+            3.2392,
+            6.4385,
+            3.1137,
+            6.4383
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1891,
+            "length": 2
+          }
+        },
+        {
+          "content": "clause",
+          "polygon": [
+            3.2853,
+            6.282,
+            3.6773,
+            6.2819,
+            3.6773,
+            6.4392,
+            3.2853,
+            6.4386
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 1894,
+            "length": 6
+          }
+        },
+        {
+          "content": "«",
+          "polygon": [
+            3.7285,
+            6.2819,
+            3.79,
+            6.2818,
+            3.79,
+            6.4394,
+            3.7285,
+            6.4393
+          ],
+          "confidence": 0.778,
+          "span": {
+            "offset": 1901,
+            "length": 1
+          }
+        },
+        {
+          "content": "Calendrier",
+          "polygon": [
+            3.8412,
+            6.2818,
+            4.456,
+            6.2818,
+            4.456,
+            6.4401,
+            3.8412,
+            6.4395
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 1903,
+            "length": 10
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            4.5149,
+            6.2818,
+            4.666,
+            6.2817,
+            4.666,
+            6.4403,
+            4.5149,
+            6.4402
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1914,
+            "length": 2
+          }
+        },
+        {
+          "content": "processus",
+          "polygon": [
+            4.7147,
+            6.2817,
+            5.3474,
+            6.2817,
+            5.3474,
+            6.4405,
+            4.7147,
+            6.4403
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 1917,
+            "length": 9
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.3884,
+            6.2817,
+            5.5216,
+            6.2817,
+            5.5216,
+            6.4405,
+            5.3884,
+            6.4405
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1927,
+            "length": 2
+          }
+        },
+        {
+          "content": "l'Appel",
+          "polygon": [
+            5.5524,
+            6.2817,
+            5.9981,
+            6.2818,
+            5.9981,
+            6.4403,
+            5.5524,
+            6.4405
+          ],
+          "confidence": 0.947,
+          "span": {
+            "offset": 1930,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            6.0365,
+            6.2818,
+            6.1774,
+            6.2818,
+            6.1774,
+            6.4402,
+            6.0365,
+            6.4403
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1938,
+            "length": 2
+          }
+        },
+        {
+          "content": "propositions",
+          "polygon": [
+            6.2081,
+            6.2818,
+            6.9869,
+            6.282,
+            6.9869,
+            6.4394,
+            6.2081,
+            6.4402
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 1941,
+            "length": 12
+          }
+        },
+        {
+          "content": ">>",
+          "polygon": [
+            7.0355,
+            6.282,
+            7.097,
+            6.2821,
+            7.097,
+            6.4392,
+            7.0355,
+            6.4393
+          ],
+          "confidence": 0.191,
+          "span": {
+            "offset": 1954,
+            "length": 2
+          }
+        },
+        {
+          "content": "afin",
+          "polygon": [
+            7.1329,
+            6.2821,
+            7.3455,
+            6.2821,
+            7.3455,
+            6.4389,
+            7.1329,
+            6.4392
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1957,
+            "length": 4
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            7.3839,
+            6.2821,
+            7.5449,
+            6.2822,
+            7.5449,
+            6.4386,
+            7.3839,
+            6.4388
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1962,
+            "length": 2
+          }
+        },
+        {
+          "content": "connaître",
+          "polygon": [
+            1.2774,
+            6.4482,
+            1.8365,
+            6.4437,
+            1.8359,
+            6.5928,
+            1.2774,
+            6.5836
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 1965,
+            "length": 9
+          }
+        },
+        {
+          "content": "les",
+          "polygon": [
+            1.8691,
+            6.4435,
+            2.0647,
+            6.4423,
+            2.0638,
+            6.5959,
+            1.8684,
+            6.5932
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1975,
+            "length": 3
+          }
+        },
+        {
+          "content": "dates",
+          "polygon": [
+            2.1148,
+            6.4422,
+            2.4407,
+            6.441,
+            2.4394,
+            6.5993,
+            2.1139,
+            6.5963
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1979,
+            "length": 5
+          }
+        },
+        {
+          "content": "importantes",
+          "polygon": [
+            2.4708,
+            6.4409,
+            3.2205,
+            6.4412,
+            3.2183,
+            6.6017,
+            2.4695,
+            6.5995
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1985,
+            "length": 11
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            3.2706,
+            6.4414,
+            3.3383,
+            6.4417,
+            3.336,
+            6.6013,
+            3.2684,
+            6.6015
+          ],
+          "confidence": 0.694,
+          "span": {
+            "offset": 1997,
+            "length": 1
+          }
+        },
+        {
+          "content": "respecter.",
+          "polygon": [
+            3.3884,
+            6.4419,
+            4.0017,
+            6.4454,
+            4.0017,
+            6.5974,
+            3.3861,
+            6.6011
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1999,
+            "length": 10
+          }
+        },
+        {
+          "content": "CONFIDENTIEL",
+          "polygon": [
+            1.0498,
+            10.1185,
+            2.0486,
+            10.1249,
+            2.0486,
+            10.2578,
+            1.0497,
+            10.2636
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 2010,
+            "length": 12
+          }
+        },
+        {
+          "content": "Version",
+          "polygon": [
+            1.0527,
+            10.2717,
+            1.4651,
+            10.2734,
+            1.4621,
+            10.3961,
+            1.0497,
+            10.3981
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 2023,
+            "length": 7
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            1.5197,
+            10.2735,
+            1.5581,
+            10.2735,
+            1.5551,
+            10.3958,
+            1.5167,
+            10.3959
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 2031,
+            "length": 1
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            1.6046,
+            10.2736,
+            1.6592,
+            10.2736,
+            1.6561,
+            10.3955,
+            1.6016,
+            10.3956
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 2033,
+            "length": 1
+          }
+        },
+        {
+          "content": "janvier",
+          "polygon": [
+            1.6834,
+            10.2736,
+            2.0615,
+            10.273,
+            2.0584,
+            10.3953,
+            1.6804,
+            10.3955
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 2035,
+            "length": 7
+          }
+        },
+        {
+          "content": "2024",
+          "polygon": [
+            2.0958,
+            10.2728,
+            2.3627,
+            10.2716,
+            2.3596,
+            10.3958,
+            2.0928,
+            10.3953
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 2043,
+            "length": 4
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            3.69,
+            9.9337,
+            4.0214,
+            9.9332,
+            4.0214,
+            10.0856,
+            3.69,
+            10.0863
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 2048,
+            "length": 4
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            4.0669,
+            9.933,
+            4.1352,
+            9.9327,
+            4.1352,
+            10.0856,
+            4.0669,
+            10.0856
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 2053,
+            "length": 1
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            4.1832,
+            9.9323,
+            4.3729,
+            9.9308,
+            4.3729,
+            10.0863,
+            4.1832,
+            10.0857
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 2055,
+            "length": 3
+          }
+        },
+        {
+          "content": "23",
+          "polygon": [
+            4.4109,
+            9.9304,
+            4.5747,
+            9.9286,
+            4.5747,
+            10.0874,
+            4.4109,
+            10.0865
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 2059,
+            "length": 2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Appel de propositions no BPM006398",
+          "polygon": [
+            5.2671,
+            0.5013,
+            7.6643,
+            0.4918,
+            7.6643,
+            0.6398,
+            5.2671,
+            0.6541
+          ],
+          "spans": [
+            {
+              "offset": 216,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "Accompagnement - Programme Données et",
+          "polygon": [
+            4.8851,
+            0.6589,
+            7.6643,
+            0.6541,
+            7.6643,
+            0.8021,
+            4.8851,
+            0.8116
+          ],
+          "spans": [
+            {
+              "offset": 251,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "Analytique",
+          "polygon": [
+            6.991,
+            0.8164,
+            7.6596,
+            0.8164,
+            7.6596,
+            0.9549,
+            6.991,
+            0.9549
+          ],
+          "spans": [
+            {
+              "offset": 289,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "Desjardins",
+          "polygon": [
+            1.6093,
+            0.7782,
+            3.4621,
+            0.7639,
+            3.4669,
+            1.1267,
+            1.6093,
+            1.1411
+          ],
+          "spans": [
+            {
+              "offset": 300,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "PRÉAMBULE",
+          "polygon": [
+            0.9694,
+            1.8286,
+            1.8433,
+            1.8286,
+            1.8433,
+            1.9909,
+            0.9694,
+            1.9909
+          ],
+          "spans": [
+            {
+              "offset": 311,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "Le préambule fait partie intégrante du Cahier des charges.",
+          "polygon": [
+            1.2702,
+            2.158,
+            4.8899,
+            2.158,
+            4.8899,
+            2.3155,
+            1.2702,
+            2.3108
+          ],
+          "spans": [
+            {
+              "offset": 321,
+              "length": 58
+            }
+          ]
+        },
+        {
+          "content": "Présentation du Mouvement Desjardins",
+          "polygon": [
+            0.9694,
+            2.4826,
+            3.5815,
+            2.4826,
+            3.5815,
+            2.6354,
+            0.9694,
+            2.6306
+          ],
+          "spans": [
+            {
+              "offset": 380,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "Le Mouvement Desjardins est la cooperative financière la plus importante au Canada. Plusieurs de",
+          "polygon": [
+            1.2702,
+            2.8073,
+            7.5258,
+            2.8073,
+            7.5258,
+            2.9601,
+            1.2702,
+            2.9601
+          ],
+          "spans": [
+            {
+              "offset": 417,
+              "length": 96
+            }
+          ]
+        },
+        {
+          "content": "ses filiales et composantes sont actives à l'échelle du Canada. Les secteurs Particuliers et Entreprises,",
+          "polygon": [
+            1.2702,
+            2.9648,
+            7.5115,
+            2.9648,
+            7.5115,
+            3.1128,
+            1.2702,
+            3.1128
+          ],
+          "spans": [
+            {
+              "offset": 514,
+              "length": 105
+            }
+          ]
+        },
+        {
+          "content": "les secteurs d'affaires Gestion de patrimoine et Assurance de personnes ainsi qu'Assurance de",
+          "polygon": [
+            1.2654,
+            3.1224,
+            7.5306,
+            3.1224,
+            7.5306,
+            3.2752,
+            1.2654,
+            3.2704
+          ],
+          "spans": [
+            {
+              "offset": 620,
+              "length": 93
+            }
+          ]
+        },
+        {
+          "content": "dommages proposent aux membres et aux clients, particuliers et entreprises, une gamme complète",
+          "polygon": [
+            1.2702,
+            3.2847,
+            7.5211,
+            3.2847,
+            7.5211,
+            3.428,
+            1.2702,
+            3.428
+          ],
+          "spans": [
+            {
+              "offset": 714,
+              "length": 94
+            }
+          ]
+        },
+        {
+          "content": "de services financiers conçus pour répondre à leurs besoins. Pour en connaître davantage sur l'actif",
+          "polygon": [
+            1.275,
+            3.4375,
+            7.5067,
+            3.4375,
+            7.5067,
+            3.5855,
+            1.275,
+            3.5855
+          ],
+          "spans": [
+            {
+              "offset": 809,
+              "length": 100
+            }
+          ]
+        },
+        {
+          "content": "du Mouvement, le nombre de caisses, le nombre d'employés et d'administrateurs, consultez la section",
+          "polygon": [
+            1.275,
+            3.5903,
+            7.5354,
+            3.5951,
+            7.5354,
+            3.7431,
+            1.275,
+            3.7383
+          ],
+          "spans": [
+            {
+              "offset": 910,
+              "length": 99
+            }
+          ]
+        },
+        {
+          "content": "Desjardins en chiffres sur notre site web.",
+          "polygon": [
+            1.2607,
+            3.7431,
+            3.8059,
+            3.7478,
+            3.8059,
+            3.8911,
+            1.2607,
+            3.8863
+          ],
+          "spans": [
+            {
+              "offset": 1010,
+              "length": 42
+            }
+          ]
+        },
+        {
+          "content": "Vous pouvez accéder à notre site internet pour plus de détails sur le Mouvement Desjardins et les",
+          "polygon": [
+            1.2702,
+            4.0629,
+            7.5211,
+            4.0629,
+            7.5211,
+            4.2109,
+            1.2702,
+            4.2109
+          ],
+          "spans": [
+            {
+              "offset": 1053,
+              "length": 97
+            }
+          ]
+        },
+        {
+          "content": "services qu'il offre : www.desjardins.com.",
+          "polygon": [
+            1.2798,
+            4.2253,
+            3.8632,
+            4.2205,
+            3.868,
+            4.3589,
+            1.2798,
+            4.3733
+          ],
+          "spans": [
+            {
+              "offset": 1151,
+              "length": 42
+            }
+          ]
+        },
+        {
+          "content": "Objet de l'Appel de propositions",
+          "polygon": [
+            0.9694,
+            4.5308,
+            3.1278,
+            4.5356,
+            3.1278,
+            4.6979,
+            0.9694,
+            4.6979
+          ],
+          "spans": [
+            {
+              "offset": 1194,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "Par le présent Appel de propositions, le programme Données et analytique désire moderniser ses",
+          "polygon": [
+            1.2702,
+            4.865,
+            7.5306,
+            4.865,
+            7.5306,
+            5.013,
+            1.2702,
+            5.0178
+          ],
+          "spans": [
+            {
+              "offset": 1227,
+              "length": 94
+            }
+          ]
+        },
+        {
+          "content": "plateformes de données et d'analytique afin d'améliorer l'expérience membres et clients, soutenir la",
+          "polygon": [
+            1.2702,
+            5.0226,
+            7.5354,
+            5.0226,
+            7.5354,
+            5.1706,
+            1.2702,
+            5.1753
+          ],
+          "spans": [
+            {
+              "offset": 1322,
+              "length": 100
+            }
+          ]
+        },
+        {
+          "content": "croissance, gérer les risques et améliorer l'efficience.",
+          "polygon": [
+            1.2702,
+            5.1849,
+            4.5699,
+            5.1801,
+            4.5699,
+            5.3234,
+            1.2702,
+            5.3281
+          ],
+          "spans": [
+            {
+              "offset": 1423,
+              "length": 56
+            }
+          ]
+        },
+        {
+          "content": "Desjardins agit à titre d'instigateur et de coordonnateur principal du présent Appel de propositions. Il",
+          "polygon": [
+            1.2654,
+            5.4952,
+            7.5402,
+            5.4952,
+            7.5402,
+            5.6528,
+            1.2654,
+            5.6528
+          ],
+          "spans": [
+            {
+              "offset": 1480,
+              "length": 104
+            }
+          ]
+        },
+        {
+          "content": "agit tant pour son compte que pour le bénéfice des Clients lors du processus d'Appel de propositions",
+          "polygon": [
+            1.2702,
+            5.6576,
+            7.5258,
+            5.6576,
+            7.5258,
+            5.8103,
+            1.2702,
+            5.8151
+          ],
+          "spans": [
+            {
+              "offset": 1585,
+              "length": 100
+            }
+          ]
+        },
+        {
+          "content": "et pour toute la Durée du Contrat. Les Clients demeurent autonomes dans leur acquisition de Biens et",
+          "polygon": [
+            1.275,
+            5.8151,
+            7.5211,
+            5.8151,
+            7.5211,
+            5.9631,
+            1.275,
+            5.9631
+          ],
+          "spans": [
+            {
+              "offset": 1686,
+              "length": 100
+            }
+          ]
+        },
+        {
+          "content": "Services et seuls responsables des engagements pris avec le Fournisseur.",
+          "polygon": [
+            1.2702,
+            5.9679,
+            5.9022,
+            5.9727,
+            5.9022,
+            6.1207,
+            1.2702,
+            6.1159
+          ],
+          "spans": [
+            {
+              "offset": 1787,
+              "length": 72
+            }
+          ]
+        },
+        {
+          "content": "Le Proposant doit se référer à la clause « Calendrier du processus de l'Appel de propositions >> afin de",
+          "polygon": [
+            1.2654,
+            6.2782,
+            7.5402,
+            6.2782,
+            7.5402,
+            6.4358,
+            1.2654,
+            6.4358
+          ],
+          "spans": [
+            {
+              "offset": 1860,
+              "length": 104
+            }
+          ]
+        },
+        {
+          "content": "connaître les dates importantes à respecter.",
+          "polygon": [
+            1.275,
+            6.4405,
+            3.9969,
+            6.4405,
+            3.9969,
+            6.5981,
+            1.275,
+            6.5933
+          ],
+          "spans": [
+            {
+              "offset": 1965,
+              "length": 44
+            }
+          ]
+        },
+        {
+          "content": "CONFIDENTIEL",
+          "polygon": [
+            1.0458,
+            10.1168,
+            2.0438,
+            10.1168,
+            2.0438,
+            10.26,
+            1.0458,
+            10.26
+          ],
+          "spans": [
+            {
+              "offset": 2010,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Version 1 - janvier 2024",
+          "polygon": [
+            1.0458,
+            10.2695,
+            2.359,
+            10.2695,
+            2.359,
+            10.3937,
+            1.0458,
+            10.3937
+          ],
+          "spans": [
+            {
+              "offset": 2023,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "Page 2 sur 23",
+          "polygon": [
+            3.6865,
+            9.9306,
+            4.5699,
+            9.9258,
+            4.5699,
+            10.0833,
+            3.6865,
+            10.0833
+          ],
+          "spans": [
+            {
+              "offset": 2048,
+              "length": 13
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 216,
+          "length": 1845
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 51
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            2.55,
+            3.9674,
+            5.9311,
+            3.9722,
+            5.9307,
+            4.3144,
+            2.5495,
+            4.3097
+          ]
+        }
+      ],
+      "content": "APPEL DE PROPOSITIONS SUR INVITATION NO : BPM006398"
+    },
+    {
+      "spans": [
+        {
+          "offset": 52,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            3.2711,
+            5.099,
+            5.2146,
+            5.099,
+            5.2146,
+            5.2852,
+            3.2711,
+            5.2852
+          ]
+        }
+      ],
+      "content": "CAHIER DES CHARGES"
+    },
+    {
+      "spans": [
+        {
+          "offset": 71,
+          "length": 48
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1.5806,
+            6.0634,
+            6.9098,
+            6.0634,
+            6.9098,
+            6.2496,
+            1.5806,
+            6.2496
+          ]
+        }
+      ],
+      "content": "ACCOMPAGNEMENT - PROGRAMME DONNÉES ET ANALYTIQUE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 120,
+          "length": 43
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            2.4067,
+            9.0425,
+            6.0789,
+            9.0425,
+            6.0789,
+            9.2144,
+            2.4067,
+            9.2144
+          ]
+        }
+      ],
+      "content": "FÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC"
+    },
+    {
+      "spans": [
+        {
+          "offset": 164,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1.3084,
+            9.9592,
+            2.6169,
+            9.9592,
+            2.6169,
+            10.2409,
+            1.3084,
+            10.2409
+          ]
+        }
+      ],
+      "content": "CONFIDENTIEL Version 1 - janvier 2024"
+    },
+    {
+      "spans": [
+        {
+          "offset": 202,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            3.9245,
+            9.964,
+            4.8087,
+            9.9592,
+            4.8095,
+            10.112,
+            3.9253,
+            10.1168
+          ]
+        }
+      ],
+      "content": "Page 1 sur 23"
+    },
+    {
+      "spans": [
+        {
+          "offset": 216,
+          "length": 83
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            4.8851,
+            0.4918,
+            7.6643,
+            0.4918,
+            7.6643,
+            0.9549,
+            4.8851,
+            0.9549
+          ]
+        }
+      ],
+      "content": "Appel de propositions no BPM006398 Accompagnement - Programme Données et Analytique"
+    },
+    {
+      "spans": [
+        {
+          "offset": 300,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.6065,
+            0.7782,
+            3.464,
+            0.7639,
+            3.4669,
+            1.1267,
+            1.6093,
+            1.1411
+          ]
+        }
+      ],
+      "content": "Desjardins"
+    },
+    {
+      "spans": [
+        {
+          "offset": 311,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.9694,
+            1.8286,
+            1.8433,
+            1.8286,
+            1.8433,
+            1.9909,
+            0.9694,
+            1.9909
+          ]
+        }
+      ],
+      "content": "PRÉAMBULE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 321,
+          "length": 58
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2702,
+            2.158,
+            4.8899,
+            2.158,
+            4.8899,
+            2.3155,
+            1.2702,
+            2.3155
+          ]
+        }
+      ],
+      "content": "Le préambule fait partie intégrante du Cahier des charges."
+    },
+    {
+      "spans": [
+        {
+          "offset": 380,
+          "length": 36
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.9694,
+            2.4826,
+            3.5815,
+            2.4826,
+            3.5815,
+            2.6354,
+            0.9694,
+            2.6354
+          ]
+        }
+      ],
+      "content": "Présentation du Mouvement Desjardins"
+    },
+    {
+      "spans": [
+        {
+          "offset": 417,
+          "length": 635
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2607,
+            2.8073,
+            7.5354,
+            2.8073,
+            7.5354,
+            3.8911,
+            1.2607,
+            3.8911
+          ]
+        }
+      ],
+      "content": "Le Mouvement Desjardins est la cooperative financière la plus importante au Canada. Plusieurs de ses filiales et composantes sont actives à l'échelle du Canada. Les secteurs Particuliers et Entreprises, les secteurs d'affaires Gestion de patrimoine et Assurance de personnes ainsi qu'Assurance de dommages proposent aux membres et aux clients, particuliers et entreprises, une gamme complète de services financiers conçus pour répondre à leurs besoins. Pour en connaître davantage sur l'actif du Mouvement, le nombre de caisses, le nombre d'employés et d'administrateurs, consultez la section Desjardins en chiffres sur notre site web."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1053,
+          "length": 140
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2702,
+            4.0629,
+            7.5211,
+            4.0629,
+            7.5211,
+            4.3733,
+            1.2702,
+            4.3733
+          ]
+        }
+      ],
+      "content": "Vous pouvez accéder à notre site internet pour plus de détails sur le Mouvement Desjardins et les services qu'il offre : www.desjardins.com."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1194,
+          "length": 32
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.9694,
+            4.5308,
+            3.1278,
+            4.5308,
+            3.1278,
+            4.6979,
+            0.9694,
+            4.6979
+          ]
+        }
+      ],
+      "content": "Objet de l'Appel de propositions"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1227,
+          "length": 252
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2702,
+            4.865,
+            7.5354,
+            4.865,
+            7.5354,
+            5.3281,
+            1.2702,
+            5.3281
+          ]
+        }
+      ],
+      "content": "Par le présent Appel de propositions, le programme Données et analytique désire moderniser ses plateformes de données et d'analytique afin d'améliorer l'expérience membres et clients, soutenir la croissance, gérer les risques et améliorer l'efficience."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1480,
+          "length": 379
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2654,
+            5.4952,
+            7.5402,
+            5.4952,
+            7.5402,
+            6.1207,
+            1.2654,
+            6.1207
+          ]
+        }
+      ],
+      "content": "Desjardins agit à titre d'instigateur et de coordonnateur principal du présent Appel de propositions. Il agit tant pour son compte que pour le bénéfice des Clients lors du processus d'Appel de propositions et pour toute la Durée du Contrat. Les Clients demeurent autonomes dans leur acquisition de Biens et Services et seuls responsables des engagements pris avec le Fournisseur."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1860,
+          "length": 149
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.2654,
+            6.2782,
+            7.5402,
+            6.2782,
+            7.5402,
+            6.5981,
+            1.2654,
+            6.5981
+          ]
+        }
+      ],
+      "content": "Le Proposant doit se référer à la clause « Calendrier du processus de l'Appel de propositions >> afin de connaître les dates importantes à respecter."
+    },
+    {
+      "spans": [
+        {
+          "offset": 2010,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            1.0458,
+            10.1168,
+            2.359,
+            10.1168,
+            2.359,
+            10.3937,
+            1.0458,
+            10.3937
+          ]
+        }
+      ],
+      "content": "CONFIDENTIEL Version 1 - janvier 2024"
+    },
+    {
+      "spans": [
+        {
+          "offset": 2048,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            3.6865,
+            9.9258,
+            4.5699,
+            9.9258,
+            4.5699,
+            10.0833,
+            3.6865,
+            10.0833
+          ]
+        }
+      ],
+      "content": "Page 2 sur 23"
+    }
+  ],
+  "styles": [],
+  "contentFormat": "text"
+}

@@ -1,0 +1,4258 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "Principes et consignes pour une utilisation responsable de l'intelligence artificielle\nImage générée par DALL-E, 2025\nLes personnes ayant participé à l'élaboration de ce document sont identifiées dans la section « Historique du document ».\nPrincipes et consignes pour une utilisation responsable des outils d'intelligence artificielle @ 2025 par Centre intégré de santé et de services sociaux de la Montérégie-Ouest est mis à disposition selon les termes de la licence CC BY-NC-ND 4.0 CO Pour plus d'informations sur cette licence, cliquez ici.\nBY NC ND\nISBN : 978-2-555-00965-3 (1e édition, 2025) Dépôt légal - Bibliothèque et Archives nationales du Québec, 2025 Montréal, Québec\nSuggestion de citation :\nNacked Cabral, U., Jobin, A., Arnott, P., Besombes, S., Bourassa-Fulop, C., Caputo, L., Clayberg, K. A., Girard, J., Jean-Baptiste, H., Larivière, S., Prud'homme, J., St-Jean, C., Szczypiorski, G., Trépanier, G., & Malas, K. (2025). Principes et consignes pour une utilisation responsable de l'intelligence artificielle (K. Malas, Éd.). Centre intégré de santé et de services sociaux de la Montérégie-Ouest.\nDernière mise à jour : 2025-04-09\nCentre intégré de santé et de services sociaux de la Montérégie-Ouest Québec\nf\nin\nsantemonteregie.qc.ca/ouest",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.19550000131130219,
+      "width": 8.5,
+      "height": 11,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "Principes",
+          "polygon": [
+            1.1723,
+            0.7669,
+            2.5292,
+            0.7734,
+            2.5235,
+            1.1124,
+            1.1639,
+            1.1014
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 9
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            2.6401,
+            0.7738,
+            2.9094,
+            0.7749,
+            2.9044,
+            1.1124,
+            2.6346,
+            1.1124
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 10,
+            "length": 2
+          }
+        },
+        {
+          "content": "consignes",
+          "polygon": [
+            3.0097,
+            0.7752,
+            4.4827,
+            0.7782,
+            4.481,
+            1.1103,
+            3.005,
+            1.1124
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 13,
+            "length": 9
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            4.5514,
+            0.7783,
+            5.2641,
+            0.7785,
+            5.264,
+            1.1002,
+            4.5498,
+            1.1097
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 23,
+            "length": 4
+          }
+        },
+        {
+          "content": "une",
+          "polygon": [
+            5.3697,
+            0.7785,
+            5.8924,
+            0.7781,
+            5.8936,
+            1.0887,
+            5.3699,
+            1.0986
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 28,
+            "length": 3
+          }
+        },
+        {
+          "content": "utilisation",
+          "polygon": [
+            6.0138,
+            0.7779,
+            7.3778,
+            0.7747,
+            7.3778,
+            1.0507,
+            6.0153,
+            1.0861
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 32,
+            "length": 11
+          }
+        },
+        {
+          "content": "responsable",
+          "polygon": [
+            1.4254,
+            1.197,
+            3.2435,
+            1.1625,
+            3.2406,
+            1.4848,
+            1.4212,
+            1.4793
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 44,
+            "length": 11
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.3596,
+            1.1612,
+            3.7081,
+            1.1573,
+            3.7056,
+            1.4848,
+            3.3568,
+            1.4848
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 56,
+            "length": 2
+          }
+        },
+        {
+          "content": "l'intelligence",
+          "polygon": [
+            3.8294,
+            1.1559,
+            5.6174,
+            1.1524,
+            5.6163,
+            1.4685,
+            3.8269,
+            1.4848
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 59,
+            "length": 14
+          }
+        },
+        {
+          "content": "artificielle",
+          "polygon": [
+            5.7286,
+            1.1531,
+            7.1008,
+            1.1658,
+            7.1008,
+            1.4419,
+            5.7275,
+            1.4669
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 74,
+            "length": 12
+          }
+        },
+        {
+          "content": "Image",
+          "polygon": [
+            0.922,
+            9.7028,
+            1.3133,
+            9.698,
+            1.3152,
+            9.858,
+            0.925,
+            9.8582
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 87,
+            "length": 5
+          }
+        },
+        {
+          "content": "générée",
+          "polygon": [
+            1.354,
+            9.6977,
+            1.8622,
+            9.6946,
+            1.8625,
+            9.8554,
+            1.3557,
+            9.8579
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 93,
+            "length": 7
+          }
+        },
+        {
+          "content": "par",
+          "polygon": [
+            1.9054,
+            9.6946,
+            2.1061,
+            9.6944,
+            2.1057,
+            9.8535,
+            1.9055,
+            9.8551
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 101,
+            "length": 3
+          }
+        },
+        {
+          "content": "DALL-E,",
+          "polygon": [
+            2.1468,
+            9.6944,
+            2.6804,
+            9.697,
+            2.6783,
+            9.8465,
+            2.1462,
+            9.853
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 105,
+            "length": 7
+          }
+        },
+        {
+          "content": "2025",
+          "polygon": [
+            2.7108,
+            9.6972,
+            3.0228,
+            9.7005,
+            3.0228,
+            9.841,
+            2.7087,
+            9.8461
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 113,
+            "length": 4
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Principes et consignes pour une utilisation",
+          "polygon": [
+            1.1604,
+            0.7639,
+            7.373,
+            0.7639,
+            7.373,
+            1.0933,
+            1.1604,
+            1.1124
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "responsable de l'intelligence artificielle",
+          "polygon": [
+            1.4183,
+            1.1697,
+            7.0961,
+            1.1506,
+            7.1008,
+            1.4562,
+            1.4183,
+            1.4848
+          ],
+          "spans": [
+            {
+              "offset": 44,
+              "length": 42
+            }
+          ]
+        },
+        {
+          "content": "Image générée par DALL-E, 2025",
+          "polygon": [
+            0.9216,
+            9.6966,
+            3.018,
+            9.6918,
+            3.0228,
+            9.8446,
+            0.9216,
+            9.8542
+          ],
+          "spans": [
+            {
+              "offset": 87,
+              "length": 30
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 117
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "angle": 0,
+      "width": 8.5,
+      "height": 11,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "Les",
+          "polygon": [
+            0.7841,
+            4.8278,
+            1.0092,
+            4.8274,
+            1.0062,
+            4.9865,
+            0.7811,
+            4.9872
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 118,
+            "length": 3
+          }
+        },
+        {
+          "content": "personnes",
+          "polygon": [
+            1.0592,
+            4.8273,
+            1.6967,
+            4.8263,
+            1.6941,
+            4.9844,
+            1.0563,
+            4.9864
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 122,
+            "length": 9
+          }
+        },
+        {
+          "content": "ayant",
+          "polygon": [
+            1.7417,
+            4.8262,
+            2.0793,
+            4.8258,
+            2.0768,
+            4.9833,
+            1.7391,
+            4.9842
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 132,
+            "length": 5
+          }
+        },
+        {
+          "content": "participé",
+          "polygon": [
+            2.1243,
+            4.8258,
+            2.6368,
+            4.8253,
+            2.6346,
+            4.9817,
+            2.1219,
+            4.9831
+          ],
+          "confidence": 0.635,
+          "span": {
+            "offset": 138,
+            "length": 9
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            2.6818,
+            4.8252,
+            2.7444,
+            4.8252,
+            2.7422,
+            4.9814,
+            2.6797,
+            4.9816
+          ],
+          "confidence": 0.401,
+          "span": {
+            "offset": 148,
+            "length": 1
+          }
+        },
+        {
+          "content": "l'élaboration",
+          "polygon": [
+            2.7744,
+            4.8252,
+            3.5369,
+            4.8249,
+            3.5352,
+            4.9795,
+            2.7722,
+            4.9813
+          ],
+          "confidence": 0.648,
+          "span": {
+            "offset": 150,
+            "length": 13
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.5844,
+            4.8249,
+            3.732,
+            4.8248,
+            3.7303,
+            4.979,
+            3.5827,
+            4.9793
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 164,
+            "length": 2
+          }
+        },
+        {
+          "content": "ce",
+          "polygon": [
+            3.777,
+            4.8249,
+            3.9195,
+            4.8249,
+            3.9179,
+            4.9786,
+            3.7753,
+            4.9789
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 167,
+            "length": 2
+          }
+        },
+        {
+          "content": "document",
+          "polygon": [
+            3.962,
+            4.8249,
+            4.5721,
+            4.825,
+            4.5707,
+            4.9772,
+            3.9604,
+            4.9785
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 170,
+            "length": 8
+          }
+        },
+        {
+          "content": "sont",
+          "polygon": [
+            4.6121,
+            4.8251,
+            4.8546,
+            4.8253,
+            4.8534,
+            4.9767,
+            4.6108,
+            4.9771
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 179,
+            "length": 4
+          }
+        },
+        {
+          "content": "identifiées",
+          "polygon": [
+            4.8846,
+            4.8253,
+            5.5297,
+            4.8259,
+            5.5288,
+            4.9755,
+            4.8834,
+            4.9766
+          ],
+          "confidence": 0.566,
+          "span": {
+            "offset": 184,
+            "length": 11
+          }
+        },
+        {
+          "content": "dans",
+          "polygon": [
+            5.5747,
+            4.8259,
+            5.8697,
+            4.8263,
+            5.869,
+            4.975,
+            5.5738,
+            4.9754
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 196,
+            "length": 4
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            5.9197,
+            4.8264,
+            6.0147,
+            4.8266,
+            6.0141,
+            4.9748,
+            5.919,
+            4.9749
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 201,
+            "length": 2
+          }
+        },
+        {
+          "content": "section",
+          "polygon": [
+            6.0672,
+            4.8266,
+            6.4973,
+            4.8273,
+            6.4968,
+            4.9741,
+            6.0666,
+            4.9747
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 204,
+            "length": 7
+          }
+        },
+        {
+          "content": "«",
+          "polygon": [
+            6.5498,
+            4.8274,
+            6.6098,
+            4.8275,
+            6.6094,
+            4.9739,
+            6.5494,
+            4.974
+          ],
+          "confidence": 0.56,
+          "span": {
+            "offset": 212,
+            "length": 1
+          }
+        },
+        {
+          "content": "Historique",
+          "polygon": [
+            6.6598,
+            4.8276,
+            7.2874,
+            4.829,
+            7.2873,
+            4.9732,
+            6.6594,
+            4.9739
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 214,
+            "length": 10
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            7.3249,
+            4.829,
+            7.4924,
+            4.8294,
+            7.4924,
+            4.973,
+            7.3248,
+            4.9732
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 225,
+            "length": 2
+          }
+        },
+        {
+          "content": "document",
+          "polygon": [
+            0.7861,
+            5.0046,
+            1.3997,
+            5.0059,
+            1.3991,
+            5.1391,
+            0.783,
+            5.1402
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 228,
+            "length": 8
+          }
+        },
+        {
+          "content": "».",
+          "polygon": [
+            1.4438,
+            5.0063,
+            1.5567,
+            5.0072,
+            1.5567,
+            5.1368,
+            1.4434,
+            5.1385
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 237,
+            "length": 2
+          }
+        },
+        {
+          "content": "Principes",
+          "polygon": [
+            0.7871,
+            5.3516,
+            1.3591,
+            5.3503,
+            1.3561,
+            5.5,
+            0.7841,
+            5.5
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 240,
+            "length": 9
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.4016,
+            5.3502,
+            1.5165,
+            5.3499,
+            1.5135,
+            5.5,
+            1.3986,
+            5.5
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 250,
+            "length": 2
+          }
+        },
+        {
+          "content": "consignes",
+          "polygon": [
+            1.5565,
+            5.3498,
+            2.166,
+            5.3486,
+            2.1629,
+            5.5,
+            1.5534,
+            5.5
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 253,
+            "length": 9
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            2.1959,
+            5.3486,
+            2.4982,
+            5.348,
+            2.4952,
+            5.5,
+            2.1929,
+            5.5
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 263,
+            "length": 4
+          }
+        },
+        {
+          "content": "une",
+          "polygon": [
+            2.5407,
+            5.3479,
+            2.7605,
+            5.3476,
+            2.7574,
+            5.5,
+            2.5376,
+            5.5
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 268,
+            "length": 3
+          }
+        },
+        {
+          "content": "utilisation",
+          "polygon": [
+            2.8079,
+            5.3475,
+            3.375,
+            5.3468,
+            3.3719,
+            5.4999,
+            2.8049,
+            5.5
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 272,
+            "length": 11
+          }
+        },
+        {
+          "content": "responsable",
+          "polygon": [
+            3.4274,
+            5.3467,
+            4.1718,
+            5.346,
+            4.1688,
+            5.4997,
+            3.4244,
+            5.4999
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 284,
+            "length": 11
+          }
+        },
+        {
+          "content": "des",
+          "polygon": [
+            4.2168,
+            5.3459,
+            4.4341,
+            5.3458,
+            4.431,
+            5.4996,
+            4.2137,
+            5.4997
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 296,
+            "length": 3
+          }
+        },
+        {
+          "content": "outils",
+          "polygon": [
+            4.479,
+            5.3457,
+            4.7963,
+            5.3456,
+            4.7932,
+            5.4994,
+            4.476,
+            5.4996
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 300,
+            "length": 6
+          }
+        },
+        {
+          "content": "d'intelligence",
+          "polygon": [
+            4.8412,
+            5.3456,
+            5.6331,
+            5.3453,
+            5.63,
+            5.4991,
+            4.8382,
+            5.4994
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 307,
+            "length": 14
+          }
+        },
+        {
+          "content": "artificielle",
+          "polygon": [
+            5.678,
+            5.3453,
+            6.2501,
+            5.3454,
+            6.247,
+            5.4988,
+            5.675,
+            5.4991
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 322,
+            "length": 12
+          }
+        },
+        {
+          "content": "@",
+          "polygon": [
+            6.29,
+            5.3454,
+            6.3974,
+            5.3455,
+            6.3944,
+            5.4987,
+            6.287,
+            5.4988
+          ],
+          "confidence": 0.289,
+          "span": {
+            "offset": 335,
+            "length": 1
+          }
+        },
+        {
+          "content": "2025",
+          "polygon": [
+            6.4349,
+            5.3455,
+            6.7397,
+            5.3456,
+            6.7366,
+            5.4986,
+            6.4319,
+            5.4987
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 337,
+            "length": 4
+          }
+        },
+        {
+          "content": "par",
+          "polygon": [
+            6.7871,
+            5.3457,
+            6.982,
+            5.3458,
+            6.9789,
+            5.4984,
+            6.7841,
+            5.4985
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 342,
+            "length": 3
+          }
+        },
+        {
+          "content": "Centre",
+          "polygon": [
+            7.0219,
+            5.3458,
+            7.4494,
+            5.3461,
+            7.4485,
+            5.4982,
+            7.0189,
+            5.4984
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 346,
+            "length": 6
+          }
+        },
+        {
+          "content": "intégré",
+          "polygon": [
+            0.7782,
+            5.5396,
+            1.2093,
+            5.5382,
+            1.2091,
+            5.6823,
+            0.7781,
+            5.681
+          ],
+          "confidence": 0.842,
+          "span": {
+            "offset": 353,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.2539,
+            5.538,
+            1.4026,
+            5.5375,
+            1.4023,
+            5.6828,
+            1.2537,
+            5.6824
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 361,
+            "length": 2
+          }
+        },
+        {
+          "content": "santé",
+          "polygon": [
+            1.4496,
+            5.5374,
+            1.7816,
+            5.5364,
+            1.7812,
+            5.684,
+            1.4493,
+            5.683
+          ],
+          "confidence": 0.887,
+          "span": {
+            "offset": 364,
+            "length": 5
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.8262,
+            5.5363,
+            1.9377,
+            5.536,
+            1.9372,
+            5.6843,
+            1.8258,
+            5.6841
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 370,
+            "length": 2
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.9799,
+            5.5359,
+            2.1285,
+            5.5355,
+            2.1279,
+            5.6847,
+            1.9793,
+            5.6844
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 373,
+            "length": 2
+          }
+        },
+        {
+          "content": "services",
+          "polygon": [
+            2.1731,
+            5.5354,
+            2.6786,
+            5.5341,
+            2.6777,
+            5.6859,
+            2.1725,
+            5.6848
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 376,
+            "length": 8
+          }
+        },
+        {
+          "content": "sociaux",
+          "polygon": [
+            2.7232,
+            5.5341,
+            3.189,
+            5.5333,
+            3.1879,
+            5.6862,
+            2.7223,
+            5.686
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 385,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.2311,
+            5.5332,
+            3.3773,
+            5.5329,
+            3.3761,
+            5.6862,
+            3.23,
+            5.6862
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 393,
+            "length": 2
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            3.4269,
+            5.5328,
+            3.5235,
+            5.5327,
+            3.5223,
+            5.6862,
+            3.4257,
+            5.6862
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 396,
+            "length": 2
+          }
+        },
+        {
+          "content": "Montérégie-Ouest",
+          "polygon": [
+            3.5731,
+            5.5326,
+            4.6831,
+            5.5315,
+            4.6813,
+            5.6862,
+            3.5718,
+            5.6862
+          ],
+          "confidence": 0.798,
+          "span": {
+            "offset": 399,
+            "length": 16
+          }
+        },
+        {
+          "content": "est",
+          "polygon": [
+            4.7228,
+            5.5315,
+            4.9061,
+            5.5315,
+            4.9042,
+            5.6862,
+            4.7209,
+            5.6862
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 416,
+            "length": 3
+          }
+        },
+        {
+          "content": "mis",
+          "polygon": [
+            4.9507,
+            5.5315,
+            5.1539,
+            5.5314,
+            5.1519,
+            5.6862,
+            4.9488,
+            5.6862
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 420,
+            "length": 3
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            5.201,
+            5.5314,
+            5.2728,
+            5.5314,
+            5.2708,
+            5.6862,
+            5.1989,
+            5.6862
+          ],
+          "confidence": 0.624,
+          "span": {
+            "offset": 424,
+            "length": 1
+          }
+        },
+        {
+          "content": "disposition",
+          "polygon": [
+            5.3174,
+            5.5314,
+            5.9666,
+            5.5316,
+            5.9642,
+            5.6859,
+            5.3153,
+            5.6862
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 426,
+            "length": 11
+          }
+        },
+        {
+          "content": "selon",
+          "polygon": [
+            6.0112,
+            5.5316,
+            6.3333,
+            5.5317,
+            6.3308,
+            5.6854,
+            6.0088,
+            5.6859
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 438,
+            "length": 5
+          }
+        },
+        {
+          "content": "les",
+          "polygon": [
+            6.3854,
+            5.5317,
+            6.5538,
+            5.5319,
+            6.5512,
+            5.6848,
+            6.3828,
+            5.6853
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 444,
+            "length": 3
+          }
+        },
+        {
+          "content": "termes",
+          "polygon": [
+            6.5935,
+            5.532,
+            7.0172,
+            5.5325,
+            7.0143,
+            5.6837,
+            6.5908,
+            5.6848
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 448,
+            "length": 6
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            7.0618,
+            5.5325,
+            7.208,
+            5.5327,
+            7.205,
+            5.6832,
+            7.0589,
+            5.6836
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 455,
+            "length": 2
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            7.2551,
+            5.5328,
+            7.373,
+            5.5329,
+            7.373,
+            5.6828,
+            7.2521,
+            5.6831
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 458,
+            "length": 2
+          }
+        },
+        {
+          "content": "licence",
+          "polygon": [
+            0.7882,
+            5.7151,
+            1.2187,
+            5.7138,
+            1.2149,
+            5.8533,
+            0.7851,
+            5.8529
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 461,
+            "length": 7
+          }
+        },
+        {
+          "content": "CC",
+          "polygon": [
+            1.2643,
+            5.7137,
+            1.458,
+            5.7136,
+            1.4537,
+            5.8533,
+            1.2604,
+            5.8533
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 469,
+            "length": 2
+          }
+        },
+        {
+          "content": "BY-NC-ND",
+          "polygon": [
+            1.5081,
+            5.7136,
+            2.1756,
+            5.7156,
+            2.17,
+            5.8533,
+            1.5037,
+            5.8533
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 472,
+            "length": 8
+          }
+        },
+        {
+          "content": "4.0",
+          "polygon": [
+            2.2189,
+            5.7158,
+            2.4163,
+            5.7171,
+            2.4133,
+            5.8533,
+            2.2132,
+            5.8533
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 481,
+            "length": 3
+          }
+        },
+        {
+          "content": "CO",
+          "polygon": [
+            2.5787,
+            5.7578,
+            2.6787,
+            5.7625,
+            2.6751,
+            5.834,
+            2.5787,
+            5.829
+          ],
+          "confidence": 0.21,
+          "span": {
+            "offset": 485,
+            "length": 2
+          }
+        },
+        {
+          "content": "Pour",
+          "polygon": [
+            3.2477,
+            5.7193,
+            3.5444,
+            5.7177,
+            3.5416,
+            5.8703,
+            3.2446,
+            5.8707
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 488,
+            "length": 4
+          }
+        },
+        {
+          "content": "plus",
+          "polygon": [
+            3.5868,
+            5.7175,
+            3.8311,
+            5.7164,
+            3.8286,
+            5.8699,
+            3.584,
+            5.8702
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 493,
+            "length": 4
+          }
+        },
+        {
+          "content": "d'informations",
+          "polygon": [
+            3.876,
+            5.7162,
+            4.7288,
+            5.7139,
+            4.7271,
+            5.8681,
+            3.8736,
+            5.8698
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 498,
+            "length": 14
+          }
+        },
+        {
+          "content": "sur",
+          "polygon": [
+            4.7736,
+            5.7139,
+            4.9706,
+            5.7137,
+            4.9692,
+            5.8676,
+            4.772,
+            5.868
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 513,
+            "length": 3
+          }
+        },
+        {
+          "content": "cette",
+          "polygon": [
+            5.008,
+            5.7136,
+            5.2923,
+            5.7136,
+            5.2911,
+            5.8668,
+            5.0066,
+            5.8675
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 517,
+            "length": 5
+          }
+        },
+        {
+          "content": "licence,",
+          "polygon": [
+            5.3222,
+            5.7136,
+            5.8034,
+            5.7141,
+            5.8028,
+            5.8654,
+            5.3211,
+            5.8667
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 523,
+            "length": 8
+          }
+        },
+        {
+          "content": "cliquez",
+          "polygon": [
+            5.8533,
+            5.7142,
+            6.2797,
+            5.7153,
+            6.2795,
+            5.864,
+            5.8527,
+            5.8653
+          ],
+          "confidence": 0.882,
+          "span": {
+            "offset": 532,
+            "length": 7
+          }
+        },
+        {
+          "content": "ici.",
+          "polygon": [
+            6.3096,
+            5.7154,
+            6.4992,
+            5.716,
+            6.4992,
+            5.8633,
+            6.3094,
+            5.8639
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 540,
+            "length": 4
+          }
+        },
+        {
+          "content": "BY",
+          "polygon": [
+            2.7601,
+            5.8581,
+            2.8231,
+            5.8581,
+            2.8231,
+            5.901,
+            2.7601,
+            5.901
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 545,
+            "length": 2
+          }
+        },
+        {
+          "content": "NC",
+          "polygon": [
+            2.8875,
+            5.8533,
+            2.9575,
+            5.8533,
+            2.9575,
+            5.901,
+            2.8875,
+            5.901
+          ],
+          "confidence": 0.946,
+          "span": {
+            "offset": 548,
+            "length": 2
+          }
+        },
+        {
+          "content": "ND",
+          "polygon": [
+            3.0084,
+            5.8485,
+            3.0886,
+            5.8485,
+            3.0867,
+            5.9057,
+            3.0084,
+            5.903
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 551,
+            "length": 2
+          }
+        },
+        {
+          "content": "ISBN",
+          "polygon": [
+            0.7822,
+            6.0833,
+            1.1032,
+            6.0827,
+            1.1025,
+            6.218,
+            0.7822,
+            6.2127
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 554,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            1.1607,
+            6.0826,
+            1.1823,
+            6.0825,
+            1.1814,
+            6.2193,
+            1.1599,
+            6.2189
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 559,
+            "length": 1
+          }
+        },
+        {
+          "content": "978-2-555-00965-3",
+          "polygon": [
+            1.2326,
+            6.0825,
+            2.4185,
+            6.0813,
+            2.4149,
+            6.2328,
+            1.2316,
+            6.22
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 561,
+            "length": 17
+          }
+        },
+        {
+          "content": "(1e",
+          "polygon": [
+            2.464,
+            6.0813,
+            2.6317,
+            6.0812,
+            2.6276,
+            6.234,
+            2.4603,
+            6.233
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 579,
+            "length": 3
+          }
+        },
+        {
+          "content": "édition,",
+          "polygon": [
+            2.6749,
+            6.0812,
+            3.1133,
+            6.0813,
+            3.1081,
+            6.2352,
+            2.6707,
+            6.2342
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 583,
+            "length": 8
+          }
+        },
+        {
+          "content": "2025)",
+          "polygon": [
+            3.1612,
+            6.0814,
+            3.523,
+            6.0817,
+            3.5169,
+            6.2352,
+            3.1559,
+            6.2352
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 592,
+            "length": 5
+          }
+        },
+        {
+          "content": "Dépôt",
+          "polygon": [
+            0.7782,
+            6.2669,
+            1.1504,
+            6.2666,
+            1.1501,
+            6.4166,
+            0.7781,
+            6.4167
+          ],
+          "confidence": 0.669,
+          "span": {
+            "offset": 598,
+            "length": 5
+          }
+        },
+        {
+          "content": "légal",
+          "polygon": [
+            1.1798,
+            6.2665,
+            1.4859,
+            6.2662,
+            1.4854,
+            6.4164,
+            1.1795,
+            6.4166
+          ],
+          "confidence": 0.69,
+          "span": {
+            "offset": 604,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            1.53,
+            6.2661,
+            1.5765,
+            6.2661,
+            1.5759,
+            6.4163,
+            1.5294,
+            6.4164
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 610,
+            "length": 1
+          }
+        },
+        {
+          "content": "Bibliothèque",
+          "polygon": [
+            1.6206,
+            6.266,
+            2.3749,
+            6.265,
+            2.3737,
+            6.4152,
+            1.62,
+            6.4163
+          ],
+          "confidence": 0.718,
+          "span": {
+            "offset": 612,
+            "length": 12
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            2.4239,
+            6.2649,
+            2.5365,
+            6.2648,
+            2.5352,
+            6.4149,
+            2.4227,
+            6.4151
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 625,
+            "length": 2
+          }
+        },
+        {
+          "content": "Archives",
+          "polygon": [
+            2.5733,
+            6.2647,
+            3.1047,
+            6.2638,
+            3.103,
+            6.4137,
+            2.5719,
+            6.4149
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 628,
+            "length": 8
+          }
+        },
+        {
+          "content": "nationales",
+          "polygon": [
+            3.1512,
+            6.2638,
+            3.7733,
+            6.2626,
+            3.7711,
+            6.4117,
+            3.1495,
+            6.4135
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 637,
+            "length": 10
+          }
+        },
+        {
+          "content": "du",
+          "polygon": [
+            3.8174,
+            6.2625,
+            3.9618,
+            6.2622,
+            3.9595,
+            6.411,
+            3.8151,
+            6.4115
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 648,
+            "length": 2
+          }
+        },
+        {
+          "content": "Québec,",
+          "polygon": [
+            4.0108,
+            6.2621,
+            4.5251,
+            6.261,
+            4.5223,
+            6.4089,
+            4.0084,
+            6.4109
+          ],
+          "confidence": 0.679,
+          "span": {
+            "offset": 651,
+            "length": 7
+          }
+        },
+        {
+          "content": "2025",
+          "polygon": [
+            4.5741,
+            6.2609,
+            4.8947,
+            6.2601,
+            4.8947,
+            6.4074,
+            4.5713,
+            6.4087
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 659,
+            "length": 4
+          }
+        },
+        {
+          "content": "Montréal,",
+          "polygon": [
+            0.7893,
+            6.445,
+            1.3591,
+            6.4454,
+            1.3571,
+            6.602,
+            0.7851,
+            6.6064
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 664,
+            "length": 9
+          }
+        },
+        {
+          "content": "Québec",
+          "polygon": [
+            1.4109,
+            6.4454,
+            1.9053,
+            6.4469,
+            1.9053,
+            6.6047,
+            1.4091,
+            6.6019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 674,
+            "length": 6
+          }
+        },
+        {
+          "content": "Suggestion",
+          "polygon": [
+            0.7811,
+            6.8211,
+            1.4758,
+            6.8236,
+            1.4742,
+            6.9652,
+            0.7781,
+            6.9705
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 681,
+            "length": 10
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.5269,
+            6.8236,
+            1.6756,
+            6.8234,
+            1.6744,
+            6.9631,
+            1.5254,
+            6.9647
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 692,
+            "length": 2
+          }
+        },
+        {
+          "content": "citation",
+          "polygon": [
+            1.7174,
+            6.8233,
+            2.1495,
+            6.8215,
+            2.1494,
+            6.9569,
+            1.7163,
+            6.9626
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 695,
+            "length": 8
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            2.1913,
+            6.8213,
+            2.2253,
+            6.821,
+            2.2253,
+            6.9558,
+            2.1913,
+            6.9563
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 704,
+            "length": 1
+          }
+        },
+        {
+          "content": "Nacked",
+          "polygon": [
+            0.7852,
+            7.0003,
+            1.2523,
+            6.9994,
+            1.2521,
+            7.1457,
+            0.7852,
+            7.1438
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 706,
+            "length": 6
+          }
+        },
+        {
+          "content": "Cabral,",
+          "polygon": [
+            1.3011,
+            6.9994,
+            1.7375,
+            6.9986,
+            1.737,
+            7.1476,
+            1.3009,
+            7.1459
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 713,
+            "length": 7
+          }
+        },
+        {
+          "content": "U.,",
+          "polygon": [
+            1.7939,
+            6.9985,
+            1.9531,
+            6.9982,
+            1.9526,
+            7.1484,
+            1.7935,
+            7.1479
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 721,
+            "length": 3
+          }
+        },
+        {
+          "content": "Jobin,",
+          "polygon": [
+            1.9993,
+            6.9982,
+            2.3638,
+            6.9977,
+            2.3631,
+            7.1498,
+            1.9987,
+            7.1486
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 725,
+            "length": 6
+          }
+        },
+        {
+          "content": "A.,",
+          "polygon": [
+            2.41,
+            6.9976,
+            2.5717,
+            6.9974,
+            2.5709,
+            7.1505,
+            2.4092,
+            7.15
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 732,
+            "length": 3
+          }
+        },
+        {
+          "content": "Arnott,",
+          "polygon": [
+            2.6179,
+            6.9973,
+            3.0183,
+            6.9968,
+            3.0173,
+            7.1519,
+            2.6171,
+            7.1507
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 736,
+            "length": 7
+          }
+        },
+        {
+          "content": "P.,",
+          "polygon": [
+            3.0722,
+            6.9968,
+            3.2288,
+            6.9966,
+            3.2277,
+            7.1525,
+            3.0712,
+            7.1521
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 744,
+            "length": 3
+          }
+        },
+        {
+          "content": "Besombes,",
+          "polygon": [
+            3.2801,
+            6.9965,
+            3.9603,
+            6.9959,
+            3.9589,
+            7.1544,
+            3.279,
+            7.1526
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 748,
+            "length": 9
+          }
+        },
+        {
+          "content": "S.,",
+          "polygon": [
+            4.0091,
+            6.9959,
+            4.1682,
+            6.9958,
+            4.1667,
+            7.1548,
+            4.0077,
+            7.1545
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 758,
+            "length": 3
+          }
+        },
+        {
+          "content": "Bourassa-Fulop,",
+          "polygon": [
+            4.2196,
+            6.9957,
+            5.2283,
+            6.9952,
+            5.2264,
+            7.1567,
+            4.218,
+            7.1549
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 762,
+            "length": 15
+          }
+        },
+        {
+          "content": "C.,",
+          "polygon": [
+            5.2797,
+            6.9952,
+            5.4465,
+            6.9952,
+            5.4444,
+            7.1567,
+            5.2777,
+            7.1567
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 778,
+            "length": 3
+          }
+        },
+        {
+          "content": "Caputo,",
+          "polygon": [
+            5.4953,
+            6.9952,
+            5.9676,
+            6.9951,
+            5.9653,
+            7.1567,
+            5.4932,
+            7.1567
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 782,
+            "length": 7
+          }
+        },
+        {
+          "content": "L.,",
+          "polygon": [
+            6.024,
+            6.9951,
+            6.1626,
+            6.9951,
+            6.1603,
+            7.1567,
+            6.0217,
+            7.1567
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 790,
+            "length": 3
+          }
+        },
+        {
+          "content": "Clayberg,",
+          "polygon": [
+            6.2114,
+            6.9951,
+            6.7941,
+            6.9952,
+            6.7914,
+            7.1567,
+            6.209,
+            7.1567
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 794,
+            "length": 9
+          }
+        },
+        {
+          "content": "K.",
+          "polygon": [
+            6.848,
+            6.9953,
+            6.9661,
+            6.9953,
+            6.9633,
+            7.1567,
+            6.8453,
+            7.1567
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 804,
+            "length": 2
+          }
+        },
+        {
+          "content": "A.,",
+          "polygon": [
+            7.0097,
+            6.9953,
+            7.2022,
+            6.9954,
+            7.1994,
+            7.1567,
+            7.0069,
+            7.1567
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 807,
+            "length": 3
+          }
+        },
+        {
+          "content": "Girard,",
+          "polygon": [
+            7.233,
+            6.9954,
+            7.6548,
+            6.9956,
+            7.6548,
+            7.1567,
+            7.2301,
+            7.1567
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 811,
+            "length": 7
+          }
+        },
+        {
+          "content": "J.,",
+          "polygon": [
+            0.7782,
+            7.1862,
+            0.9295,
+            7.186,
+            0.9264,
+            7.335,
+            0.7751,
+            7.3346
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 819,
+            "length": 3
+          }
+        },
+        {
+          "content": "Jean-Baptiste,",
+          "polygon": [
+            0.9783,
+            7.1859,
+            1.8454,
+            7.1845,
+            1.8419,
+            7.3376,
+            0.9751,
+            7.3352
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 823,
+            "length": 14
+          }
+        },
+        {
+          "content": "H.,",
+          "polygon": [
+            1.8762,
+            7.1845,
+            2.0712,
+            7.1842,
+            2.0676,
+            7.3381,
+            1.8727,
+            7.3377
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 838,
+            "length": 3
+          }
+        },
+        {
+          "content": "Larivière,",
+          "polygon": [
+            2.1225,
+            7.1841,
+            2.6818,
+            7.1834,
+            2.6779,
+            7.3394,
+            2.1189,
+            7.3382
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 842,
+            "length": 10
+          }
+        },
+        {
+          "content": "S.,",
+          "polygon": [
+            2.7306,
+            7.1833,
+            2.8922,
+            7.1832,
+            2.8882,
+            7.3397,
+            2.7266,
+            7.3395
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 853,
+            "length": 3
+          }
+        },
+        {
+          "content": "Prud'homme,",
+          "polygon": [
+            2.9435,
+            7.1831,
+            3.7517,
+            7.1824,
+            3.7473,
+            7.3409,
+            2.9395,
+            7.3398
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 857,
+            "length": 11
+          }
+        },
+        {
+          "content": "J.,",
+          "polygon": [
+            3.8004,
+            7.1823,
+            3.9389,
+            7.1822,
+            3.9345,
+            7.341,
+            3.796,
+            7.3409
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 869,
+            "length": 3
+          }
+        },
+        {
+          "content": "St-Jean,",
+          "polygon": [
+            3.9877,
+            7.1822,
+            4.4982,
+            7.1818,
+            4.4935,
+            7.3413,
+            3.9832,
+            7.341
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 873,
+            "length": 8
+          }
+        },
+        {
+          "content": "C.,",
+          "polygon": [
+            4.547,
+            7.1818,
+            4.7112,
+            7.1817,
+            4.7063,
+            7.3414,
+            4.5422,
+            7.3414
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 882,
+            "length": 3
+          }
+        },
+        {
+          "content": "Szczypiorski,",
+          "polygon": [
+            4.7625,
+            7.1817,
+            5.563,
+            7.1814,
+            5.5577,
+            7.3413,
+            4.7576,
+            7.3414
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 886,
+            "length": 13
+          }
+        },
+        {
+          "content": "G.,",
+          "polygon": [
+            5.6117,
+            7.1814,
+            5.7862,
+            7.1814,
+            5.7808,
+            7.3411,
+            5.6065,
+            7.3412
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 900,
+            "length": 3
+          }
+        },
+        {
+          "content": "Trépanier,",
+          "polygon": [
+            5.8298,
+            7.1814,
+            6.4558,
+            7.1813,
+            6.4501,
+            7.3405,
+            5.8244,
+            7.3411
+          ],
+          "confidence": 0.836,
+          "span": {
+            "offset": 904,
+            "length": 10
+          }
+        },
+        {
+          "content": "G.,",
+          "polygon": [
+            6.5045,
+            7.1813,
+            6.6815,
+            7.1814,
+            6.6758,
+            7.3402,
+            6.4989,
+            7.3405
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 915,
+            "length": 3
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            6.7303,
+            7.1814,
+            6.8175,
+            7.1814,
+            6.8117,
+            7.34,
+            6.7245,
+            7.3401
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 919,
+            "length": 1
+          }
+        },
+        {
+          "content": "Malas,",
+          "polygon": [
+            6.8637,
+            7.1814,
+            7.2588,
+            7.1815,
+            7.2528,
+            7.3393,
+            6.8579,
+            7.3399
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 921,
+            "length": 6
+          }
+        },
+        {
+          "content": "K.",
+          "polygon": [
+            7.3101,
+            7.1815,
+            7.4351,
+            7.1815,
+            7.4323,
+            7.339,
+            7.3041,
+            7.3392
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 928,
+            "length": 2
+          }
+        },
+        {
+          "content": "(2025).",
+          "polygon": [
+            0.7852,
+            7.3645,
+            1.2175,
+            7.3661,
+            1.2173,
+            7.5228,
+            0.7852,
+            7.5233
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 931,
+            "length": 7
+          }
+        },
+        {
+          "content": "Principes",
+          "polygon": [
+            1.2729,
+            7.3663,
+            1.8397,
+            7.3682,
+            1.8392,
+            7.522,
+            1.2727,
+            7.5227
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 939,
+            "length": 9
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            1.8819,
+            7.3682,
+            2.0005,
+            7.3684,
+            1.9999,
+            7.5219,
+            1.8814,
+            7.522
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 949,
+            "length": 2
+          }
+        },
+        {
+          "content": "consignes",
+          "polygon": [
+            2.0374,
+            7.3685,
+            2.6596,
+            7.3695,
+            2.6587,
+            7.5216,
+            2.0368,
+            7.5219
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 952,
+            "length": 9
+          }
+        },
+        {
+          "content": "pour",
+          "polygon": [
+            2.6939,
+            7.3694,
+            2.9681,
+            7.3693,
+            2.967,
+            7.5216,
+            2.693,
+            7.5216
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 962,
+            "length": 4
+          }
+        },
+        {
+          "content": "une",
+          "polygon": [
+            2.9997,
+            7.3693,
+            3.2422,
+            7.3692,
+            3.2411,
+            7.5216,
+            2.9987,
+            7.5216
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 967,
+            "length": 3
+          }
+        },
+        {
+          "content": "utilisation",
+          "polygon": [
+            3.2897,
+            7.3692,
+            3.8591,
+            7.3683,
+            3.8577,
+            7.522,
+            3.2885,
+            7.5216
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 971,
+            "length": 11
+          }
+        },
+        {
+          "content": "responsable",
+          "polygon": [
+            3.9013,
+            7.3682,
+            4.6527,
+            7.3659,
+            4.6509,
+            7.5228,
+            3.8999,
+            7.522
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 983,
+            "length": 11
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            4.6975,
+            7.3657,
+            4.8478,
+            7.365,
+            4.8458,
+            7.5231,
+            4.6956,
+            7.5229
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 995,
+            "length": 2
+          }
+        },
+        {
+          "content": "l'intelligence",
+          "polygon": [
+            4.8899,
+            7.3648,
+            5.636,
+            7.3608,
+            5.6337,
+            7.5246,
+            4.888,
+            7.5232
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 998,
+            "length": 14
+          }
+        },
+        {
+          "content": "artificielle",
+          "polygon": [
+            5.6808,
+            7.3605,
+            6.2529,
+            7.3566,
+            6.2503,
+            7.526,
+            5.6785,
+            7.5247
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1013,
+            "length": 12
+          }
+        },
+        {
+          "content": "(K.",
+          "polygon": [
+            6.3056,
+            7.3563,
+            6.4691,
+            7.3549,
+            6.4664,
+            7.5267,
+            6.303,
+            7.5261
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1026,
+            "length": 3
+          }
+        },
+        {
+          "content": "Malas,",
+          "polygon": [
+            6.5218,
+            7.3544,
+            6.9172,
+            7.3509,
+            6.9144,
+            7.528,
+            6.5191,
+            7.5269
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1030,
+            "length": 6
+          }
+        },
+        {
+          "content": "Éd.).",
+          "polygon": [
+            6.97,
+            7.3504,
+            7.2632,
+            7.3479,
+            7.2632,
+            7.5291,
+            6.9671,
+            7.5282
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1037,
+            "length": 5
+          }
+        },
+        {
+          "content": "Centre",
+          "polygon": [
+            0.7811,
+            7.5514,
+            1.1879,
+            7.552,
+            1.1879,
+            7.7078,
+            0.7811,
+            7.7096
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1043,
+            "length": 6
+          }
+        },
+        {
+          "content": "intégré",
+          "polygon": [
+            1.2184,
+            7.552,
+            1.6633,
+            7.5524,
+            1.6633,
+            7.706,
+            1.2184,
+            7.7076
+          ],
+          "confidence": 0.736,
+          "span": {
+            "offset": 1050,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.7091,
+            7.5525,
+            1.8591,
+            7.5525,
+            1.8591,
+            7.7055,
+            1.7091,
+            7.7059
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1058,
+            "length": 2
+          }
+        },
+        {
+          "content": "santé",
+          "polygon": [
+            1.9023,
+            7.5526,
+            2.2353,
+            7.5527,
+            2.2353,
+            7.7046,
+            1.9023,
+            7.7053
+          ],
+          "confidence": 0.813,
+          "span": {
+            "offset": 1061,
+            "length": 5
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            2.2811,
+            7.5527,
+            2.393,
+            7.5527,
+            2.393,
+            7.7044,
+            2.2811,
+            7.7046
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1067,
+            "length": 2
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.4336,
+            7.5527,
+            2.5836,
+            7.5527,
+            2.5836,
+            7.7042,
+            2.4336,
+            7.7044
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1070,
+            "length": 2
+          }
+        },
+        {
+          "content": "services",
+          "polygon": [
+            2.6294,
+            7.5527,
+            3.1302,
+            7.5523,
+            3.1302,
+            7.7041,
+            2.6294,
+            7.7041
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1073,
+            "length": 8
+          }
+        },
+        {
+          "content": "sociaux",
+          "polygon": [
+            3.176,
+            7.5523,
+            3.6438,
+            7.5518,
+            3.6438,
+            7.7047,
+            3.176,
+            7.7041
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1082,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            3.6845,
+            7.5517,
+            3.8217,
+            7.5515,
+            3.8217,
+            7.705,
+            3.6845,
+            7.7048
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1090,
+            "length": 2
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            3.8522,
+            7.5515,
+            3.9768,
+            7.5513,
+            3.9768,
+            7.7054,
+            3.8522,
+            7.705
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1093,
+            "length": 2
+          }
+        },
+        {
+          "content": "Montérégie-Ouest.",
+          "polygon": [
+            4.0277,
+            7.5512,
+            5.186,
+            7.5485,
+            5.186,
+            7.7102,
+            4.0277,
+            7.7055
+          ],
+          "confidence": 0.774,
+          "span": {
+            "offset": 1096,
+            "length": 17
+          }
+        },
+        {
+          "content": "Dernière",
+          "polygon": [
+            0.7803,
+            8.0042,
+            1.3187,
+            8.0051,
+            1.3145,
+            8.1736,
+            0.7761,
+            8.1724
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 1114,
+            "length": 8
+          }
+        },
+        {
+          "content": "mise",
+          "polygon": [
+            1.3684,
+            8.0052,
+            1.6528,
+            8.005,
+            1.6486,
+            8.1736,
+            1.3642,
+            8.1736
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1123,
+            "length": 4
+          }
+        },
+        {
+          "content": "à",
+          "polygon": [
+            1.697,
+            8.0049,
+            1.7661,
+            8.0048,
+            1.7618,
+            8.1736,
+            1.6928,
+            8.1736
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 1128,
+            "length": 1
+          }
+        },
+        {
+          "content": "jour",
+          "polygon": [
+            1.8019,
+            8.0047,
+            2.0284,
+            8.0041,
+            2.0241,
+            8.1736,
+            1.7977,
+            8.1736
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1130,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            2.0615,
+            8.004,
+            2.1112,
+            8.0038,
+            2.1069,
+            8.1732,
+            2.0572,
+            8.1736
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1135,
+            "length": 1
+          }
+        },
+        {
+          "content": "2025-04-09",
+          "polygon": [
+            2.1609,
+            8.0037,
+            2.8795,
+            7.9995,
+            2.8795,
+            8.1621,
+            2.1566,
+            8.1728
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1137,
+            "length": 10
+          }
+        },
+        {
+          "content": "Centre",
+          "polygon": [
+            0.4776,
+            9.9852,
+            0.7912,
+            9.9844,
+            0.7895,
+            10.085,
+            0.4745,
+            10.0845
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1148,
+            "length": 6
+          }
+        },
+        {
+          "content": "intégré",
+          "polygon": [
+            0.819,
+            9.9844,
+            1.1699,
+            9.9881,
+            1.1699,
+            10.0856,
+            0.8174,
+            10.085
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 1155,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            0.4716,
+            10.0733,
+            0.6012,
+            10.0747,
+            0.5971,
+            10.1693,
+            0.4656,
+            10.1693
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1163,
+            "length": 2
+          }
+        },
+        {
+          "content": "santé",
+          "polygon": [
+            0.6306,
+            10.0751,
+            0.8915,
+            10.0777,
+            0.8915,
+            10.169,
+            0.6268,
+            10.1693
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1166,
+            "length": 5
+          }
+        },
+        {
+          "content": "et",
+          "polygon": [
+            0.4755,
+            10.1655,
+            0.5813,
+            10.1643,
+            0.5783,
+            10.2634,
+            0.4724,
+            10.2634
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1172,
+            "length": 2
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            0.6082,
+            10.1639,
+            0.722,
+            10.1631,
+            0.7189,
+            10.2631,
+            0.6052,
+            10.2634
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 1175,
+            "length": 2
+          }
+        },
+        {
+          "content": "services",
+          "polygon": [
+            0.7488,
+            10.163,
+            1.1138,
+            10.1635,
+            1.1108,
+            10.2607,
+            0.7458,
+            10.263
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 1178,
+            "length": 8
+          }
+        },
+        {
+          "content": "sociaux",
+          "polygon": [
+            1.1375,
+            10.1637,
+            1.4947,
+            10.1684,
+            1.4947,
+            10.2559,
+            1.1345,
+            10.2604
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1187,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            0.4746,
+            10.2494,
+            0.6002,
+            10.2493,
+            0.5969,
+            10.348,
+            0.4715,
+            10.3473
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 1195,
+            "length": 2
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            0.6305,
+            10.2493,
+            0.71,
+            10.2494,
+            0.7063,
+            10.3485,
+            0.627,
+            10.3482
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1198,
+            "length": 2
+          }
+        },
+        {
+          "content": "Montérégie-Ouest",
+          "polygon": [
+            0.7402,
+            10.2495,
+            1.5758,
+            10.2556,
+            1.5756,
+            10.347,
+            0.7365,
+            10.3486
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 1201,
+            "length": 16
+          }
+        },
+        {
+          "content": "Québec",
+          "polygon": [
+            0.772,
+            10.3568,
+            1.5902,
+            10.3688,
+            1.5902,
+            10.5825,
+            0.7635,
+            10.5894
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1218,
+            "length": 6
+          }
+        },
+        {
+          "content": "f",
+          "polygon": [
+            2.3828,
+            10.3411,
+            2.5643,
+            10.346,
+            2.5639,
+            10.5321,
+            2.3781,
+            10.5271
+          ],
+          "confidence": 0.749,
+          "span": {
+            "offset": 1225,
+            "length": 1
+          }
+        },
+        {
+          "content": "in",
+          "polygon": [
+            2.6312,
+            10.365,
+            2.7983,
+            10.365,
+            2.7983,
+            10.5226,
+            2.6312,
+            10.5226
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1227,
+            "length": 2
+          }
+        },
+        {
+          "content": "santemonteregie.qc.ca/ouest",
+          "polygon": [
+            3.3063,
+            10.4266,
+            5.1621,
+            10.4193,
+            5.161,
+            10.5942,
+            3.2978,
+            10.5879
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1230,
+            "length": 27
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Les personnes ayant participé à l'élaboration de ce document sont identifiées dans la section « Historique du",
+          "polygon": [
+            0.7784,
+            4.8268,
+            7.4876,
+            4.822,
+            7.4876,
+            4.9748,
+            0.7784,
+            4.9844
+          ],
+          "spans": [
+            {
+              "offset": 118,
+              "length": 109
+            }
+          ]
+        },
+        {
+          "content": "document ».",
+          "polygon": [
+            0.7784,
+            5.0035,
+            1.552,
+            5.0035,
+            1.552,
+            5.1372,
+            0.7784,
+            5.1372
+          ],
+          "spans": [
+            {
+              "offset": 228,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Principes et consignes pour une utilisation responsable des outils d'intelligence artificielle @ 2025 par Centre",
+          "polygon": [
+            0.7831,
+            5.3472,
+            7.4447,
+            5.3424,
+            7.4447,
+            5.4952,
+            0.7831,
+            5.4952
+          ],
+          "spans": [
+            {
+              "offset": 240,
+              "length": 112
+            }
+          ]
+        },
+        {
+          "content": "intégré de santé et de services sociaux de la Montérégie-Ouest est mis à disposition selon les termes de la",
+          "polygon": [
+            0.7736,
+            5.5286,
+            7.3683,
+            5.5286,
+            7.3683,
+            5.6814,
+            0.7736,
+            5.6814
+          ],
+          "spans": [
+            {
+              "offset": 353,
+              "length": 107
+            }
+          ]
+        },
+        {
+          "content": "licence CC BY-NC-ND 4.0",
+          "polygon": [
+            0.7831,
+            5.7101,
+            2.4115,
+            5.7101,
+            2.4115,
+            5.8485,
+            0.7831,
+            5.8485
+          ],
+          "spans": [
+            {
+              "offset": 461,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "CO",
+          "polygon": [
+            2.5787,
+            5.7578,
+            2.6742,
+            5.7626,
+            2.6742,
+            5.8342,
+            2.5787,
+            5.8294
+          ],
+          "spans": [
+            {
+              "offset": 485,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Pour plus d'informations sur cette licence, cliquez ici.",
+          "polygon": [
+            3.2424,
+            5.7148,
+            6.4944,
+            5.7101,
+            6.4944,
+            5.8581,
+            3.2424,
+            5.8676
+          ],
+          "spans": [
+            {
+              "offset": 488,
+              "length": 56
+            }
+          ]
+        },
+        {
+          "content": "BY",
+          "polygon": [
+            2.7601,
+            5.8581,
+            2.8222,
+            5.8581,
+            2.8222,
+            5.901,
+            2.7601,
+            5.901
+          ],
+          "spans": [
+            {
+              "offset": 545,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "NC",
+          "polygon": [
+            2.8556,
+            5.8533,
+            2.9559,
+            5.8533,
+            2.9559,
+            5.901,
+            2.8556,
+            5.901
+          ],
+          "spans": [
+            {
+              "offset": 548,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ND",
+          "polygon": [
+            3.0132,
+            5.8485,
+            3.0848,
+            5.8533,
+            3.0848,
+            5.9058,
+            3.0084,
+            5.9058
+          ],
+          "spans": [
+            {
+              "offset": 551,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ISBN : 978-2-555-00965-3 (1e édition, 2025)",
+          "polygon": [
+            0.7784,
+            6.0777,
+            3.5194,
+            6.0777,
+            3.5194,
+            6.2305,
+            0.7784,
+            6.2209
+          ],
+          "spans": [
+            {
+              "offset": 554,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "Dépôt légal - Bibliothèque et Archives nationales du Québec, 2025",
+          "polygon": [
+            0.7736,
+            6.2639,
+            4.8899,
+            6.2591,
+            4.8899,
+            6.4071,
+            0.7736,
+            6.4119
+          ],
+          "spans": [
+            {
+              "offset": 598,
+              "length": 65
+            }
+          ]
+        },
+        {
+          "content": "Montréal, Québec",
+          "polygon": [
+            0.7831,
+            6.4405,
+            1.9006,
+            6.4405,
+            1.9006,
+            6.6029,
+            0.7831,
+            6.6029
+          ],
+          "spans": [
+            {
+              "offset": 664,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Suggestion de citation :",
+          "polygon": [
+            0.7736,
+            6.8177,
+            2.2205,
+            6.8177,
+            2.2205,
+            6.9562,
+            0.7736,
+            6.9657
+          ],
+          "spans": [
+            {
+              "offset": 681,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "Nacked Cabral, U., Jobin, A., Arnott, P., Besombes, S., Bourassa-Fulop, C., Caputo, L., Clayberg, K. A., Girard,",
+          "polygon": [
+            0.7831,
+            6.9944,
+            7.65,
+            6.9944,
+            7.65,
+            7.1519,
+            0.7831,
+            7.1471
+          ],
+          "spans": [
+            {
+              "offset": 706,
+              "length": 112
+            }
+          ]
+        },
+        {
+          "content": "J., Jean-Baptiste, H., Larivière, S., Prud'homme, J., St-Jean, C., Szczypiorski, G., Trépanier, G., & Malas, K.",
+          "polygon": [
+            0.7736,
+            7.1806,
+            7.4303,
+            7.1806,
+            7.4303,
+            7.3381,
+            0.7736,
+            7.3381
+          ],
+          "spans": [
+            {
+              "offset": 819,
+              "length": 111
+            }
+          ]
+        },
+        {
+          "content": "(2025). Principes et consignes pour une utilisation responsable de l'intelligence artificielle (K. Malas, Éd.).",
+          "polygon": [
+            0.7831,
+            7.3524,
+            7.2584,
+            7.3477,
+            7.2584,
+            7.5243,
+            0.7831,
+            7.5291
+          ],
+          "spans": [
+            {
+              "offset": 931,
+              "length": 111
+            }
+          ]
+        },
+        {
+          "content": "Centre intégré de santé et de services sociaux de la Montérégie-Ouest.",
+          "polygon": [
+            0.7784,
+            7.5482,
+            5.1812,
+            7.5482,
+            5.1812,
+            7.7057,
+            0.7784,
+            7.7057
+          ],
+          "spans": [
+            {
+              "offset": 1043,
+              "length": 70
+            }
+          ]
+        },
+        {
+          "content": "Dernière mise à jour : 2025-04-09",
+          "polygon": [
+            0.7736,
+            8.0017,
+            2.8747,
+            7.997,
+            2.8747,
+            8.1641,
+            0.7736,
+            8.1736
+          ],
+          "spans": [
+            {
+              "offset": 1114,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Centre intégré",
+          "polygon": [
+            0.4728,
+            9.9831,
+            1.1652,
+            9.9831,
+            1.1652,
+            10.0833,
+            0.4728,
+            10.0786
+          ],
+          "spans": [
+            {
+              "offset": 1148,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "de santé",
+          "polygon": [
+            0.4632,
+            10.069,
+            0.8882,
+            10.0738,
+            0.8882,
+            10.1645,
+            0.4632,
+            10.1645
+          ],
+          "spans": [
+            {
+              "offset": 1163,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "et de services sociaux",
+          "polygon": [
+            0.468,
+            10.1597,
+            1.4899,
+            10.1597,
+            1.4899,
+            10.2552,
+            0.468,
+            10.26
+          ],
+          "spans": [
+            {
+              "offset": 1172,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "de la Montérégie-Ouest",
+          "polygon": [
+            0.468,
+            10.2457,
+            1.5711,
+            10.2504,
+            1.5711,
+            10.3459,
+            0.468,
+            10.3459
+          ],
+          "spans": [
+            {
+              "offset": 1195,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "Québec",
+          "polygon": [
+            0.7593,
+            10.3555,
+            1.5854,
+            10.3555,
+            1.5854,
+            10.5846,
+            0.7593,
+            10.5846
+          ],
+          "spans": [
+            {
+              "offset": 1218,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "f",
+          "polygon": [
+            2.3829,
+            10.3411,
+            2.5596,
+            10.3507,
+            2.5596,
+            10.5273,
+            2.3781,
+            10.5273
+          ],
+          "spans": [
+            {
+              "offset": 1225,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "in",
+          "polygon": [
+            2.636,
+            10.365,
+            2.7935,
+            10.365,
+            2.7888,
+            10.5226,
+            2.6312,
+            10.5226
+          ],
+          "spans": [
+            {
+              "offset": 1227,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "santemonteregie.qc.ca/ouest",
+          "polygon": [
+            3.2949,
+            10.4175,
+            5.1573,
+            10.4175,
+            5.1573,
+            10.5894,
+            3.2949,
+            10.5894
+          ],
+          "spans": [
+            {
+              "offset": 1230,
+              "length": 27
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 118,
+          "length": 1139
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 86
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1.1604,
+            0.7639,
+            7.373,
+            0.7639,
+            7.373,
+            1.4848,
+            1.1604,
+            1.4848
+          ]
+        }
+      ],
+      "content": "Principes et consignes pour une utilisation responsable de l'intelligence artificielle"
+    },
+    {
+      "spans": [
+        {
+          "offset": 87,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0.9209,
+            9.6966,
+            3.022,
+            9.6871,
+            3.0228,
+            9.8446,
+            0.9216,
+            9.8542
+          ]
+        }
+      ],
+      "content": "Image générée par DALL-E, 2025"
+    },
+    {
+      "spans": [
+        {
+          "offset": 118,
+          "length": 121
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7781,
+            4.8268,
+            7.4876,
+            4.822,
+            7.4879,
+            5.1329,
+            0.7784,
+            5.1377
+          ]
+        }
+      ],
+      "content": "Les personnes ayant participé à l'élaboration de ce document sont identifiées dans la section « Historique du document »."
+    },
+    {
+      "spans": [
+        {
+          "offset": 240,
+          "length": 304
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7734,
+            5.3472,
+            7.4447,
+            5.3424,
+            7.445,
+            5.8646,
+            0.7737,
+            5.8694
+          ]
+        }
+      ],
+      "content": "Principes et consignes pour une utilisation responsable des outils d'intelligence artificielle @ 2025 par Centre intégré de santé et de services sociaux de la Montérégie-Ouest est mis à disposition selon les termes de la licence CC BY-NC-ND 4.0 CO Pour plus d'informations sur cette licence, cliquez ici."
+    },
+    {
+      "spans": [
+        {
+          "offset": 545,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            2.7601,
+            5.8485,
+            3.0848,
+            5.8485,
+            3.0848,
+            5.9058,
+            2.7601,
+            5.9058
+          ]
+        }
+      ],
+      "content": "BY NC ND"
+    },
+    {
+      "spans": [
+        {
+          "offset": 554,
+          "length": 126
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7736,
+            6.0777,
+            4.8899,
+            6.0777,
+            4.8899,
+            6.6029,
+            0.7736,
+            6.6029
+          ]
+        }
+      ],
+      "content": "ISBN : 978-2-555-00965-3 (1e édition, 2025) Dépôt légal - Bibliothèque et Archives nationales du Québec, 2025 Montréal, Québec"
+    },
+    {
+      "spans": [
+        {
+          "offset": 681,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7736,
+            6.8177,
+            2.2205,
+            6.8177,
+            2.2205,
+            6.9657,
+            0.7736,
+            6.9657
+          ]
+        }
+      ],
+      "content": "Suggestion de citation :"
+    },
+    {
+      "spans": [
+        {
+          "offset": 706,
+          "length": 407
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7736,
+            6.9944,
+            7.65,
+            6.9944,
+            7.65,
+            7.7057,
+            0.7736,
+            7.7057
+          ]
+        }
+      ],
+      "content": "Nacked Cabral, U., Jobin, A., Arnott, P., Besombes, S., Bourassa-Fulop, C., Caputo, L., Clayberg, K. A., Girard, J., Jean-Baptiste, H., Larivière, S., Prud'homme, J., St-Jean, C., Szczypiorski, G., Trépanier, G., & Malas, K. (2025). Principes et consignes pour une utilisation responsable de l'intelligence artificielle (K. Malas, Éd.). Centre intégré de santé et de services sociaux de la Montérégie-Ouest."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1114,
+          "length": 33
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.7732,
+            8.0017,
+            2.8747,
+            7.997,
+            2.8751,
+            8.1688,
+            0.7736,
+            8.1736
+          ]
+        }
+      ],
+      "content": "Dernière mise à jour : 2025-04-09"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1148,
+          "length": 76
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            0.4632,
+            9.9831,
+            1.5854,
+            9.9831,
+            1.5854,
+            10.5846,
+            0.4632,
+            10.5846
+          ]
+        }
+      ],
+      "content": "Centre intégré de santé et de services sociaux de la Montérégie-Ouest Québec"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1225,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            2.3829,
+            10.3411,
+            2.5642,
+            10.3458,
+            2.5594,
+            10.532,
+            2.3781,
+            10.5273
+          ]
+        }
+      ],
+      "content": "f"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1227,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            2.6361,
+            10.3602,
+            2.7935,
+            10.365,
+            2.7886,
+            10.5273,
+            2.6312,
+            10.5226
+          ]
+        }
+      ],
+      "content": "in"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1230,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 2,
+          "polygon": [
+            3.2949,
+            10.4175,
+            5.1573,
+            10.4175,
+            5.1573,
+            10.5894,
+            3.2949,
+            10.5894
+          ]
+        }
+      ],
+      "content": "santemonteregie.qc.ca/ouest"
+    }
+  ],
+  "styles": [],
+  "contentFormat": "text"
+}

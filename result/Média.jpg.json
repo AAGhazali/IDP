@@ -1,0 +1,1593 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-invoice",
+  "stringIndexType": "textElements",
+  "content": "GAM BILLETTERIE\n1717 RUE BERRI\nMONTREAL, QC H2L4E9\n(514) 842-2281\nVENTE\nNo Commis: 000021\nNo. REF: 00000040\nNo Lot: 153\nSEQ: 153001001040\n04/16/25\n17:11:20\nCODE APPR: 66188J\nMASTERCARD\n************ 3019SC\n*****\nMONTANT CAD $155.68\n00 - APPROUVE - 001\nMastercard\nAID: A0000000041010\nTVR: 00 00 00 80 01\nMERCI!\nCOPIE CLIENT",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -3.544300079345703,
+      "width": 1195,
+      "height": 2297,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "GAM",
+          "polygon": [
+            370,
+            240,
+            499,
+            237,
+            500,
+            303,
+            371,
+            305
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "BILLETTERIE",
+          "polygon": [
+            543,
+            236,
+            881,
+            220,
+            881,
+            287,
+            543,
+            302
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 4,
+            "length": 11
+          }
+        },
+        {
+          "content": "1717",
+          "polygon": [
+            369,
+            311,
+            500,
+            311,
+            500,
+            384,
+            369,
+            386
+          ],
+          "confidence": 0.66,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "RUE",
+          "polygon": [
+            541,
+            311,
+            647,
+            309,
+            648,
+            379,
+            542,
+            382
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 21,
+            "length": 3
+          }
+        },
+        {
+          "content": "BERRI",
+          "polygon": [
+            690,
+            308,
+            855,
+            301,
+            856,
+            369,
+            692,
+            377
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 25,
+            "length": 5
+          }
+        },
+        {
+          "content": "MONTREAL,",
+          "polygon": [
+            281,
+            400,
+            597,
+            391,
+            599,
+            460,
+            281,
+            468
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 31,
+            "length": 9
+          }
+        },
+        {
+          "content": "QC",
+          "polygon": [
+            641,
+            389,
+            724,
+            386,
+            726,
+            454,
+            643,
+            458
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 41,
+            "length": 2
+          }
+        },
+        {
+          "content": "H2L4E9",
+          "polygon": [
+            767,
+            383,
+            963,
+            370,
+            964,
+            437,
+            769,
+            451
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 44,
+            "length": 6
+          }
+        },
+        {
+          "content": "(514)",
+          "polygon": [
+            431,
+            478,
+            548,
+            473,
+            549,
+            548,
+            433,
+            554
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 51,
+            "length": 5
+          }
+        },
+        {
+          "content": "842-2281",
+          "polygon": [
+            591,
+            471,
+            816,
+            459,
+            816,
+            528,
+            593,
+            545
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 57,
+            "length": 8
+          }
+        },
+        {
+          "content": "VENTE",
+          "polygon": [
+            471,
+            637,
+            767,
+            620,
+            767,
+            695,
+            474,
+            711
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 66,
+            "length": 5
+          }
+        },
+        {
+          "content": "No",
+          "polygon": [
+            90,
+            806,
+            164,
+            802,
+            165,
+            871,
+            91,
+            874
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 72,
+            "length": 2
+          }
+        },
+        {
+          "content": "Commis:",
+          "polygon": [
+            210,
+            800,
+            422,
+            792,
+            423,
+            858,
+            211,
+            869
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 75,
+            "length": 7
+          }
+        },
+        {
+          "content": "000021",
+          "polygon": [
+            466,
+            790,
+            638,
+            781,
+            638,
+            845,
+            467,
+            856
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 83,
+            "length": 6
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            614,
+            862,
+            693,
+            856,
+            695,
+            918,
+            616,
+            921
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 90,
+            "length": 3
+          }
+        },
+        {
+          "content": "REF:",
+          "polygon": [
+            735,
+            853,
+            848,
+            844,
+            850,
+            906,
+            736,
+            915
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 94,
+            "length": 4
+          }
+        },
+        {
+          "content": "00000040",
+          "polygon": [
+            892,
+            841,
+            1140,
+            825,
+            1140,
+            889,
+            894,
+            904
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 99,
+            "length": 8
+          }
+        },
+        {
+          "content": "No",
+          "polygon": [
+            89,
+            967,
+            162,
+            964,
+            163,
+            1027,
+            90,
+            1030
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 108,
+            "length": 2
+          }
+        },
+        {
+          "content": "Lot:",
+          "polygon": [
+            208,
+            962,
+            302,
+            956,
+            303,
+            1018,
+            209,
+            1023
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 111,
+            "length": 4
+          }
+        },
+        {
+          "content": "153",
+          "polygon": [
+            347,
+            953,
+            430,
+            947,
+            430,
+            1010,
+            348,
+            1015
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 116,
+            "length": 3
+          }
+        },
+        {
+          "content": "SEQ:",
+          "polygon": [
+            628,
+            936,
+            753,
+            927,
+            755,
+            989,
+            630,
+            997
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 120,
+            "length": 4
+          }
+        },
+        {
+          "content": "153001001040",
+          "polygon": [
+            797,
+            925,
+            1138,
+            904,
+            1138,
+            967,
+            799,
+            987
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 125,
+            "length": 12
+          }
+        },
+        {
+          "content": "04/16/25",
+          "polygon": [
+            89,
+            1046,
+            313,
+            1032,
+            313,
+            1097,
+            90,
+            1112
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 138,
+            "length": 8
+          }
+        },
+        {
+          "content": "17:11:20",
+          "polygon": [
+            954,
+            993,
+            1138,
+            984,
+            1138,
+            1047,
+            956,
+            1056
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 147,
+            "length": 8
+          }
+        },
+        {
+          "content": "CODE",
+          "polygon": [
+            89,
+            1127,
+            255,
+            1115,
+            257,
+            1180,
+            91,
+            1192
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 156,
+            "length": 4
+          }
+        },
+        {
+          "content": "APPR:",
+          "polygon": [
+            299,
+            1112,
+            461,
+            1100,
+            463,
+            1165,
+            301,
+            1177
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 161,
+            "length": 5
+          }
+        },
+        {
+          "content": "66188J",
+          "polygon": [
+            504,
+            1097,
+            676,
+            1085,
+            676,
+            1148,
+            507,
+            1162
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 167,
+            "length": 6
+          }
+        },
+        {
+          "content": "MASTERCARD",
+          "polygon": [
+            87,
+            1208,
+            496,
+            1176,
+            497,
+            1240,
+            89,
+            1274
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 174,
+            "length": 10
+          }
+        },
+        {
+          "content": "************",
+          "polygon": [
+            90,
+            1282,
+            380,
+            1263,
+            382,
+            1328,
+            92,
+            1341
+          ],
+          "confidence": 0.522,
+          "span": {
+            "offset": 185,
+            "length": 12
+          }
+        },
+        {
+          "content": "3019SC",
+          "polygon": [
+            393,
+            1263,
+            581,
+            1247,
+            581,
+            1312,
+            395,
+            1327
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 198,
+            "length": 6
+          }
+        },
+        {
+          "content": "*****",
+          "polygon": [
+            1013,
+            1222,
+            1136,
+            1219,
+            1136,
+            1273,
+            1014,
+            1275
+          ],
+          "confidence": 0.536,
+          "span": {
+            "offset": 205,
+            "length": 5
+          }
+        },
+        {
+          "content": "MONTANT",
+          "polygon": [
+            90,
+            1465,
+            544,
+            1424,
+            546,
+            1502,
+            92,
+            1539
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 211,
+            "length": 7
+          }
+        },
+        {
+          "content": "CAD",
+          "polygon": [
+            608,
+            1418,
+            786,
+            1408,
+            787,
+            1488,
+            610,
+            1499
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 219,
+            "length": 3
+          }
+        },
+        {
+          "content": "$155.68",
+          "polygon": [
+            814,
+            1406,
+            1135,
+            1392,
+            1135,
+            1471,
+            815,
+            1486
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 223,
+            "length": 7
+          }
+        },
+        {
+          "content": "00",
+          "polygon": [
+            280,
+            1618,
+            344,
+            1613,
+            346,
+            1678,
+            283,
+            1683
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 231,
+            "length": 2
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            386,
+            1609,
+            407,
+            1607,
+            409,
+            1673,
+            388,
+            1675
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 234,
+            "length": 1
+          }
+        },
+        {
+          "content": "APPROUVE",
+          "polygon": [
+            450,
+            1603,
+            751,
+            1581,
+            753,
+            1648,
+            452,
+            1669
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 236,
+            "length": 8
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            793,
+            1579,
+            813,
+            1577,
+            814,
+            1644,
+            795,
+            1645
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 245,
+            "length": 1
+          }
+        },
+        {
+          "content": "001",
+          "polygon": [
+            857,
+            1575,
+            944,
+            1571,
+            944,
+            1637,
+            859,
+            1641
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 247,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mastercard",
+          "polygon": [
+            82,
+            1815,
+            392,
+            1785,
+            392,
+            1850,
+            84,
+            1881
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 251,
+            "length": 10
+          }
+        },
+        {
+          "content": "AID:",
+          "polygon": [
+            84,
+            1893,
+            192,
+            1882,
+            195,
+            1948,
+            86,
+            1959
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 262,
+            "length": 4
+          }
+        },
+        {
+          "content": "A0000000041010",
+          "polygon": [
+            236,
+            1877,
+            658,
+            1830,
+            658,
+            1895,
+            239,
+            1942
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 267,
+            "length": 14
+          }
+        },
+        {
+          "content": "TVR:",
+          "polygon": [
+            85,
+            1972,
+            219,
+            1958,
+            222,
+            2023,
+            88,
+            2037
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 282,
+            "length": 4
+          }
+        },
+        {
+          "content": "00",
+          "polygon": [
+            262,
+            1953,
+            323,
+            1947,
+            327,
+            2012,
+            266,
+            2019
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 287,
+            "length": 2
+          }
+        },
+        {
+          "content": "00",
+          "polygon": [
+            367,
+            1942,
+            427,
+            1935,
+            431,
+            2001,
+            370,
+            2007
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 290,
+            "length": 2
+          }
+        },
+        {
+          "content": "00",
+          "polygon": [
+            470,
+            1931,
+            529,
+            1924,
+            533,
+            1989,
+            473,
+            1996
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 293,
+            "length": 2
+          }
+        },
+        {
+          "content": "80",
+          "polygon": [
+            572,
+            1920,
+            630,
+            1913,
+            634,
+            1977,
+            576,
+            1984
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 296,
+            "length": 2
+          }
+        },
+        {
+          "content": "01",
+          "polygon": [
+            673,
+            1908,
+            731,
+            1902,
+            731,
+            1966,
+            677,
+            1973
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 299,
+            "length": 2
+          }
+        },
+        {
+          "content": "MERCI!",
+          "polygon": [
+            516,
+            2083,
+            701,
+            2061,
+            704,
+            2126,
+            520,
+            2146
+          ],
+          "confidence": 0.788,
+          "span": {
+            "offset": 302,
+            "length": 6
+          }
+        },
+        {
+          "content": "COPIE",
+          "polygon": [
+            407,
+            2236,
+            576,
+            2225,
+            578,
+            2286,
+            410,
+            2296
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 309,
+            "length": 5
+          }
+        },
+        {
+          "content": "CLIENT",
+          "polygon": [
+            618,
+            2221,
+            806,
+            2206,
+            808,
+            2271,
+            620,
+            2283
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 315,
+            "length": 6
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "GAM BILLETTERIE",
+          "polygon": [
+            370,
+            240,
+            879,
+            220,
+            881,
+            289,
+            371,
+            305
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1717 RUE BERRI",
+          "polygon": [
+            368,
+            311,
+            854,
+            301,
+            855,
+            375,
+            369,
+            385
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "MONTREAL, QC H2L4E9",
+          "polygon": [
+            280,
+            400,
+            961,
+            370,
+            964,
+            443,
+            282,
+            468
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "(514) 842-2281",
+          "polygon": [
+            431,
+            478,
+            813,
+            459,
+            816,
+            534,
+            433,
+            553
+          ],
+          "spans": [
+            {
+              "offset": 51,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "VENTE",
+          "polygon": [
+            471,
+            637,
+            764,
+            620,
+            767,
+            695,
+            474,
+            711
+          ],
+          "spans": [
+            {
+              "offset": 66,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "No Commis: 000021",
+          "polygon": [
+            90,
+            806,
+            636,
+            781,
+            638,
+            848,
+            91,
+            874
+          ],
+          "spans": [
+            {
+              "offset": 72,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "No. REF: 00000040",
+          "polygon": [
+            613,
+            858,
+            1137,
+            825,
+            1140,
+            888,
+            616,
+            921
+          ],
+          "spans": [
+            {
+              "offset": 90,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "No Lot: 153",
+          "polygon": [
+            89,
+            968,
+            428,
+            947,
+            430,
+            1010,
+            90,
+            1030
+          ],
+          "spans": [
+            {
+              "offset": 108,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "SEQ: 153001001040",
+          "polygon": [
+            628,
+            934,
+            1136,
+            904,
+            1138,
+            966,
+            630,
+            996
+          ],
+          "spans": [
+            {
+              "offset": 120,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "04/16/25",
+          "polygon": [
+            88,
+            1047,
+            311,
+            1032,
+            313,
+            1098,
+            90,
+            1112
+          ],
+          "spans": [
+            {
+              "offset": 138,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "17:11:20",
+          "polygon": [
+            953,
+            993,
+            1135,
+            984,
+            1138,
+            1046,
+            956,
+            1056
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "CODE APPR: 66188J",
+          "polygon": [
+            88,
+            1127,
+            673,
+            1085,
+            676,
+            1148,
+            91,
+            1192
+          ],
+          "spans": [
+            {
+              "offset": 156,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "MASTERCARD",
+          "polygon": [
+            87,
+            1208,
+            494,
+            1175,
+            497,
+            1240,
+            89,
+            1274
+          ],
+          "spans": [
+            {
+              "offset": 174,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "************ 3019SC",
+          "polygon": [
+            90,
+            1281,
+            578,
+            1248,
+            581,
+            1313,
+            93,
+            1341
+          ],
+          "spans": [
+            {
+              "offset": 185,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "*****",
+          "polygon": [
+            1013,
+            1221,
+            1135,
+            1218,
+            1136,
+            1273,
+            1014,
+            1275
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "MONTANT CAD $155.68",
+          "polygon": [
+            89,
+            1452,
+            1132,
+            1392,
+            1135,
+            1470,
+            92,
+            1539
+          ],
+          "spans": [
+            {
+              "offset": 211,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "00 - APPROUVE - 001",
+          "polygon": [
+            280,
+            1613,
+            942,
+            1571,
+            944,
+            1636,
+            282,
+            1683
+          ],
+          "spans": [
+            {
+              "offset": 231,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "Mastercard",
+          "polygon": [
+            81,
+            1816,
+            389,
+            1785,
+            392,
+            1849,
+            84,
+            1880
+          ],
+          "spans": [
+            {
+              "offset": 251,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "AID: A0000000041010",
+          "polygon": [
+            83,
+            1893,
+            654,
+            1830,
+            658,
+            1895,
+            86,
+            1959
+          ],
+          "spans": [
+            {
+              "offset": 262,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "TVR: 00 00 00 80 01",
+          "polygon": [
+            84,
+            1972,
+            726,
+            1902,
+            731,
+            1967,
+            88,
+            2037
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "MERCI!",
+          "polygon": [
+            516,
+            2082,
+            700,
+            2061,
+            704,
+            2125,
+            520,
+            2146
+          ],
+          "spans": [
+            {
+              "offset": 302,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "COPIE CLIENT",
+          "polygon": [
+            407,
+            2233,
+            805,
+            2206,
+            808,
+            2270,
+            410,
+            2296
+          ],
+          "spans": [
+            {
+              "offset": 309,
+              "length": 12
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 321
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "styles": [],
+  "documents": [
+    {
+      "docType": "invoice",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0,
+            0,
+            1195,
+            0,
+            1195,
+            2297,
+            0,
+            2297
+          ]
+        }
+      ],
+      "fields": {
+        "InvoiceDate": {
+          "type": "date",
+          "valueDate": "2025-04-16",
+          "content": "04/16/25",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                89,
+                1046,
+                313,
+                1032,
+                313,
+                1097,
+                90,
+                1112
+              ]
+            }
+          ],
+          "confidence": 0.812,
+          "spans": [
+            {
+              "offset": 138,
+              "length": 8
+            }
+          ]
+        },
+        "InvoiceId": {
+          "type": "string",
+          "valueString": "00000040",
+          "content": "00000040",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                892,
+                841,
+                1140,
+                825,
+                1140,
+                889,
+                894,
+                904
+              ]
+            }
+          ],
+          "confidence": 0.267,
+          "spans": [
+            {
+              "offset": 99,
+              "length": 8
+            }
+          ]
+        },
+        "InvoiceTotal": {
+          "type": "currency",
+          "valueCurrency": {
+            "currencySymbol": "CAD",
+            "amount": 155.68,
+            "currencyCode": "CAD"
+          },
+          "content": "CAD $155.68",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                606,
+                1415,
+                1135,
+                1391,
+                1139,
+                1475,
+                610,
+                1499
+              ]
+            }
+          ],
+          "confidence": 0.439,
+          "spans": [
+            {
+              "offset": 219,
+              "length": 11
+            }
+          ]
+        },
+        "VendorAddress": {
+          "type": "address",
+          "content": "1717 RUE BERRI\nMONTREAL, QC H2L4E9",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                277,
+                313,
+                961,
+                295,
+                965,
+                450,
+                281,
+                469
+              ]
+            }
+          ],
+          "confidence": 0.818,
+          "spans": [
+            {
+              "offset": 16,
+              "length": 34
+            }
+          ],
+          "valueAddress": {
+            "houseNumber": "1717",
+            "road": "RUE BERRI",
+            "postalCode": "H2L4E9",
+            "city": "MONTREAL",
+            "state": "QC",
+            "streetAddress": "1717 RUE BERRI"
+          }
+        },
+        "VendorAddressRecipient": {
+          "type": "string",
+          "valueString": "GAM BILLETTERIE",
+          "content": "GAM BILLETTERIE",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                370,
+                230,
+                881,
+                220,
+                882,
+                296,
+                371,
+                305
+              ]
+            }
+          ],
+          "confidence": 0.886,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        "VendorName": {
+          "type": "string",
+          "valueString": "GAM BILLETTERIE",
+          "content": "GAM BILLETTERIE",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                370,
+                230,
+                881,
+                220,
+                882,
+                296,
+                371,
+                305
+              ]
+            }
+          ],
+          "confidence": 0.886,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        "VendorPhoneNumber": {
+          "type": "phoneNumber",
+          "valuePhoneNumber": "+15148422281",
+          "content": "(514) 842-2281",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                477,
+                816,
+                459,
+                820,
+                536,
+                433,
+                554
+              ]
+            }
+          ],
+          "confidence": 0.886,
+          "spans": [
+            {
+              "offset": 51,
+              "length": 14
+            }
+          ]
+        }
+      },
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 321
+        }
+      ]
+    }
+  ],
+  "contentFormat": "text"
+}
